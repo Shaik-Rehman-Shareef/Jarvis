@@ -1,0 +1,2 @@
+2025-08-22 14:08:39,697 - ERROR - Failed to initialize microphone: [Errno -9998] Invalid number of channels
+2025-08-22 14:08:42,227 - ERROR - Audio not available - starting in text-only mode

@@ -1,0 +1,3 @@
+2025-09-22 01:58:15,687 - ERROR - Error in listen loop: [Errno -9999] Unanticipated host error
+2025-09-22 18:35:46,576 - ERROR - Failed to initialize microphone: [Errno -9998] Invalid number of channels
+2025-09-22 18:35:47,995 - ERROR - Audio not available - starting in text-only mode

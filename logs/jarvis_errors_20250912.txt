@@ -1,0 +1,7 @@
+2025-09-12 00:02:57,009 - ERROR - Failed to initialize microphone: [Errno -9998] Invalid number of channels
+2025-09-12 00:02:58,082 - ERROR - Audio not available - starting in text-only mode
+2025-09-12 00:37:48,121 - ERROR - Failed to initialize microphone: [Errno -9998] Invalid number of channels
+2025-09-12 00:38:37,320 - ERROR - Failed to initialize microphone: [Errno -9998] Invalid number of channels
+2025-09-12 00:38:38,051 - ERROR - Audio not available - starting in text-only mode
+2025-09-12 13:02:42,266 - ERROR - Failed to initialize microphone: [Errno -9998] Invalid number of channels
+2025-09-12 13:02:43,358 - ERROR - Audio not available - starting in text-only mode

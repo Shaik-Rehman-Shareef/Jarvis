@@ -1,0 +1,1 @@
+2025-10-13 03:08:21,802 - ERROR - Error in listen loop: [Errno -9999] Unanticipated host error

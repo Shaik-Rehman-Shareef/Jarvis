@@ -1,0 +1,30 @@
+2025-08-11 21:19:34,788 - Using David's voice: Microsoft David Desktop - English (United States)
+2025-08-11 21:19:34,789 - Text-to-speech engine initialized with optimized audio output
+2025-08-11 21:19:50,192 - Whisper model loaded successfully
+2025-08-11 21:19:50,192 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-11 21:19:50,994 - Vosk speech recognition initialized
+2025-08-11 21:19:51,197 - Using working microphone device 2: Microsoft Sound Mapper - Output
+2025-08-11 21:19:52,214 - JARVIS Assistant started
+2025-08-11 21:19:52,215 - Starting JARVIS components...
+2025-08-11 21:19:52,227 - Activity monitoring started
+2025-08-11 21:19:52,235 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-11 21:19:52,241 - Started in text-only mode - audio input disabled
+2025-08-11 21:19:52,400 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-11 21:19:52,407 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-11 21:19:52,407 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-11 21:19:52,411 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-11 21:19:52,434 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-11 21:19:52,458 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-11 21:19:52,458 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-11 21:19:52,458 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-11 21:19:52,458 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-11 21:19:52,462 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-11 21:19:52,462 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-11 21:19:52,894 - System tray started
+2025-08-11 21:19:52,894 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-11 21:19:52,895 - JARVIS Assistant fully started
+2025-08-11 21:19:53,473 - System Event: SYSTEM_STATUS - System Status - CPU: 7.1%, Memory: 16.4%, Disk: 92.3%, Network: 0.17MB sent, 0.0MB received
+2025-08-11 21:20:01,496 - Quit requested from system tray
+2025-08-11 21:20:01,496 - Stopping JARVIS components...
+2025-08-11 21:20:01,496 - Stopped listening
+2025-08-11 21:20:01,496 - Speech recognition cleaned up

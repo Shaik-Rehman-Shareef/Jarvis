@@ -1,0 +1,77 @@
+2025-09-05 16:51:48,076 - Using David's voice: Microsoft David Desktop - English (United States)
+2025-09-05 16:51:48,078 - Text-to-speech engine initialized with optimized audio output
+2025-09-05 16:52:03,540 - Whisper model loaded successfully
+2025-09-05 16:52:03,540 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-09-05 16:52:04,415 - Vosk speech recognition initialized
+2025-09-05 16:52:04,608 - Using working microphone device 2: Microsoft Sound Mapper - Output
+2025-09-05 16:52:05,519 - JARVIS Assistant started
+2025-09-05 16:52:05,519 - Starting JARVIS components...
+2025-09-05 16:52:05,539 - Activity monitoring started
+2025-09-05 16:52:05,539 - Started in text-only mode - audio input disabled
+2025-09-05 16:52:06,157 - System tray started
+2025-09-05 16:52:06,158 - Speaking: JARVIS assistant is now active and ready for commands
+2025-09-05 16:52:06,158 - JARVIS Assistant fully started
+2025-09-05 16:52:06,719 - System Event: SYSTEM_STATUS - System Status - CPU: 7.9%, Memory: 14.6%, Disk: 93.3%, Network: 1.19MB sent, 2.3MB received
+2025-09-05 16:52:37,748 - System Event: SYSTEM_STATUS - System Status - CPU: 0.2%, Memory: 15.3%, Disk: 93.3%, Network: 1.39MB sent, 2.5MB received
+2025-09-05 16:53:08,760 - System Event: SYSTEM_STATUS - System Status - CPU: 0.2%, Memory: 15.1%, Disk: 93.3%, Network: 1.41MB sent, 2.52MB received
+2025-09-05 16:53:39,773 - System Event: SYSTEM_STATUS - System Status - CPU: 0.6%, Memory: 14.9%, Disk: 93.3%, Network: 1.44MB sent, 2.56MB received
+2025-09-05 16:54:10,784 - System Event: SYSTEM_STATUS - System Status - CPU: 0.0%, Memory: 14.8%, Disk: 93.3%, Network: 1.46MB sent, 2.57MB received
+2025-09-05 16:54:41,797 - System Event: SYSTEM_STATUS - System Status - CPU: 0.0%, Memory: 14.8%, Disk: 93.3%, Network: 1.47MB sent, 2.58MB received
+2025-09-05 16:55:12,811 - System Event: SYSTEM_STATUS - System Status - CPU: 2.0%, Memory: 14.8%, Disk: 93.3%, Network: 1.48MB sent, 2.59MB received
+2025-09-05 16:55:43,823 - System Event: SYSTEM_STATUS - System Status - CPU: 0.4%, Memory: 14.7%, Disk: 93.3%, Network: 1.49MB sent, 2.59MB received
+2025-09-05 16:56:14,836 - System Event: SYSTEM_STATUS - System Status - CPU: 0.6%, Memory: 14.7%, Disk: 93.3%, Network: 1.52MB sent, 2.63MB received
+2025-09-05 16:56:44,840 - System Event: PROCESS_STARTED - cmd.exe
+2025-09-05 16:56:45,852 - System Event: SYSTEM_STATUS - System Status - CPU: 0.2%, Memory: 14.9%, Disk: 93.3%, Network: 1.55MB sent, 2.68MB received
+2025-09-05 16:57:16,877 - System Event: SYSTEM_STATUS - System Status - CPU: 0.8%, Memory: 15.0%, Disk: 93.3%, Network: 1.57MB sent, 2.7MB received
+2025-09-05 16:57:47,890 - System Event: SYSTEM_STATUS - System Status - CPU: 2.2%, Memory: 14.9%, Disk: 93.3%, Network: 1.71MB sent, 3.64MB received
+2025-09-05 16:58:18,909 - System Event: SYSTEM_STATUS - System Status - CPU: 17.4%, Memory: 14.7%, Disk: 93.3%, Network: 2.18MB sent, 7.76MB received
+2025-09-05 16:58:49,923 - System Event: SYSTEM_STATUS - System Status - CPU: 1.2%, Memory: 14.7%, Disk: 93.3%, Network: 2.19MB sent, 7.76MB received
+2025-09-05 16:59:20,936 - System Event: SYSTEM_STATUS - System Status - CPU: 1.0%, Memory: 14.7%, Disk: 93.3%, Network: 2.21MB sent, 7.77MB received
+2025-09-05 16:59:51,948 - System Event: SYSTEM_STATUS - System Status - CPU: 0.4%, Memory: 14.7%, Disk: 93.3%, Network: 2.22MB sent, 7.78MB received
+2025-09-05 17:00:22,962 - System Event: SYSTEM_STATUS - System Status - CPU: 0.6%, Memory: 14.7%, Disk: 93.3%, Network: 2.23MB sent, 7.8MB received
+2025-09-05 17:00:53,975 - System Event: SYSTEM_STATUS - System Status - CPU: 1.4%, Memory: 14.7%, Disk: 93.3%, Network: 2.25MB sent, 7.82MB received
+2025-09-05 17:01:24,988 - System Event: SYSTEM_STATUS - System Status - CPU: 0.4%, Memory: 14.7%, Disk: 93.3%, Network: 2.26MB sent, 7.83MB received
+2025-09-05 17:01:56,006 - System Event: SYSTEM_STATUS - System Status - CPU: 0.2%, Memory: 14.7%, Disk: 93.3%, Network: 2.29MB sent, 7.86MB received
+2025-09-05 17:02:27,023 - System Event: SYSTEM_STATUS - System Status - CPU: 0.4%, Memory: 14.7%, Disk: 93.3%, Network: 2.29MB sent, 7.86MB received
+2025-09-05 17:02:58,036 - System Event: SYSTEM_STATUS - System Status - CPU: 0.8%, Memory: 14.7%, Disk: 93.3%, Network: 2.3MB sent, 7.87MB received
+2025-09-05 17:03:29,049 - System Event: SYSTEM_STATUS - System Status - CPU: 0.4%, Memory: 14.6%, Disk: 93.3%, Network: 2.32MB sent, 7.89MB received
+2025-09-05 17:04:00,061 - System Event: SYSTEM_STATUS - System Status - CPU: 0.0%, Memory: 14.6%, Disk: 93.3%, Network: 2.33MB sent, 7.9MB received
+2025-09-05 17:04:31,074 - System Event: SYSTEM_STATUS - System Status - CPU: 0.0%, Memory: 14.6%, Disk: 93.3%, Network: 2.33MB sent, 7.9MB received
+2025-09-05 17:05:02,099 - System Event: SYSTEM_STATUS - System Status - CPU: 0.2%, Memory: 14.8%, Disk: 93.3%, Network: 2.35MB sent, 7.92MB received
+2025-09-05 17:05:33,115 - System Event: SYSTEM_STATUS - System Status - CPU: 56.5%, Memory: 14.2%, Disk: 93.3%, Network: 2.43MB sent, 8.0MB received
+2025-09-05 21:58:53,617 - Using David's voice: Microsoft David Desktop - English (United States)
+2025-09-05 21:58:53,618 - Text-to-speech engine initialized with optimized audio output
+2025-09-05 21:59:09,402 - Whisper model loaded successfully
+2025-09-05 21:59:09,402 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-09-05 21:59:10,295 - Vosk speech recognition initialized
+2025-09-05 21:59:10,363 - Using working microphone device 2: Microsoft Sound Mapper - Output
+2025-09-05 21:59:11,522 - JARVIS Assistant started
+2025-09-05 21:59:11,522 - Starting JARVIS components...
+2025-09-05 21:59:11,544 - Activity monitoring started
+2025-09-05 21:59:11,575 - Started in text-only mode - audio input disabled
+2025-09-05 21:59:12,289 - System tray started
+2025-09-05 21:59:12,290 - Speaking: JARVIS assistant is now active and ready for commands
+2025-09-05 21:59:12,290 - JARVIS Assistant fully started
+2025-09-05 21:59:12,767 - System Event: SYSTEM_STATUS - System Status - CPU: 19.4%, Memory: 15.5%, Disk: 93.3%, Network: 4.64MB sent, 39.89MB received
+2025-09-05 21:59:42,770 - System Event: PROCESS_STARTED - Discord.exe
+2025-09-05 21:59:42,770 - System Event: PROCESS_STARTED - Discord.exe
+2025-09-05 21:59:42,775 - System Event: PROCESS_STARTED - Discord.exe
+2025-09-05 21:59:42,775 - System Event: PROCESS_STARTED - Discord.exe
+2025-09-05 21:59:42,775 - System Event: PROCESS_STARTED - Discord.exe
+2025-09-05 21:59:42,775 - System Event: PROCESS_STARTED - Discord.exe
+2025-09-05 21:59:43,786 - System Event: SYSTEM_STATUS - System Status - CPU: 1.2%, Memory: 17.3%, Disk: 93.1%, Network: 7.77MB sent, 91.84MB received
+2025-09-05 22:00:14,800 - System Event: SYSTEM_STATUS - System Status - CPU: 1.0%, Memory: 17.5%, Disk: 93.1%, Network: 7.98MB sent, 92.15MB received
+2025-09-05 22:00:45,812 - System Event: SYSTEM_STATUS - System Status - CPU: 2.1%, Memory: 17.3%, Disk: 93.1%, Network: 8.05MB sent, 92.2MB received
+2025-09-05 22:01:16,827 - System Event: SYSTEM_STATUS - System Status - CPU: 40.6%, Memory: 17.8%, Disk: 93.1%, Network: 8.51MB sent, 95.41MB received
+2025-09-05 22:01:47,839 - System Event: SYSTEM_STATUS - System Status - CPU: 0.4%, Memory: 17.5%, Disk: 93.1%, Network: 8.54MB sent, 95.45MB received
+2025-09-05 22:02:18,853 - System Event: SYSTEM_STATUS - System Status - CPU: 3.5%, Memory: 17.7%, Disk: 93.1%, Network: 8.63MB sent, 95.68MB received
+2025-09-05 22:02:49,868 - System Event: SYSTEM_STATUS - System Status - CPU: 6.1%, Memory: 17.6%, Disk: 93.1%, Network: 8.74MB sent, 95.79MB received
+2025-09-05 22:03:20,884 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 17.9%, Disk: 93.1%, Network: 9.1MB sent, 101.64MB received
+2025-09-05 22:03:50,888 - System Event: PROCESS_STARTED - cmd.exe
+2025-09-05 22:03:51,903 - System Event: SYSTEM_STATUS - System Status - CPU: 5.3%, Memory: 18.2%, Disk: 93.1%, Network: 9.45MB sent, 104.35MB received
+2025-09-05 22:04:22,919 - System Event: SYSTEM_STATUS - System Status - CPU: 12.2%, Memory: 18.4%, Disk: 93.1%, Network: 9.96MB sent, 104.65MB received
+2025-09-05 22:04:45,266 - Status requested: Listening for hotword | Monitoring active | Speaking
+2025-09-05 22:04:46,787 - Quit requested from system tray
+2025-09-05 22:04:46,788 - Stopping JARVIS components...
+2025-09-05 22:04:46,788 - Stopped listening
+2025-09-05 22:04:46,788 - Speech recognition cleaned up

@@ -1,0 +1,1942 @@
+2025-08-04 00:23:40,088 - Text-to-speech engine initialized
+2025-08-04 00:23:40,316 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 00:23:41,064 - Vosk speech recognition initialized
+2025-08-04 00:23:41,137 - Using working microphone device 4: Primary Sound Capture Driver
+2025-08-04 00:23:41,356 - Microphone initialized successfully
+2025-08-04 00:23:42,306 - JARVIS Assistant started
+2025-08-04 00:23:42,306 - Starting JARVIS components...
+2025-08-04 00:23:42,322 - Activity monitoring started
+2025-08-04 00:23:42,373 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:23:42,373 - Started listening for hotword
+2025-08-04 00:23:42,384 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:23:42,390 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:23:42,427 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:23:42,430 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:23:42,431 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:23:42,536 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:23:42,557 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:23:42,562 - System Event: PROCESS_STARTED - cmd.exe
+2025-08-04 00:23:42,582 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:23:42,585 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:23:42,585 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:23:42,589 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:23:42,601 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:23:42,615 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:23:42,615 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:23:42,616 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:23:42,616 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:23:42,621 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:23:42,621 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:23:42,625 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:23:42,625 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:23:42,632 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:23:42,640 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:23:42,640 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:23:42,643 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:23:42,643 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:23:42,653 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:23:42,654 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:23:42,655 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:23:42,656 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:23:42,730 - System tray started
+2025-08-04 00:23:42,751 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-04 00:23:42,752 - JARVIS Assistant fully started
+2025-08-04 00:23:43,671 - System Event: SYSTEM_STATUS - System Status - CPU: 17.8%, Memory: 31.6%, Disk: 94.8%, Network: 537.84MB sent, 8935.87MB received
+2025-08-04 00:24:14,690 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 31.4%, Disk: 94.8%, Network: 538.54MB sent, 8936.47MB received
+2025-08-04 00:24:45,707 - System Event: SYSTEM_STATUS - System Status - CPU: 20.6%, Memory: 31.6%, Disk: 94.8%, Network: 540.56MB sent, 8936.79MB received
+2025-08-04 00:25:21,991 - Text-to-speech engine initialized
+2025-08-04 00:25:22,204 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 00:25:22,911 - Vosk speech recognition initialized
+2025-08-04 00:25:22,985 - Using working microphone device 4: Primary Sound Capture Driver
+2025-08-04 00:25:23,191 - Microphone initialized successfully
+2025-08-04 00:25:24,133 - JARVIS Assistant started
+2025-08-04 00:25:24,134 - Starting JARVIS components...
+2025-08-04 00:25:24,151 - Activity monitoring started
+2025-08-04 00:25:24,183 - Audio capture loop started
+2025-08-04 00:25:24,199 - Speech recognition processing started
+2025-08-04 00:25:24,199 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:25:24,199 - Started listening for hotword
+2025-08-04 00:25:24,209 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:25:24,215 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:25:24,225 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:25:24,254 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:25:24,257 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:25:24,257 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:25:24,359 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:25:24,380 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:25:24,385 - System Event: PROCESS_STARTED - cmd.exe
+2025-08-04 00:25:24,403 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:25:24,403 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:25:24,406 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:25:24,407 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:25:24,409 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:25:24,422 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:25:24,437 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:25:24,438 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:25:24,438 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:25:24,439 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:25:24,443 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:25:24,444 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:25:24,448 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:25:24,449 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:25:24,457 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:25:24,466 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:25:24,466 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:25:24,469 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:25:24,469 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:25:24,476 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:25:24,477 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:25:24,477 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:25:24,550 - System tray started
+2025-08-04 00:25:24,570 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-04 00:25:24,571 - JARVIS Assistant fully started
+2025-08-04 00:25:24,891 - Speech result #1: ''
+2025-08-04 00:25:25,367 - Processed 100 audio chunks
+2025-08-04 00:25:25,492 - System Event: SYSTEM_STATUS - System Status - CPU: 18.0%, Memory: 31.7%, Disk: 94.8%, Network: 542.77MB sent, 8937.59MB received
+2025-08-04 00:25:25,542 - Speech result #2: ''
+2025-08-04 00:25:26,139 - Speech result #3: ''
+2025-08-04 00:25:26,446 - Processed 200 audio chunks
+2025-08-04 00:25:26,620 - Speech result #4: ''
+2025-08-04 00:25:27,108 - Speech result #5: ''
+2025-08-04 00:25:27,505 - Processed 300 audio chunks
+2025-08-04 00:25:27,531 - Speech result #6: ''
+2025-08-04 00:25:27,946 - Speech result #7: ''
+2025-08-04 00:25:28,492 - Speech result #8: ''
+2025-08-04 00:25:28,563 - Processed 400 audio chunks
+2025-08-04 00:25:28,967 - Speech result #9: ''
+2025-08-04 00:25:29,399 - Speech result #10: ''
+2025-08-04 00:25:29,630 - Processed 500 audio chunks
+2025-08-04 00:25:29,803 - Speech result #11: ''
+2025-08-04 00:25:30,209 - Speech result #12: ''
+2025-08-04 00:25:30,631 - Speech result #13: ''
+2025-08-04 00:25:30,711 - Processed 600 audio chunks
+2025-08-04 00:25:31,021 - Speech result #14: ''
+2025-08-04 00:25:31,432 - Speech result #15: ''
+2025-08-04 00:25:31,782 - Processed 700 audio chunks
+2025-08-04 00:25:31,856 - Speech result #16: ''
+2025-08-04 00:25:32,247 - Speech result #17: ''
+2025-08-04 00:25:32,662 - Speech result #18: ''
+2025-08-04 00:25:32,839 - Processed 800 audio chunks
+2025-08-04 00:25:33,074 - Speech result #19: ''
+2025-08-04 00:25:33,462 - Speech result #20: ''
+2025-08-04 00:25:33,886 - Speech result #21: ''
+2025-08-04 00:25:33,899 - Processed 900 audio chunks
+2025-08-04 00:25:34,257 - Speech result #22: ''
+2025-08-04 00:25:34,662 - Speech result #23: ''
+2025-08-04 00:25:34,964 - Processed 1000 audio chunks
+2025-08-04 00:25:35,036 - Speech result #24: ''
+2025-08-04 00:25:35,392 - Speech result #25: ''
+2025-08-04 00:25:35,779 - Speech result #26: ''
+2025-08-04 00:25:36,014 - Processed 1100 audio chunks
+2025-08-04 00:25:36,152 - Speech result #27: ''
+2025-08-04 00:25:36,523 - Speech result #28: ''
+2025-08-04 00:25:36,928 - Speech result #29: ''
+2025-08-04 00:25:37,065 - Processed 1200 audio chunks
+2025-08-04 00:25:37,350 - Speech result #30: ''
+2025-08-04 00:25:37,710 - Speech result #31: ''
+2025-08-04 00:25:38,079 - Speech result #32: ''
+2025-08-04 00:25:38,114 - Processed 1300 audio chunks
+2025-08-04 00:25:38,486 - Speech result #33: ''
+2025-08-04 00:25:38,889 - Speech result #34: ''
+2025-08-04 00:25:39,185 - Processed 1400 audio chunks
+2025-08-04 00:25:39,256 - Speech result #35: ''
+2025-08-04 00:25:39,653 - Speech result #36: ''
+2025-08-04 00:25:40,024 - Speech result #37: ''
+2025-08-04 00:25:40,238 - Processed 1500 audio chunks
+2025-08-04 00:25:40,395 - Speech result #38: ''
+2025-08-04 00:25:40,801 - Speech result #39: ''
+2025-08-04 00:25:41,181 - Speech result #40: ''
+2025-08-04 00:25:41,297 - Processed 1600 audio chunks
+2025-08-04 00:25:41,548 - Speech result #41: ''
+2025-08-04 00:25:41,927 - Speech result #42: ''
+2025-08-04 00:25:42,310 - Speech result #43: ''
+2025-08-04 00:25:42,362 - Processed 1700 audio chunks
+2025-08-04 00:25:42,730 - Speech result #44: ''
+2025-08-04 00:25:43,210 - Speech result #45: ''
+2025-08-04 00:25:43,449 - Processed 1800 audio chunks
+2025-08-04 00:25:43,601 - Speech result #46: ''
+2025-08-04 00:25:44,029 - Speech result #47: ''
+2025-08-04 00:25:44,416 - Speech result #48: ''
+2025-08-04 00:25:44,535 - Processed 1900 audio chunks
+2025-08-04 00:25:44,815 - Speech result #49: ''
+2025-08-04 00:25:45,193 - Speech result #50: ''
+2025-08-04 00:25:45,590 - Speech result #51: ''
+2025-08-04 00:25:45,599 - Processed 2000 audio chunks
+2025-08-04 00:25:45,954 - Speech result #52: ''
+2025-08-04 00:25:46,335 - Speech result #53: ''
+2025-08-04 00:25:46,658 - Processed 2100 audio chunks
+2025-08-04 00:25:46,702 - Speech result #54: ''
+2025-08-04 00:25:47,077 - Speech result #55: ''
+2025-08-04 00:25:47,452 - Speech result #56: ''
+2025-08-04 00:25:47,714 - Processed 2200 audio chunks
+2025-08-04 00:25:47,827 - Speech result #57: ''
+2025-08-04 00:25:48,191 - Speech result #58: ''
+2025-08-04 00:25:48,575 - Speech result #59: ''
+2025-08-04 00:25:48,773 - Processed 2300 audio chunks
+2025-08-04 00:25:48,959 - Speech result #60: ''
+2025-08-04 00:25:49,339 - Speech result #61: ''
+2025-08-04 00:25:49,754 - Speech result #62: ''
+2025-08-04 00:25:49,842 - Processed 2400 audio chunks
+2025-08-04 00:25:50,127 - Speech result #63: ''
+2025-08-04 00:25:50,494 - Speech result #64: ''
+2025-08-04 00:25:50,866 - Speech result #65: ''
+2025-08-04 00:25:50,895 - Processed 2500 audio chunks
+2025-08-04 00:25:51,248 - Speech result #66: ''
+2025-08-04 00:25:51,619 - Speech result #67: ''
+2025-08-04 00:25:51,948 - Processed 2600 audio chunks
+2025-08-04 00:25:52,008 - Speech result #68: ''
+2025-08-04 00:25:52,387 - Speech result #69: ''
+2025-08-04 00:25:52,759 - Speech result #70: ''
+2025-08-04 00:25:53,008 - Processed 2700 audio chunks
+2025-08-04 00:25:53,130 - Speech result #71: ''
+2025-08-04 00:25:53,521 - Speech result #72: ''
+2025-08-04 00:25:53,915 - Speech result #73: ''
+2025-08-04 00:25:54,092 - Processed 2800 audio chunks
+2025-08-04 00:25:54,287 - Speech result #74: ''
+2025-08-04 00:25:54,657 - Speech result #75: ''
+2025-08-04 00:25:55,025 - Speech result #76: ''
+2025-08-04 00:25:55,147 - Processed 2900 audio chunks
+2025-08-04 00:25:55,400 - Speech result #77: ''
+2025-08-04 00:25:55,818 - Speech result #78: ''
+2025-08-04 00:25:56,197 - Processed 3000 audio chunks
+2025-08-04 00:25:56,233 - Speech result #79: ''
+2025-08-04 00:25:56,510 - System Event: SYSTEM_STATUS - System Status - CPU: 13.4%, Memory: 31.9%, Disk: 94.8%, Network: 544.01MB sent, 8938.05MB received
+2025-08-04 00:25:56,614 - Speech result #80: ''
+2025-08-04 00:25:56,986 - Speech result #81: ''
+2025-08-04 00:25:57,250 - Processed 3100 audio chunks
+2025-08-04 00:25:57,356 - Speech result #82: ''
+2025-08-04 00:25:57,728 - Speech result #83: ''
+2025-08-04 00:25:58,099 - Speech result #84: ''
+2025-08-04 00:25:58,311 - Processed 3200 audio chunks
+2025-08-04 00:25:58,476 - Speech result #85: ''
+2025-08-04 00:25:58,871 - Speech result #86: ''
+2025-08-04 00:25:59,239 - Speech result #87: ''
+2025-08-04 00:25:59,374 - Processed 3300 audio chunks
+2025-08-04 00:25:59,619 - Speech result #88: ''
+2025-08-04 00:26:00,112 - Speech result #89: ''
+2025-08-04 00:26:00,446 - Processed 3400 audio chunks
+2025-08-04 00:26:00,483 - Speech result #90: ''
+2025-08-04 00:26:00,848 - Speech result #91: ''
+2025-08-04 00:26:01,251 - Speech result #92: ''
+2025-08-04 00:26:01,497 - Processed 3500 audio chunks
+2025-08-04 00:26:01,611 - Speech result #93: ''
+2025-08-04 00:26:01,979 - Speech result #94: ''
+2025-08-04 00:26:02,346 - Speech result #95: ''
+2025-08-04 00:26:02,546 - Processed 3600 audio chunks
+2025-08-04 00:26:02,776 - Speech result #96: ''
+2025-08-04 00:26:03,144 - Speech result #97: ''
+2025-08-04 00:26:03,568 - Speech result #98: ''
+2025-08-04 00:26:03,620 - Processed 3700 audio chunks
+2025-08-04 00:26:04,010 - Speech result #99: ''
+2025-08-04 00:26:04,371 - Speech result #100: ''
+2025-08-04 00:26:04,686 - Processed 3800 audio chunks
+2025-08-04 00:26:04,742 - Speech result #101: ''
+2025-08-04 00:26:05,110 - Speech result #102: ''
+2025-08-04 00:26:05,476 - Speech result #103: ''
+2025-08-04 00:26:05,750 - Processed 3900 audio chunks
+2025-08-04 00:26:05,859 - Speech result #104: ''
+2025-08-04 00:26:06,226 - Speech result #105: ''
+2025-08-04 00:26:06,599 - Speech result #106: ''
+2025-08-04 00:26:06,808 - Processed 4000 audio chunks
+2025-08-04 00:26:06,970 - Speech result #107: ''
+2025-08-04 00:26:07,340 - Speech result #108: ''
+2025-08-04 00:26:07,706 - Speech result #109: ''
+2025-08-04 00:26:07,861 - Processed 4100 audio chunks
+2025-08-04 00:26:08,074 - Speech result #110: ''
+2025-08-04 00:26:08,436 - Speech result #111: ''
+2025-08-04 00:26:08,807 - Speech result #112: ''
+2025-08-04 00:26:08,908 - Processed 4200 audio chunks
+2025-08-04 00:26:09,174 - Speech result #113: ''
+2025-08-04 00:26:09,539 - Speech result #114: ''
+2025-08-04 00:26:09,928 - Speech result #115: ''
+2025-08-04 00:26:09,964 - Processed 4300 audio chunks
+2025-08-04 00:26:10,305 - Speech result #116: ''
+2025-08-04 00:26:10,713 - Speech result #117: ''
+2025-08-04 00:26:11,050 - Processed 4400 audio chunks
+2025-08-04 00:26:11,078 - Speech result #118: ''
+2025-08-04 00:26:11,502 - Speech result #119: ''
+2025-08-04 00:26:11,853 - Speech result #120: ''
+2025-08-04 00:26:12,109 - Processed 4500 audio chunks
+2025-08-04 00:26:12,212 - Speech result #121: ''
+2025-08-04 00:26:12,578 - Speech result #122: ''
+2025-08-04 00:26:12,951 - Speech result #123: ''
+2025-08-04 00:26:13,167 - Processed 4600 audio chunks
+2025-08-04 00:26:13,319 - Speech result #124: ''
+2025-08-04 00:26:13,681 - Speech result #125: ''
+2025-08-04 00:26:14,049 - Speech result #126: ''
+2025-08-04 00:26:14,216 - Processed 4700 audio chunks
+2025-08-04 00:26:14,423 - Speech result #127: ''
+2025-08-04 00:26:14,791 - Speech result #128: ''
+2025-08-04 00:26:15,171 - Speech result #129: ''
+2025-08-04 00:26:15,266 - Processed 4800 audio chunks
+2025-08-04 00:26:15,534 - Speech result #130: ''
+2025-08-04 00:26:15,910 - Speech result #131: ''
+2025-08-04 00:26:16,316 - Speech result #132: ''
+2025-08-04 00:26:16,336 - Processed 4900 audio chunks
+2025-08-04 00:26:16,726 - Speech result #133: ''
+2025-08-04 00:26:17,105 - Speech result #134: ''
+2025-08-04 00:26:17,423 - Processed 5000 audio chunks
+2025-08-04 00:26:17,488 - Speech result #135: ''
+2025-08-04 00:26:17,888 - Speech result #136: ''
+2025-08-04 00:26:18,288 - Speech result #137: ''
+2025-08-04 00:26:18,515 - Processed 5100 audio chunks
+2025-08-04 00:26:18,669 - Speech result #138: ''
+2025-08-04 00:26:19,104 - Speech result #139: ''
+2025-08-04 00:26:19,594 - Speech result #140: ''
+2025-08-04 00:26:19,602 - Processed 5200 audio chunks
+2025-08-04 00:26:19,964 - Speech result #141: ''
+2025-08-04 00:26:20,323 - Speech result #142: ''
+2025-08-04 00:26:20,654 - Processed 5300 audio chunks
+2025-08-04 00:26:20,685 - Speech result #143: ''
+2025-08-04 00:26:21,064 - Speech result #144: ''
+2025-08-04 00:26:21,423 - Speech result #145: ''
+2025-08-04 00:26:21,707 - Processed 5400 audio chunks
+2025-08-04 00:26:21,790 - Speech result #146: ''
+2025-08-04 00:26:22,163 - Speech result #147: ''
+2025-08-04 00:26:22,549 - Speech result #148: ''
+2025-08-04 00:26:22,770 - Processed 5500 audio chunks
+2025-08-04 00:26:22,964 - Speech result #149: ''
+2025-08-04 00:26:23,398 - Speech result #150: ''
+2025-08-04 00:26:23,831 - Speech result #151: ''
+2025-08-04 00:26:23,856 - Processed 5600 audio chunks
+2025-08-04 00:26:24,212 - Speech result #152: ''
+2025-08-04 00:26:24,596 - Speech result #153: ''
+2025-08-04 00:26:24,915 - Processed 5700 audio chunks
+2025-08-04 00:26:25,070 - Speech result #154: ''
+2025-08-04 00:26:25,429 - Speech result #155: ''
+2025-08-04 00:26:25,877 - Speech result #156: ''
+2025-08-04 00:26:25,988 - Processed 5800 audio chunks
+2025-08-04 00:26:26,307 - Speech result #157: ''
+2025-08-04 00:26:26,707 - Speech result #158: ''
+2025-08-04 00:26:27,072 - Processed 5900 audio chunks
+2025-08-04 00:26:27,125 - Speech result #159: ''
+2025-08-04 00:26:27,587 - System Event: SYSTEM_STATUS - System Status - CPU: 55.2%, Memory: 31.9%, Disk: 94.8%, Network: 545.42MB sent, 8938.78MB received
+2025-08-04 00:26:27,790 - Speech result #160: ''
+2025-08-04 00:26:28,252 - Processed 6000 audio chunks
+2025-08-04 00:26:28,630 - Speech result #161: ''
+2025-08-04 00:26:29,176 - Speech result #162: ''
+2025-08-04 00:26:29,394 - Processed 6100 audio chunks
+2025-08-04 00:26:29,992 - Speech result #163: ''
+2025-08-04 00:26:30,500 - Processed 6200 audio chunks
+2025-08-04 00:26:30,509 - Speech result #164: ''
+2025-08-04 00:26:30,912 - Speech result #165: ''
+2025-08-04 00:26:31,316 - Speech result #166: ''
+2025-08-04 00:26:31,590 - Processed 6300 audio chunks
+2025-08-04 00:26:31,803 - Speech result #167: ''
+2025-08-04 00:26:32,178 - Speech result #168: ''
+2025-08-04 00:26:32,642 - Speech result #169: ''
+2025-08-04 00:26:32,679 - Processed 6400 audio chunks
+2025-08-04 00:26:33,037 - Speech result #170: ''
+2025-08-04 00:26:33,466 - Speech result #171: ''
+2025-08-04 00:26:33,771 - Processed 6500 audio chunks
+2025-08-04 00:26:33,853 - Speech result #172: ''
+2025-08-04 00:26:34,256 - Speech result #173: ''
+2025-08-04 00:26:34,639 - Speech result #174: ''
+2025-08-04 00:26:34,865 - Processed 6600 audio chunks
+2025-08-04 00:26:35,030 - Speech result #175: ''
+2025-08-04 00:26:35,419 - Speech result #176: ''
+2025-08-04 00:26:35,870 - Speech result #177: ''
+2025-08-04 00:26:35,955 - Processed 6700 audio chunks
+2025-08-04 00:26:36,248 - Speech result #178: ''
+2025-08-04 00:26:36,618 - Speech result #179: ''
+2025-08-04 00:26:37,010 - Speech result #180: ''
+2025-08-04 00:26:37,045 - Processed 6800 audio chunks
+2025-08-04 00:26:37,398 - Speech result #181: ''
+2025-08-04 00:26:37,775 - Speech result #182: ''
+2025-08-04 00:26:38,138 - Processed 6900 audio chunks
+2025-08-04 00:26:38,160 - Speech result #183: ''
+2025-08-04 00:26:38,527 - Speech result #184: ''
+2025-08-04 00:26:38,897 - Speech result #185: ''
+2025-08-04 00:26:39,226 - Processed 7000 audio chunks
+2025-08-04 00:26:39,291 - Speech result #186: ''
+2025-08-04 00:26:39,664 - Speech result #187: ''
+2025-08-04 00:26:40,038 - Speech result #188: ''
+2025-08-04 00:26:40,317 - Processed 7100 audio chunks
+2025-08-04 00:26:40,425 - Speech result #189: ''
+2025-08-04 00:26:40,793 - Speech result #190: ''
+2025-08-04 00:26:41,179 - Speech result #191: ''
+2025-08-04 00:26:41,407 - Processed 7200 audio chunks
+2025-08-04 00:26:41,569 - Speech result #192: ''
+2025-08-04 00:26:41,965 - Speech result #193: ''
+2025-08-04 00:26:42,345 - Speech result #194: ''
+2025-08-04 00:26:42,497 - Processed 7300 audio chunks
+2025-08-04 00:26:42,754 - Speech result #195: ''
+2025-08-04 00:26:43,152 - Speech result #196: ''
+2025-08-04 00:26:43,550 - Speech result #197: ''
+2025-08-04 00:26:43,589 - Processed 7400 audio chunks
+2025-08-04 00:26:43,940 - Speech result #198: ''
+2025-08-04 00:26:44,430 - Speech result #199: ''
+2025-08-04 00:26:44,681 - Processed 7500 audio chunks
+2025-08-04 00:26:44,921 - Speech result #200: ''
+2025-08-04 00:26:45,329 - Speech result #201: ''
+2025-08-04 00:26:45,706 - Speech result #202: ''
+2025-08-04 00:26:45,788 - Processed 7600 audio chunks
+2025-08-04 00:26:46,093 - Speech result #203: ''
+2025-08-04 00:26:46,473 - Speech result #204: ''
+2025-08-04 00:26:46,849 - Speech result #205: ''
+2025-08-04 00:26:46,875 - Processed 7700 audio chunks
+2025-08-04 00:26:47,229 - Speech result #206: ''
+2025-08-04 00:26:47,619 - Speech result #207: ''
+2025-08-04 00:26:47,965 - Processed 7800 audio chunks
+2025-08-04 00:26:48,014 - Speech result #208: ''
+2025-08-04 00:26:48,409 - Speech result #209: ''
+2025-08-04 00:26:48,799 - Speech result #210: ''
+2025-08-04 00:26:49,054 - Processed 7900 audio chunks
+2025-08-04 00:26:49,168 - Speech result #211: ''
+2025-08-04 00:26:49,547 - Speech result #212: ''
+2025-08-04 00:26:49,936 - Speech result #213: ''
+2025-08-04 00:26:50,142 - Processed 8000 audio chunks
+2025-08-04 00:26:50,326 - Speech result #214: ''
+2025-08-04 00:26:50,768 - Speech result #215: ''
+2025-08-04 00:26:51,196 - Speech result #216: ''
+2025-08-04 00:26:51,232 - Processed 8100 audio chunks
+2025-08-04 00:26:51,590 - Speech result #217: ''
+2025-08-04 00:26:52,324 - Processed 8200 audio chunks
+2025-08-04 00:26:53,262 - Speech result #218: 'huh'
+2025-08-04 00:26:53,263 - Checking for hotword in: 'huh'
+2025-08-04 00:26:53,415 - Processed 8300 audio chunks
+2025-08-04 00:26:54,211 - Speech result #219: 'huh'
+2025-08-04 00:26:54,211 - Checking for hotword in: 'huh'
+2025-08-04 00:26:54,503 - Processed 8400 audio chunks
+2025-08-04 00:26:55,596 - Processed 8500 audio chunks
+2025-08-04 00:26:55,768 - Speech result #220: 'huh'
+2025-08-04 00:26:55,768 - Checking for hotword in: 'huh'
+2025-08-04 00:26:56,164 - Speech result #221: ''
+2025-08-04 00:26:56,685 - Processed 8600 audio chunks
+2025-08-04 00:26:57,708 - Speech result #222: 'huh'
+2025-08-04 00:26:57,709 - Checking for hotword in: 'huh'
+2025-08-04 00:26:57,755 - Processed 8700 audio chunks
+2025-08-04 00:26:58,618 - System Event: SYSTEM_STATUS - System Status - CPU: 9.7%, Memory: 32.3%, Disk: 94.8%, Network: 546.4MB sent, 8939.33MB received
+2025-08-04 00:26:58,810 - Processed 8800 audio chunks
+2025-08-04 00:26:59,202 - Speech result #223: 'huh'
+2025-08-04 00:26:59,203 - Checking for hotword in: 'huh'
+2025-08-04 00:26:59,611 - Speech result #224: ''
+2025-08-04 00:26:59,862 - Processed 8900 audio chunks
+2025-08-04 00:26:59,962 - Speech result #225: ''
+2025-08-04 00:27:00,324 - Speech result #226: ''
+2025-08-04 00:27:00,693 - Speech result #227: ''
+2025-08-04 00:27:00,922 - Processed 9000 audio chunks
+2025-08-04 00:27:01,058 - Speech result #228: ''
+2025-08-04 00:27:01,459 - Speech result #229: ''
+2025-08-04 00:27:01,833 - Speech result #230: ''
+2025-08-04 00:27:02,007 - Processed 9100 audio chunks
+2025-08-04 00:27:02,205 - Speech result #231: ''
+2025-08-04 00:27:02,576 - Speech result #232: ''
+2025-08-04 00:27:02,935 - Speech result #233: ''
+2025-08-04 00:27:03,063 - Processed 9200 audio chunks
+2025-08-04 00:27:03,308 - Speech result #234: ''
+2025-08-04 00:27:03,697 - Speech result #235: ''
+2025-08-04 00:27:04,064 - Speech result #236: ''
+2025-08-04 00:27:04,133 - Processed 9300 audio chunks
+2025-08-04 00:27:04,437 - Speech result #237: ''
+2025-08-04 00:27:04,798 - Speech result #238: ''
+2025-08-04 00:27:05,167 - Speech result #239: ''
+2025-08-04 00:27:05,189 - Processed 9400 audio chunks
+2025-08-04 00:27:05,538 - Speech result #240: ''
+2025-08-04 00:27:05,906 - Speech result #241: ''
+2025-08-04 00:27:06,240 - Processed 9500 audio chunks
+2025-08-04 00:27:06,269 - Speech result #242: ''
+2025-08-04 00:27:06,636 - Speech result #243: ''
+2025-08-04 00:27:07,013 - Speech result #244: ''
+2025-08-04 00:27:07,331 - Processed 9600 audio chunks
+2025-08-04 00:27:07,434 - Speech result #245: ''
+2025-08-04 00:27:07,802 - Speech result #246: ''
+2025-08-04 00:27:08,173 - Speech result #247: ''
+2025-08-04 00:27:08,389 - Processed 9700 audio chunks
+2025-08-04 00:27:08,568 - Speech result #248: ''
+2025-08-04 00:27:08,949 - Speech result #249: ''
+2025-08-04 00:27:09,325 - Speech result #250: ''
+2025-08-04 00:27:09,459 - Processed 9800 audio chunks
+2025-08-04 00:27:09,735 - Speech result #251: ''
+2025-08-04 00:27:10,112 - Speech result #252: ''
+2025-08-04 00:27:10,488 - Speech result #253: ''
+2025-08-04 00:27:10,540 - Processed 9900 audio chunks
+2025-08-04 00:27:10,859 - Speech result #254: ''
+2025-08-04 00:27:11,231 - Speech result #255: ''
+2025-08-04 00:27:11,600 - Speech result #256: ''
+2025-08-04 00:27:11,602 - Processed 10000 audio chunks
+2025-08-04 00:27:11,966 - Speech result #257: ''
+2025-08-04 00:27:12,336 - Speech result #258: ''
+2025-08-04 00:27:12,656 - Processed 10100 audio chunks
+2025-08-04 00:27:12,837 - Speech result #259: ''
+2025-08-04 00:27:13,216 - Speech result #260: ''
+2025-08-04 00:27:13,584 - Speech result #261: ''
+2025-08-04 00:27:13,718 - Processed 10200 audio chunks
+2025-08-04 00:27:13,989 - Speech result #262: ''
+2025-08-04 00:27:14,378 - Speech result #263: ''
+2025-08-04 00:27:14,782 - Processed 10300 audio chunks
+2025-08-04 00:27:14,791 - Speech result #264: ''
+2025-08-04 00:27:15,170 - Speech result #265: ''
+2025-08-04 00:27:15,610 - Speech result #266: ''
+2025-08-04 00:27:15,841 - Processed 10400 audio chunks
+2025-08-04 00:27:16,004 - Speech result #267: ''
+2025-08-04 00:27:16,362 - Speech result #268: ''
+2025-08-04 00:27:16,744 - Speech result #269: ''
+2025-08-04 00:27:16,901 - Processed 10500 audio chunks
+2025-08-04 00:27:17,119 - Speech result #270: ''
+2025-08-04 00:27:17,489 - Speech result #271: ''
+2025-08-04 00:27:17,969 - Processed 10600 audio chunks
+2025-08-04 00:27:18,214 - Speech result #272: ''
+2025-08-04 00:27:18,638 - Speech result #273: ''
+2025-08-04 00:27:19,009 - Speech result #274: ''
+2025-08-04 00:27:19,039 - Processed 10700 audio chunks
+2025-08-04 00:27:19,374 - Speech result #275: ''
+2025-08-04 00:27:19,763 - Speech result #276: ''
+2025-08-04 00:27:20,105 - Processed 10800 audio chunks
+2025-08-04 00:27:20,136 - Speech result #277: ''
+2025-08-04 00:27:20,500 - Speech result #278: ''
+2025-08-04 00:27:20,866 - Speech result #279: ''
+2025-08-04 00:27:21,151 - Processed 10900 audio chunks
+2025-08-04 00:27:21,232 - Speech result #280: ''
+2025-08-04 00:27:21,598 - Speech result #281: ''
+2025-08-04 00:27:21,983 - Speech result #282: ''
+2025-08-04 00:27:22,202 - Processed 11000 audio chunks
+2025-08-04 00:27:22,452 - Speech result #283: ''
+2025-08-04 00:27:22,881 - Speech result #284: ''
+2025-08-04 00:27:23,264 - Processed 11100 audio chunks
+2025-08-04 00:27:23,290 - Speech result #285: ''
+2025-08-04 00:27:23,704 - Speech result #286: ''
+2025-08-04 00:27:24,107 - Speech result #287: ''
+2025-08-04 00:27:24,324 - Processed 11200 audio chunks
+2025-08-04 00:27:24,578 - Speech result #288: ''
+2025-08-04 00:27:24,971 - Speech result #289: ''
+2025-08-04 00:27:25,340 - Speech result #290: ''
+2025-08-04 00:27:25,402 - Processed 11300 audio chunks
+2025-08-04 00:27:25,717 - Speech result #291: ''
+2025-08-04 00:27:26,084 - Speech result #292: ''
+2025-08-04 00:27:26,456 - Processed 11400 audio chunks
+2025-08-04 00:27:26,462 - Speech result #293: ''
+2025-08-04 00:27:26,841 - Speech result #294: ''
+2025-08-04 00:27:27,208 - Speech result #295: ''
+2025-08-04 00:27:27,521 - Processed 11500 audio chunks
+2025-08-04 00:27:27,589 - Speech result #296: ''
+2025-08-04 00:27:27,951 - Speech result #297: ''
+2025-08-04 00:27:28,318 - Speech result #298: ''
+2025-08-04 00:27:28,575 - Processed 11600 audio chunks
+2025-08-04 00:27:28,696 - Speech result #299: ''
+2025-08-04 00:27:29,064 - Speech result #300: ''
+2025-08-04 00:27:29,438 - Speech result #301: ''
+2025-08-04 00:27:29,640 - System Event: SYSTEM_STATUS - System Status - CPU: 14.6%, Memory: 32.4%, Disk: 94.8%, Network: 548.58MB sent, 8939.88MB received
+2025-08-04 00:27:29,640 - Processed 11700 audio chunks
+2025-08-04 00:27:29,832 - Speech result #302: ''
+2025-08-04 00:27:30,202 - Speech result #303: ''
+2025-08-04 00:27:30,595 - Speech result #304: ''
+2025-08-04 00:27:30,701 - Processed 11800 audio chunks
+2025-08-04 00:27:30,972 - Speech result #305: ''
+2025-08-04 00:27:31,370 - Speech result #306: ''
+2025-08-04 00:27:31,760 - Processed 11900 audio chunks
+2025-08-04 00:27:31,819 - Speech result #307: ''
+2025-08-04 00:27:32,187 - Speech result #308: ''
+2025-08-04 00:27:32,558 - Speech result #309: ''
+2025-08-04 00:27:32,815 - Processed 12000 audio chunks
+2025-08-04 00:27:32,920 - Speech result #310: ''
+2025-08-04 00:27:33,294 - Speech result #311: ''
+2025-08-04 00:27:33,676 - Speech result #312: ''
+2025-08-04 00:27:33,880 - Processed 12100 audio chunks
+2025-08-04 00:27:34,041 - Speech result #313: ''
+2025-08-04 00:27:34,418 - Speech result #314: ''
+2025-08-04 00:27:34,800 - Speech result #315: ''
+2025-08-04 00:27:34,940 - Processed 12200 audio chunks
+2025-08-04 00:27:35,173 - Speech result #316: ''
+2025-08-04 00:27:35,558 - Speech result #317: ''
+2025-08-04 00:27:35,942 - Speech result #318: ''
+2025-08-04 00:27:36,010 - Processed 12300 audio chunks
+2025-08-04 00:27:36,313 - Speech result #319: ''
+2025-08-04 00:27:36,692 - Speech result #320: ''
+2025-08-04 00:27:37,066 - Speech result #321: ''
+2025-08-04 00:27:37,069 - Processed 12400 audio chunks
+2025-08-04 00:27:37,431 - Speech result #322: ''
+2025-08-04 00:27:37,810 - Speech result #323: ''
+2025-08-04 00:27:38,124 - Processed 12500 audio chunks
+2025-08-04 00:27:38,181 - Speech result #324: ''
+2025-08-04 00:27:38,597 - Speech result #325: ''
+2025-08-04 00:27:38,960 - Speech result #326: ''
+2025-08-04 00:27:39,192 - Processed 12600 audio chunks
+2025-08-04 00:27:39,408 - Speech result #327: ''
+2025-08-04 00:27:39,775 - Speech result #328: ''
+2025-08-04 00:27:40,169 - Speech result #329: ''
+2025-08-04 00:27:40,251 - Processed 12700 audio chunks
+2025-08-04 00:27:40,546 - Speech result #330: ''
+2025-08-04 00:27:40,915 - Speech result #331: ''
+2025-08-04 00:27:41,275 - Speech result #332: ''
+2025-08-04 00:27:41,301 - Processed 12800 audio chunks
+2025-08-04 00:27:41,638 - Speech result #333: ''
+2025-08-04 00:27:42,000 - Speech result #334: ''
+2025-08-04 00:27:42,348 - Processed 12900 audio chunks
+2025-08-04 00:27:42,369 - Speech result #335: ''
+2025-08-04 00:27:42,745 - Speech result #336: ''
+2025-08-04 00:27:43,122 - Speech result #337: ''
+2025-08-04 00:27:43,399 - Processed 13000 audio chunks
+2025-08-04 00:27:43,489 - Speech result #338: ''
+2025-08-04 00:27:43,860 - Speech result #339: ''
+2025-08-04 00:27:51,803 - Text-to-speech engine initialized
+2025-08-04 00:27:52,007 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 00:27:52,743 - Vosk speech recognition initialized
+2025-08-04 00:27:52,805 - Using working microphone device 4: Primary Sound Capture Driver
+2025-08-04 00:27:53,018 - Microphone initialized successfully
+2025-08-04 00:27:54,054 - JARVIS Assistant started
+2025-08-04 00:27:54,055 - Starting JARVIS components...
+2025-08-04 00:27:54,076 - Activity monitoring started
+2025-08-04 00:27:54,108 - Audio capture loop started
+2025-08-04 00:27:54,116 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:27:54,116 - Speech recognition processing started
+2025-08-04 00:27:54,117 - Started listening for hotword
+2025-08-04 00:27:54,122 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:27:54,133 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:27:54,138 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:27:54,147 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:27:54,177 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:27:54,180 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:27:54,181 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:27:54,292 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:27:54,314 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:27:54,320 - System Event: PROCESS_STARTED - cmd.exe
+2025-08-04 00:27:54,339 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:27:54,343 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:27:54,343 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:27:54,346 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:27:54,361 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:27:54,375 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:27:54,375 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:27:54,376 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:27:54,376 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:27:54,382 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:27:54,383 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:27:54,386 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:27:54,387 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:27:54,395 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:27:54,404 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:27:54,405 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:27:54,408 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:27:54,409 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:27:54,417 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:27:54,421 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:27:54,421 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:27:54,422 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:27:54,493 - System tray started
+2025-08-04 00:27:54,512 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-04 00:27:54,512 - JARVIS Assistant fully started
+2025-08-04 00:27:55,435 - System Event: SYSTEM_STATUS - System Status - CPU: 24.9%, Memory: 32.5%, Disk: 94.8%, Network: 551.57MB sent, 8940.39MB received
+2025-08-04 00:27:59,562 - Processed 500 audio chunks
+2025-08-04 00:28:04,941 - Processed 1000 audio chunks
+2025-08-04 00:28:10,216 - Processed 1500 audio chunks
+2025-08-04 00:28:15,523 - Processed 2000 audio chunks
+2025-08-04 00:28:20,777 - Processed 2500 audio chunks
+2025-08-04 00:28:26,025 - Processed 3000 audio chunks
+2025-08-04 00:28:26,456 - System Event: SYSTEM_STATUS - System Status - CPU: 10.5%, Memory: 32.3%, Disk: 94.8%, Network: 552.2MB sent, 8940.87MB received
+2025-08-04 00:28:31,267 - Processed 3500 audio chunks
+2025-08-04 00:28:36,556 - Processed 4000 audio chunks
+2025-08-04 00:28:41,840 - Processed 4500 audio chunks
+2025-08-04 00:28:47,093 - Processed 5000 audio chunks
+2025-08-04 00:28:52,387 - Processed 5500 audio chunks
+2025-08-04 00:28:57,471 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 32.3%, Disk: 94.8%, Network: 552.26MB sent, 8940.95MB received
+2025-08-04 00:28:57,653 - Processed 6000 audio chunks
+2025-08-04 00:29:02,930 - Processed 6500 audio chunks
+2025-08-04 00:29:08,242 - Processed 7000 audio chunks
+2025-08-04 00:29:13,572 - Processed 7500 audio chunks
+2025-08-04 00:29:18,895 - Processed 8000 audio chunks
+2025-08-04 00:29:24,161 - Processed 8500 audio chunks
+2025-08-04 00:29:28,488 - System Event: SYSTEM_STATUS - System Status - CPU: 20.9%, Memory: 32.6%, Disk: 94.8%, Network: 554.4MB sent, 8941.38MB received
+2025-08-04 00:29:29,532 - Processed 9000 audio chunks
+2025-08-04 00:29:34,825 - Processed 9500 audio chunks
+2025-08-04 00:29:35,975 - Text-to-speech engine initialized
+2025-08-04 00:29:36,171 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 00:29:36,937 - Vosk speech recognition initialized
+2025-08-04 00:29:37,003 - Using working microphone device 4: Primary Sound Capture Driver
+2025-08-04 00:29:37,024 - Microphone initialized successfully
+2025-08-04 00:29:40,154 - Processed 10000 audio chunks
+2025-08-04 00:29:45,413 - Processed 10500 audio chunks
+2025-08-04 00:29:50,731 - Processed 11000 audio chunks
+2025-08-04 00:29:56,013 - Processed 11500 audio chunks
+2025-08-04 00:29:59,504 - System Event: SYSTEM_STATUS - System Status - CPU: 14.5%, Memory: 32.9%, Disk: 94.8%, Network: 554.71MB sent, 8941.95MB received
+2025-08-04 00:30:01,271 - Processed 12000 audio chunks
+2025-08-04 00:30:06,539 - Processed 12500 audio chunks
+2025-08-04 00:30:11,814 - Processed 13000 audio chunks
+2025-08-04 00:30:17,083 - Processed 13500 audio chunks
+2025-08-04 00:30:22,358 - Processed 14000 audio chunks
+2025-08-04 00:30:27,668 - Processed 14500 audio chunks
+2025-08-04 00:30:30,535 - System Event: SYSTEM_STATUS - System Status - CPU: 15.2%, Memory: 32.8%, Disk: 94.8%, Network: 554.76MB sent, 8942.03MB received
+2025-08-04 00:30:32,987 - Processed 15000 audio chunks
+2025-08-04 00:30:33,256 - Speech result #414: 'huh'
+2025-08-04 00:30:33,256 - Checking for hotword in: 'huh'
+2025-08-04 00:30:33,256 - Alternative hotword detected: 'huh' in 'huh'
+2025-08-04 00:30:33,257 - Hotword detected
+2025-08-04 00:30:33,263 - Responding with: Yes?
+2025-08-04 00:30:38,198 - Processed 15500 audio chunks
+2025-08-04 00:30:43,438 - Processed 16000 audio chunks
+2025-08-04 00:30:48,668 - Processed 16500 audio chunks
+2025-08-04 00:30:53,960 - Processed 17000 audio chunks
+2025-08-04 00:30:59,203 - Processed 17500 audio chunks
+2025-08-04 00:31:01,553 - System Event: SYSTEM_STATUS - System Status - CPU: 9.6%, Memory: 32.7%, Disk: 94.8%, Network: 554.85MB sent, 8942.12MB received
+2025-08-04 00:31:02,635 - Speaking: Ready for your command.
+2025-08-04 00:31:04,509 - Processed 18000 audio chunks
+2025-08-04 00:31:09,791 - Processed 18500 audio chunks
+2025-08-04 00:31:15,045 - Processed 19000 audio chunks
+2025-08-04 00:31:20,482 - Processed 19500 audio chunks
+2025-08-04 00:31:25,673 - Processed 20000 audio chunks
+2025-08-04 00:31:30,875 - Processed 20500 audio chunks
+2025-08-04 00:31:32,567 - System Event: SYSTEM_STATUS - System Status - CPU: 4.7%, Memory: 32.9%, Disk: 94.8%, Network: 555.21MB sent, 8942.63MB received
+2025-08-04 00:31:36,081 - Processed 21000 audio chunks
+2025-08-04 00:31:41,360 - Processed 21500 audio chunks
+2025-08-04 00:31:46,607 - Processed 22000 audio chunks
+2025-08-04 00:31:51,438 - Speaking: Yes sir?
+2025-08-04 00:31:51,849 - Processed 22500 audio chunks
+2025-08-04 00:31:57,059 - Processed 23000 audio chunks
+2025-08-04 00:32:02,289 - Processed 23500 audio chunks
+2025-08-04 00:32:03,582 - System Event: SYSTEM_STATUS - System Status - CPU: 5.5%, Memory: 33.1%, Disk: 94.8%, Network: 555.32MB sent, 8942.77MB received
+2025-08-04 00:32:07,489 - Processed 24000 audio chunks
+2025-08-04 00:32:12,723 - Processed 24500 audio chunks
+2025-08-04 00:32:17,955 - Processed 25000 audio chunks
+2025-08-04 00:32:23,160 - Processed 25500 audio chunks
+2025-08-04 00:32:28,354 - Processed 26000 audio chunks
+2025-08-04 00:32:33,557 - Processed 26500 audio chunks
+2025-08-04 00:32:34,598 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 33.1%, Disk: 94.8%, Network: 555.39MB sent, 8942.86MB received
+2025-08-04 00:32:38,769 - Processed 27000 audio chunks
+2025-08-04 00:32:43,965 - Processed 27500 audio chunks
+2025-08-04 00:32:49,173 - Processed 28000 audio chunks
+2025-08-04 00:32:54,360 - Processed 28500 audio chunks
+2025-08-04 00:32:59,569 - Processed 29000 audio chunks
+2025-08-04 00:33:04,779 - Processed 29500 audio chunks
+2025-08-04 00:33:05,613 - System Event: SYSTEM_STATUS - System Status - CPU: 4.1%, Memory: 33.1%, Disk: 94.8%, Network: 555.43MB sent, 8942.93MB received
+2025-08-04 00:33:09,990 - Processed 30000 audio chunks
+2025-08-04 00:33:15,198 - Processed 30500 audio chunks
+2025-08-04 00:33:20,409 - Processed 31000 audio chunks
+2025-08-04 00:33:25,605 - Processed 31500 audio chunks
+2025-08-04 00:33:30,840 - Processed 32000 audio chunks
+2025-08-04 00:33:36,052 - Processed 32500 audio chunks
+2025-08-04 00:33:36,634 - System Event: SYSTEM_STATUS - System Status - CPU: 8.4%, Memory: 33.1%, Disk: 94.8%, Network: 555.47MB sent, 8942.99MB received
+2025-08-04 00:33:41,263 - Processed 33000 audio chunks
+2025-08-04 00:33:46,458 - Processed 33500 audio chunks
+2025-08-04 00:33:51,675 - Processed 34000 audio chunks
+2025-08-04 00:33:56,879 - Processed 34500 audio chunks
+2025-08-04 00:34:02,097 - Processed 35000 audio chunks
+2025-08-04 00:34:07,313 - Processed 35500 audio chunks
+2025-08-04 00:34:07,655 - System Event: SYSTEM_STATUS - System Status - CPU: 5.8%, Memory: 33.2%, Disk: 94.8%, Network: 555.57MB sent, 8943.07MB received
+2025-08-04 00:34:12,567 - Processed 36000 audio chunks
+2025-08-04 00:34:17,768 - Processed 36500 audio chunks
+2025-08-04 00:34:22,966 - Processed 37000 audio chunks
+2025-08-04 00:34:28,182 - Processed 37500 audio chunks
+2025-08-04 00:34:33,385 - Processed 38000 audio chunks
+2025-08-04 00:34:38,584 - Processed 38500 audio chunks
+2025-08-04 00:34:38,677 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 33.3%, Disk: 94.8%, Network: 555.62MB sent, 8943.15MB received
+2025-08-04 00:34:43,813 - Processed 39000 audio chunks
+2025-08-04 00:34:49,039 - Processed 39500 audio chunks
+2025-08-04 00:34:54,293 - Processed 40000 audio chunks
+2025-08-04 00:34:59,490 - Processed 40500 audio chunks
+2025-08-04 00:35:04,693 - Processed 41000 audio chunks
+2025-08-04 00:35:09,695 - System Event: SYSTEM_STATUS - System Status - CPU: 8.6%, Memory: 33.3%, Disk: 94.8%, Network: 555.73MB sent, 8943.33MB received
+2025-08-04 00:35:09,914 - Processed 41500 audio chunks
+2025-08-04 00:35:15,153 - Processed 42000 audio chunks
+2025-08-04 00:35:20,356 - Processed 42500 audio chunks
+2025-08-04 00:35:25,589 - Processed 43000 audio chunks
+2025-08-04 00:35:30,781 - Processed 43500 audio chunks
+2025-08-04 00:35:35,969 - Processed 44000 audio chunks
+2025-08-04 00:35:40,709 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 33.3%, Disk: 94.8%, Network: 555.78MB sent, 8943.4MB received
+2025-08-04 00:35:41,175 - Processed 44500 audio chunks
+2025-08-04 00:35:46,381 - Processed 45000 audio chunks
+2025-08-04 00:35:51,588 - Processed 45500 audio chunks
+2025-08-04 00:35:56,794 - Processed 46000 audio chunks
+2025-08-04 00:36:01,996 - Processed 46500 audio chunks
+2025-08-04 00:36:07,186 - Processed 47000 audio chunks
+2025-08-04 00:36:11,726 - System Event: SYSTEM_STATUS - System Status - CPU: 10.1%, Memory: 33.3%, Disk: 94.8%, Network: 555.82MB sent, 8943.48MB received
+2025-08-04 00:36:12,445 - Processed 47500 audio chunks
+2025-08-04 00:36:17,642 - Processed 48000 audio chunks
+2025-08-04 00:36:22,844 - Processed 48500 audio chunks
+2025-08-04 00:36:28,045 - Processed 49000 audio chunks
+2025-08-04 00:36:33,238 - Processed 49500 audio chunks
+2025-08-04 00:36:38,443 - Processed 50000 audio chunks
+2025-08-04 00:36:42,742 - System Event: SYSTEM_STATUS - System Status - CPU: 2.3%, Memory: 33.3%, Disk: 94.8%, Network: 555.9MB sent, 8943.69MB received
+2025-08-04 00:36:43,645 - Processed 50500 audio chunks
+2025-08-04 00:36:48,853 - Processed 51000 audio chunks
+2025-08-04 00:36:54,045 - Processed 51500 audio chunks
+2025-08-04 00:36:59,236 - Processed 52000 audio chunks
+2025-08-04 00:37:04,436 - Processed 52500 audio chunks
+2025-08-04 00:37:09,646 - Processed 53000 audio chunks
+2025-08-04 00:37:13,759 - System Event: SYSTEM_STATUS - System Status - CPU: 10.9%, Memory: 33.3%, Disk: 94.8%, Network: 555.92MB sent, 8943.71MB received
+2025-08-04 00:37:14,927 - Processed 53500 audio chunks
+2025-08-04 00:37:20,158 - Processed 54000 audio chunks
+2025-08-04 00:37:25,397 - Processed 54500 audio chunks
+2025-08-04 00:37:30,643 - Processed 55000 audio chunks
+2025-08-04 00:37:35,847 - Processed 55500 audio chunks
+2025-08-04 00:37:41,058 - Processed 56000 audio chunks
+2025-08-04 00:37:44,775 - System Event: SYSTEM_STATUS - System Status - CPU: 4.7%, Memory: 33.3%, Disk: 94.8%, Network: 555.97MB sent, 8943.79MB received
+2025-08-04 00:37:46,259 - Processed 56500 audio chunks
+2025-08-04 00:37:51,465 - Processed 57000 audio chunks
+2025-08-04 00:37:56,726 - Processed 57500 audio chunks
+2025-08-04 00:38:01,945 - Processed 58000 audio chunks
+2025-08-04 00:38:07,134 - Processed 58500 audio chunks
+2025-08-04 00:38:12,343 - Processed 59000 audio chunks
+2025-08-04 00:38:15,790 - System Event: SYSTEM_STATUS - System Status - CPU: 4.9%, Memory: 33.4%, Disk: 94.8%, Network: 556.01MB sent, 8943.86MB received
+2025-08-04 00:38:17,592 - Processed 59500 audio chunks
+2025-08-04 00:38:22,791 - Processed 60000 audio chunks
+2025-08-04 00:38:27,996 - Processed 60500 audio chunks
+2025-08-04 00:38:33,208 - Processed 61000 audio chunks
+2025-08-04 00:38:38,411 - Processed 61500 audio chunks
+2025-08-04 00:38:43,615 - Processed 62000 audio chunks
+2025-08-04 00:38:44,495 - Speaking: How can I help you?
+2025-08-04 00:38:46,806 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 33.4%, Disk: 94.8%, Network: 556.05MB sent, 8943.92MB received
+2025-08-04 00:38:48,846 - Processed 62500 audio chunks
+2025-08-04 00:38:54,132 - Processed 63000 audio chunks
+2025-08-04 00:38:59,406 - Processed 63500 audio chunks
+2025-08-04 00:39:04,605 - Processed 64000 audio chunks
+2025-08-04 00:39:09,805 - Processed 64500 audio chunks
+2025-08-04 00:39:15,065 - Processed 65000 audio chunks
+2025-08-04 00:39:17,827 - System Event: SYSTEM_STATUS - System Status - CPU: 3.9%, Memory: 33.3%, Disk: 94.8%, Network: 557.72MB sent, 8944.6MB received
+2025-08-04 00:39:20,287 - Processed 65500 audio chunks
+2025-08-04 00:39:25,515 - Processed 66000 audio chunks
+2025-08-04 00:39:30,742 - Processed 66500 audio chunks
+2025-08-04 00:39:36,003 - Processed 67000 audio chunks
+2025-08-04 00:39:48,678 - Text-to-speech engine initialized
+2025-08-04 00:39:48,896 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 00:39:49,626 - Vosk speech recognition initialized
+2025-08-04 00:39:49,688 - Using working microphone device 4: Primary Sound Capture Driver
+2025-08-04 00:39:49,917 - Microphone initialized successfully
+2025-08-04 00:39:50,892 - JARVIS Assistant started
+2025-08-04 00:39:50,892 - Starting JARVIS components...
+2025-08-04 00:39:50,912 - Activity monitoring started
+2025-08-04 00:39:50,943 - Audio capture loop started
+2025-08-04 00:39:50,946 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:39:50,947 - Speech recognition processing started
+2025-08-04 00:39:50,952 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:39:50,953 - Started listening for hotword
+2025-08-04 00:39:50,963 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:39:50,964 - Keyboard override: Press 'h' key to manually trigger hotword
+2025-08-04 00:39:50,969 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:39:50,980 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:39:50,985 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:39:51,020 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:39:51,024 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:39:51,024 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:39:51,197 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:39:51,225 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:39:51,232 - System Event: PROCESS_STARTED - cmd.exe
+2025-08-04 00:39:51,252 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:39:51,256 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:39:51,256 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:39:51,261 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:39:51,281 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:39:51,304 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:39:51,305 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:39:51,305 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:39:51,307 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:39:51,313 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:39:51,314 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:39:51,315 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:39:51,323 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:39:51,336 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:39:51,337 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:39:51,341 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:39:51,341 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:39:51,345 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:39:51,349 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:39:51,353 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:39:51,356 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:39:51,357 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:39:51,485 - System tray started
+2025-08-04 00:39:51,514 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-04 00:39:51,514 - JARVIS Assistant fully started
+2025-08-04 00:39:52,372 - System Event: SYSTEM_STATUS - System Status - CPU: 58.7%, Memory: 32.9%, Disk: 94.8%, Network: 560.23MB sent, 8945.21MB received
+2025-08-04 00:39:56,539 - Processed 500 audio chunks
+2025-08-04 00:40:01,983 - Processed 1000 audio chunks
+2025-08-04 00:40:07,355 - Processed 1500 audio chunks
+2025-08-04 00:40:12,623 - Processed 2000 audio chunks
+2025-08-04 00:40:13,482 - Manual hotword trigger via keyboard!
+2025-08-04 00:40:13,482 - Hotword detected
+2025-08-04 00:40:13,484 - Responding with: At your service.
+2025-08-04 00:40:17,909 - Processed 2500 audio chunks
+2025-08-04 00:40:23,237 - Processed 3000 audio chunks
+2025-08-04 00:40:23,406 - System Event: SYSTEM_STATUS - System Status - CPU: 12.0%, Memory: 33.1%, Disk: 94.8%, Network: 561.41MB sent, 8946.0MB received
+2025-08-04 00:40:28,510 - Processed 3500 audio chunks
+2025-08-04 00:40:33,761 - Processed 4000 audio chunks
+2025-08-04 00:40:39,064 - Processed 4500 audio chunks
+2025-08-04 00:40:44,337 - Processed 5000 audio chunks
+2025-08-04 00:40:49,591 - Processed 5500 audio chunks
+2025-08-04 00:40:54,423 - System Event: SYSTEM_STATUS - System Status - CPU: 4.5%, Memory: 33.0%, Disk: 94.8%, Network: 561.47MB sent, 8946.35MB received
+2025-08-04 00:40:54,844 - Processed 6000 audio chunks
+2025-08-04 00:41:00,094 - Processed 6500 audio chunks
+2025-08-04 00:41:05,345 - Processed 7000 audio chunks
+2025-08-04 00:41:10,591 - Processed 7500 audio chunks
+2025-08-04 00:41:15,874 - Processed 8000 audio chunks
+2025-08-04 00:41:21,139 - Processed 8500 audio chunks
+2025-08-04 00:41:25,439 - System Event: SYSTEM_STATUS - System Status - CPU: 19.7%, Memory: 32.8%, Disk: 94.8%, Network: 561.53MB sent, 8946.57MB received
+2025-08-04 00:41:26,538 - Processed 9000 audio chunks
+2025-08-04 00:41:31,802 - Processed 9500 audio chunks
+2025-08-04 00:41:37,052 - Processed 10000 audio chunks
+2025-08-04 00:41:42,346 - Processed 10500 audio chunks
+2025-08-04 00:41:47,644 - Processed 11000 audio chunks
+2025-08-04 00:41:52,908 - Processed 11500 audio chunks
+2025-08-04 00:41:56,454 - System Event: SYSTEM_STATUS - System Status - CPU: 8.9%, Memory: 32.8%, Disk: 94.8%, Network: 561.57MB sent, 8946.65MB received
+2025-08-04 00:41:58,155 - Processed 12000 audio chunks
+2025-08-04 00:42:03,423 - Processed 12500 audio chunks
+2025-08-04 00:42:08,687 - Processed 13000 audio chunks
+2025-08-04 00:42:13,985 - Processed 13500 audio chunks
+2025-08-04 00:42:19,242 - Processed 14000 audio chunks
+2025-08-04 00:42:24,533 - Processed 14500 audio chunks
+2025-08-04 00:42:27,470 - System Event: SYSTEM_STATUS - System Status - CPU: 11.0%, Memory: 33.1%, Disk: 94.8%, Network: 562.37MB sent, 8946.88MB received
+2025-08-04 00:42:28,298 - Speech result #409: 'huh'
+2025-08-04 00:42:28,298 - Command detected: huh
+2025-08-04 00:42:28,543 - Voice command executed - 'huh' - SUCCESS
+2025-08-04 00:42:28,544 - Voice command executed - 'huh' - FAILED
+2025-08-04 00:42:29,864 - Processed 15000 audio chunks
+2025-08-04 00:42:30,099 - Speech result #410: 'huh'
+2025-08-04 00:42:30,099 - Checking for hotword in: 'huh'
+2025-08-04 00:42:30,099 - Alternative hotword detected: 'huh' in 'huh'
+2025-08-04 00:42:30,100 - Hotword detected
+2025-08-04 00:42:30,100 - Responding with: Yes?
+2025-08-04 00:42:35,125 - Processed 15500 audio chunks
+2025-08-04 00:42:40,353 - Processed 16000 audio chunks
+2025-08-04 00:42:45,675 - Processed 16500 audio chunks
+2025-08-04 00:42:50,934 - Processed 17000 audio chunks
+2025-08-04 00:42:55,810 - Text-to-speech engine initialized
+2025-08-04 00:42:55,811 - Speaking: Hello, this is a TTS test. Can you hear me?
+2025-08-04 00:42:56,165 - Processed 17500 audio chunks
+2025-08-04 00:42:58,495 - System Event: SYSTEM_STATUS - System Status - CPU: 10.8%, Memory: 33.3%, Disk: 94.8%, Network: 564.22MB sent, 8947.31MB received
+2025-08-04 00:43:00,905 - Speaking: Yes sir? I'm listening.
+2025-08-04 00:43:01,261 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-04 00:43:01,412 - Processed 18000 audio chunks
+2025-08-04 00:43:06,661 - Processed 18500 audio chunks
+2025-08-04 00:43:11,901 - Processed 19000 audio chunks
+2025-08-04 00:43:17,197 - Processed 19500 audio chunks
+2025-08-04 00:43:22,465 - Processed 20000 audio chunks
+2025-08-04 00:43:27,659 - Processed 20500 audio chunks
+2025-08-04 00:43:29,511 - System Event: SYSTEM_STATUS - System Status - CPU: 1.6%, Memory: 33.2%, Disk: 94.8%, Network: 566.01MB sent, 8947.75MB received
+2025-08-04 00:43:32,862 - Processed 21000 audio chunks
+2025-08-04 00:43:38,043 - Processed 21500 audio chunks
+2025-08-04 00:43:43,239 - Processed 22000 audio chunks
+2025-08-04 00:43:48,447 - Processed 22500 audio chunks
+2025-08-04 00:43:53,637 - Processed 23000 audio chunks
+2025-08-04 00:43:58,848 - Processed 23500 audio chunks
+2025-08-04 00:44:00,528 - System Event: SYSTEM_STATUS - System Status - CPU: 5.4%, Memory: 33.0%, Disk: 94.8%, Network: 566.18MB sent, 8947.84MB received
+2025-08-04 00:44:04,089 - Processed 24000 audio chunks
+2025-08-04 00:44:09,352 - Processed 24500 audio chunks
+2025-08-04 00:44:14,626 - Processed 25000 audio chunks
+2025-08-04 00:44:19,874 - Processed 25500 audio chunks
+2025-08-04 00:44:25,098 - Processed 26000 audio chunks
+2025-08-04 00:44:30,343 - Processed 26500 audio chunks
+2025-08-04 00:44:31,546 - System Event: SYSTEM_STATUS - System Status - CPU: 26.2%, Memory: 33.4%, Disk: 94.8%, Network: 567.05MB sent, 8948.2MB received
+2025-08-04 00:44:35,631 - Processed 27000 audio chunks
+2025-08-04 00:44:40,913 - Processed 27500 audio chunks
+2025-08-04 00:44:46,137 - Processed 28000 audio chunks
+2025-08-04 00:44:51,370 - Processed 28500 audio chunks
+2025-08-04 00:44:56,563 - Processed 29000 audio chunks
+2025-08-04 00:45:01,755 - Processed 29500 audio chunks
+2025-08-04 00:45:02,565 - System Event: SYSTEM_STATUS - System Status - CPU: 3.9%, Memory: 33.1%, Disk: 94.8%, Network: 568.19MB sent, 8948.54MB received
+2025-08-04 00:45:06,964 - Processed 30000 audio chunks
+2025-08-04 00:45:12,156 - Processed 30500 audio chunks
+2025-08-04 00:45:17,359 - Processed 31000 audio chunks
+2025-08-04 00:45:22,603 - Processed 31500 audio chunks
+2025-08-04 00:45:27,889 - Processed 32000 audio chunks
+2025-08-04 00:45:33,083 - Processed 32500 audio chunks
+2025-08-04 00:45:33,589 - System Event: SYSTEM_STATUS - System Status - CPU: 2.5%, Memory: 33.3%, Disk: 94.8%, Network: 568.3MB sent, 8948.74MB received
+2025-08-04 00:45:38,308 - Processed 33000 audio chunks
+2025-08-04 00:45:43,501 - Processed 33500 audio chunks
+2025-08-04 00:45:48,712 - Processed 34000 audio chunks
+2025-08-04 00:45:53,906 - Processed 34500 audio chunks
+2025-08-04 00:45:59,092 - Processed 35000 audio chunks
+2025-08-04 00:46:04,295 - Processed 35500 audio chunks
+2025-08-04 00:46:04,605 - System Event: SYSTEM_STATUS - System Status - CPU: 2.7%, Memory: 33.4%, Disk: 94.8%, Network: 568.56MB sent, 8951.5MB received
+2025-08-04 00:46:09,487 - Processed 36000 audio chunks
+2025-08-04 00:46:14,732 - Processed 36500 audio chunks
+2025-08-04 00:46:19,925 - Processed 37000 audio chunks
+2025-08-04 00:46:25,146 - Processed 37500 audio chunks
+2025-08-04 00:46:30,329 - Processed 38000 audio chunks
+2025-08-04 00:46:35,539 - Processed 38500 audio chunks
+2025-08-04 00:46:35,623 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 33.4%, Disk: 94.8%, Network: 568.63MB sent, 8951.71MB received
+2025-08-04 00:46:40,747 - Processed 39000 audio chunks
+2025-08-04 00:46:45,986 - Processed 39500 audio chunks
+2025-08-04 00:46:51,191 - Processed 40000 audio chunks
+2025-08-04 00:46:56,415 - Processed 40500 audio chunks
+2025-08-04 00:47:01,669 - Processed 41000 audio chunks
+2025-08-04 00:47:06,638 - System Event: SYSTEM_STATUS - System Status - CPU: 2.1%, Memory: 33.3%, Disk: 94.8%, Network: 568.66MB sent, 8951.77MB received
+2025-08-04 00:47:06,870 - Processed 41500 audio chunks
+2025-08-04 00:47:12,061 - Processed 42000 audio chunks
+2025-08-04 00:47:17,318 - Processed 42500 audio chunks
+2025-08-04 00:47:22,551 - Processed 43000 audio chunks
+2025-08-04 00:47:27,735 - Processed 43500 audio chunks
+2025-08-04 00:47:32,919 - Processed 44000 audio chunks
+2025-08-04 00:47:37,653 - System Event: SYSTEM_STATUS - System Status - CPU: 1.8%, Memory: 33.4%, Disk: 94.8%, Network: 568.69MB sent, 8951.81MB received
+2025-08-04 00:47:38,108 - Processed 44500 audio chunks
+2025-08-04 00:47:43,305 - Processed 45000 audio chunks
+2025-08-04 00:47:48,503 - Processed 45500 audio chunks
+2025-08-04 00:47:53,687 - Processed 46000 audio chunks
+2025-08-04 00:47:58,875 - Processed 46500 audio chunks
+2025-08-04 00:48:04,057 - Processed 47000 audio chunks
+2025-08-04 00:48:08,671 - System Event: SYSTEM_STATUS - System Status - CPU: 2.7%, Memory: 33.4%, Disk: 94.8%, Network: 568.72MB sent, 8951.88MB received
+2025-08-04 00:48:09,261 - Processed 47500 audio chunks
+2025-08-04 00:48:14,463 - Processed 48000 audio chunks
+2025-08-04 00:48:19,679 - Processed 48500 audio chunks
+2025-08-04 00:48:24,862 - Processed 49000 audio chunks
+2025-08-04 00:48:30,045 - Processed 49500 audio chunks
+2025-08-04 00:48:35,228 - Processed 50000 audio chunks
+2025-08-04 00:48:39,686 - System Event: SYSTEM_STATUS - System Status - CPU: 1.2%, Memory: 33.5%, Disk: 94.8%, Network: 568.74MB sent, 8951.92MB received
+2025-08-04 00:48:40,411 - Processed 50500 audio chunks
+2025-08-04 00:48:45,607 - Processed 51000 audio chunks
+2025-08-04 00:48:50,793 - Processed 51500 audio chunks
+2025-08-04 00:48:55,981 - Processed 52000 audio chunks
+2025-08-04 00:49:01,168 - Processed 52500 audio chunks
+2025-08-04 00:49:06,357 - Processed 53000 audio chunks
+2025-08-04 00:49:10,705 - System Event: SYSTEM_STATUS - System Status - CPU: 1.4%, Memory: 33.5%, Disk: 94.8%, Network: 568.77MB sent, 8951.97MB received
+2025-08-04 00:49:11,555 - Processed 53500 audio chunks
+2025-08-04 00:49:16,765 - Processed 54000 audio chunks
+2025-08-04 00:49:21,969 - Processed 54500 audio chunks
+2025-08-04 00:49:27,150 - Processed 55000 audio chunks
+2025-08-04 00:49:32,377 - Processed 55500 audio chunks
+2025-08-04 00:49:37,618 - Processed 56000 audio chunks
+2025-08-04 00:49:41,721 - System Event: SYSTEM_STATUS - System Status - CPU: 4.2%, Memory: 33.7%, Disk: 94.8%, Network: 569.61MB sent, 8952.26MB received
+2025-08-04 00:49:42,871 - Processed 56500 audio chunks
+2025-08-04 00:49:48,084 - Processed 57000 audio chunks
+2025-08-04 00:49:53,290 - Processed 57500 audio chunks
+2025-08-04 00:49:58,492 - Processed 58000 audio chunks
+2025-08-04 00:50:03,702 - Processed 58500 audio chunks
+2025-08-04 00:50:08,914 - Processed 59000 audio chunks
+2025-08-04 00:50:12,737 - System Event: SYSTEM_STATUS - System Status - CPU: 5.7%, Memory: 33.6%, Disk: 94.8%, Network: 569.9MB sent, 8952.7MB received
+2025-08-04 00:50:14,133 - Processed 59500 audio chunks
+2025-08-04 00:50:19,349 - Processed 60000 audio chunks
+2025-08-04 00:50:24,613 - Processed 60500 audio chunks
+2025-08-04 00:50:29,858 - Processed 61000 audio chunks
+2025-08-04 00:50:35,095 - Processed 61500 audio chunks
+2025-08-04 00:50:40,352 - Processed 62000 audio chunks
+2025-08-04 00:50:43,772 - System Event: SYSTEM_STATUS - System Status - CPU: 4.1%, Memory: 34.0%, Disk: 94.8%, Network: 571.16MB sent, 8953.16MB received
+2025-08-04 00:50:45,589 - Processed 62500 audio chunks
+2025-08-04 00:50:50,862 - Processed 63000 audio chunks
+2025-08-04 00:50:56,063 - Processed 63500 audio chunks
+2025-08-04 00:51:01,307 - Processed 64000 audio chunks
+2025-08-04 00:51:06,555 - Processed 64500 audio chunks
+2025-08-04 00:51:11,801 - Processed 65000 audio chunks
+2025-08-04 00:51:14,801 - System Event: SYSTEM_STATUS - System Status - CPU: 14.1%, Memory: 34.1%, Disk: 94.8%, Network: 572.69MB sent, 8953.7MB received
+2025-08-04 00:51:17,090 - Processed 65500 audio chunks
+2025-08-04 00:51:22,313 - Processed 66000 audio chunks
+2025-08-04 00:51:27,513 - Processed 66500 audio chunks
+2025-08-04 00:51:32,744 - Processed 67000 audio chunks
+2025-08-04 00:51:37,956 - Processed 67500 audio chunks
+2025-08-04 00:51:43,204 - Processed 68000 audio chunks
+2025-08-04 00:51:45,818 - System Event: SYSTEM_STATUS - System Status - CPU: 9.0%, Memory: 34.1%, Disk: 94.8%, Network: 573.77MB sent, 8954.52MB received
+2025-08-04 00:51:48,475 - Processed 68500 audio chunks
+2025-08-04 00:51:50,287 - Text-to-speech engine initialized
+2025-08-04 00:51:50,499 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 00:51:51,285 - Vosk speech recognition initialized
+2025-08-04 00:51:51,356 - Using working microphone device 4: Primary Sound Capture Driver
+2025-08-04 00:51:51,377 - Microphone initialized successfully
+2025-08-04 00:51:51,821 - Attempted to start second instance - exiting
+2025-08-04 00:51:53,881 - Processed 69000 audio chunks
+2025-08-04 00:51:59,080 - Processed 69500 audio chunks
+2025-08-04 00:52:04,300 - Processed 70000 audio chunks
+2025-08-04 00:52:08,572 - Text-to-speech engine initialized
+2025-08-04 00:52:08,778 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 00:52:09,516 - Vosk speech recognition initialized
+2025-08-04 00:52:09,581 - Using working microphone device 4: Primary Sound Capture Driver
+2025-08-04 00:52:09,601 - Microphone initialized successfully
+2025-08-04 00:52:09,645 - Processed 70500 audio chunks
+2025-08-04 00:52:10,043 - Attempted to start second instance - exiting
+2025-08-04 00:52:14,940 - Processed 71000 audio chunks
+2025-08-04 00:52:16,835 - System Event: SYSTEM_STATUS - System Status - CPU: 6.9%, Memory: 34.5%, Disk: 94.8%, Network: 575.27MB sent, 8954.92MB received
+2025-08-04 00:52:20,207 - Processed 71500 audio chunks
+2025-08-04 00:52:25,453 - Processed 72000 audio chunks
+2025-08-04 00:52:37,720 - Text-to-speech engine initialized
+2025-08-04 00:52:37,923 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 00:52:38,633 - Vosk speech recognition initialized
+2025-08-04 00:52:38,698 - Using working microphone device 4: Primary Sound Capture Driver
+2025-08-04 00:52:38,915 - Microphone initialized successfully
+2025-08-04 00:52:39,915 - JARVIS Assistant started
+2025-08-04 00:52:39,915 - Starting JARVIS components...
+2025-08-04 00:52:39,924 - Activity monitoring started
+2025-08-04 00:52:39,926 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:52:39,927 - Audio capture loop started with noise filtering
+2025-08-04 00:52:39,940 - Speech recognition processing started
+2025-08-04 00:52:39,973 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:52:39,975 - Started listening for hotword
+2025-08-04 00:52:39,980 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:52:39,981 - Keyboard override: Press 'h' key to manually trigger hotword
+2025-08-04 00:52:39,993 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:52:40,001 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:52:40,011 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:52:40,017 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:52:40,044 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:52:40,049 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:52:40,050 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:52:40,160 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:52:40,186 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:52:40,194 - System Event: PROCESS_STARTED - cmd.exe
+2025-08-04 00:52:40,224 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:52:40,228 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:52:40,228 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:52:40,232 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:52:40,245 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:52:40,254 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:52:40,260 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:52:40,262 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:52:40,266 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:52:40,266 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:52:40,273 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:52:40,275 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 00:52:40,278 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:52:40,279 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:52:40,286 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:52:40,292 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:52:40,301 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:52:40,303 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:52:40,307 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:52:40,307 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:52:40,310 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 00:52:40,316 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:52:40,318 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 00:52:40,318 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:52:40,422 - System tray started
+2025-08-04 00:52:40,446 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-04 00:52:40,446 - JARVIS Assistant fully started
+2025-08-04 00:52:41,332 - System Event: SYSTEM_STATUS - System Status - CPU: 34.0%, Memory: 33.6%, Disk: 94.8%, Network: 576.91MB sent, 8955.28MB received
+2025-08-04 00:52:44,353 - Processed 100 audio chunks (vol: 1993)
+2025-08-04 00:52:50,068 - Processed 200 audio chunks (vol: 1993)
+2025-08-04 00:52:55,496 - Processed 300 audio chunks (vol: 1993)
+2025-08-04 00:53:02,753 - Processed 400 audio chunks (vol: 1993)
+2025-08-04 00:53:09,342 - Processed 500 audio chunks (vol: 1993)
+2025-08-04 00:53:12,364 - System Event: SYSTEM_STATUS - System Status - CPU: 8.6%, Memory: 33.8%, Disk: 94.8%, Network: 577.56MB sent, 8955.62MB received
+2025-08-04 00:53:15,510 - Processed 600 audio chunks (vol: 1993)
+2025-08-04 00:53:21,938 - Processed 700 audio chunks (vol: 1993)
+2025-08-04 00:53:27,756 - Processed 800 audio chunks (vol: 1993)
+2025-08-04 00:53:34,612 - Processed 900 audio chunks (vol: 1993)
+2025-08-04 00:53:40,417 - Processed 1000 audio chunks (vol: 1993)
+2025-08-04 00:53:43,380 - System Event: SYSTEM_STATUS - System Status - CPU: 5.1%, Memory: 33.8%, Disk: 94.8%, Network: 577.6MB sent, 8955.69MB received
+2025-08-04 00:53:46,965 - Processed 1100 audio chunks (vol: 1993)
+2025-08-04 00:53:52,590 - Processed 1200 audio chunks (vol: 1993)
+2025-08-04 00:53:58,333 - Processed 1300 audio chunks (vol: 1993)
+2025-08-04 00:54:04,181 - Processed 1400 audio chunks (vol: 1993)
+2025-08-04 00:54:10,425 - Processed 1500 audio chunks (vol: 1993)
+2025-08-04 00:54:14,395 - System Event: SYSTEM_STATUS - System Status - CPU: 19.1%, Memory: 33.7%, Disk: 94.8%, Network: 577.63MB sent, 8955.75MB received
+2025-08-04 00:54:16,624 - Processed 1600 audio chunks (vol: 1993)
+2025-08-04 00:54:22,756 - Processed 1700 audio chunks (vol: 1993)
+2025-08-04 00:54:28,268 - Processed 1800 audio chunks (vol: 1993)
+2025-08-04 00:54:34,122 - Processed 1900 audio chunks (vol: 1993)
+2025-08-04 00:54:41,147 - Processed 2000 audio chunks (vol: 1993)
+2025-08-04 00:54:45,412 - System Event: SYSTEM_STATUS - System Status - CPU: 4.7%, Memory: 33.5%, Disk: 94.8%, Network: 577.68MB sent, 8955.83MB received
+2025-08-04 00:54:46,810 - Processed 2100 audio chunks (vol: 1993)
+2025-08-04 00:54:53,620 - Processed 2200 audio chunks (vol: 1993)
+2025-08-04 00:54:59,508 - Processed 2300 audio chunks (vol: 1993)
+2025-08-04 00:55:05,431 - Processed 2400 audio chunks (vol: 1993)
+2025-08-04 00:55:12,867 - Processed 2500 audio chunks (vol: 1993)
+2025-08-04 00:55:16,429 - System Event: SYSTEM_STATUS - System Status - CPU: 1.2%, Memory: 33.4%, Disk: 94.8%, Network: 577.74MB sent, 8955.9MB received
+2025-08-04 00:55:19,557 - Processed 2600 audio chunks (vol: 1993)
+2025-08-04 00:55:25,185 - Processed 2700 audio chunks (vol: 1993)
+2025-08-04 00:55:30,766 - Processed 2800 audio chunks (vol: 1993)
+2025-08-04 00:55:35,926 - Processed 2900 audio chunks (vol: 1993)
+2025-08-04 00:55:42,065 - Processed 3000 audio chunks (vol: 1993)
+2025-08-04 00:55:47,448 - System Event: SYSTEM_STATUS - System Status - CPU: 3.3%, Memory: 33.3%, Disk: 94.8%, Network: 577.75MB sent, 8955.93MB received
+2025-08-04 00:55:48,913 - Processed 3100 audio chunks (vol: 1993)
+2025-08-04 00:55:54,887 - Processed 3200 audio chunks (vol: 1993)
+2025-08-04 00:56:01,975 - Processed 3300 audio chunks (vol: 1993)
+2025-08-04 00:56:07,846 - Processed 3400 audio chunks (vol: 1993)
+2025-08-04 00:56:12,944 - Processed 3500 audio chunks (vol: 1993)
+2025-08-04 00:56:18,463 - System Event: SYSTEM_STATUS - System Status - CPU: 3.9%, Memory: 33.5%, Disk: 94.8%, Network: 577.81MB sent, 8956.03MB received
+2025-08-04 00:56:19,109 - Processed 3600 audio chunks (vol: 1993)
+2025-08-04 00:56:25,464 - Processed 3700 audio chunks (vol: 1993)
+2025-08-04 00:56:30,816 - Processed 3800 audio chunks (vol: 1993)
+2025-08-04 00:56:37,150 - Processed 3900 audio chunks (vol: 1993)
+2025-08-04 00:56:42,845 - Processed 4000 audio chunks (vol: 1993)
+2025-08-04 00:56:49,225 - Processed 4100 audio chunks (vol: 1993)
+2025-08-04 00:56:49,492 - System Event: SYSTEM_STATUS - System Status - CPU: 11.2%, Memory: 33.5%, Disk: 94.8%, Network: 577.88MB sent, 8956.25MB received
+2025-08-04 00:56:54,884 - Processed 4200 audio chunks (vol: 1993)
+2025-08-04 00:57:01,317 - Processed 4300 audio chunks (vol: 1993)
+2025-08-04 00:57:08,175 - Processed 4400 audio chunks (vol: 1993)
+2025-08-04 00:57:14,618 - Processed 4500 audio chunks (vol: 1993)
+2025-08-04 00:57:20,507 - System Event: SYSTEM_STATUS - System Status - CPU: 3.7%, Memory: 33.5%, Disk: 94.8%, Network: 577.9MB sent, 8956.29MB received
+2025-08-04 00:57:20,649 - Processed 4600 audio chunks (vol: 1993)
+2025-08-04 00:57:26,834 - Processed 4700 audio chunks (vol: 1993)
+2025-08-04 00:57:32,507 - Processed 4800 audio chunks (vol: 1993)
+2025-08-04 00:57:38,202 - Processed 4900 audio chunks (vol: 1993)
+2025-08-04 00:57:43,793 - Processed 5000 audio chunks (vol: 1993)
+2025-08-04 00:57:50,185 - Processed 5100 audio chunks (vol: 1993)
+2025-08-04 00:57:51,523 - System Event: SYSTEM_STATUS - System Status - CPU: 4.3%, Memory: 33.4%, Disk: 94.8%, Network: 577.94MB sent, 8956.35MB received
+2025-08-04 00:57:57,348 - Processed 5200 audio chunks (vol: 1993)
+2025-08-04 00:58:04,962 - Processed 5300 audio chunks (vol: 1993)
+2025-08-04 00:58:10,575 - Processed 5400 audio chunks (vol: 1993)
+2025-08-04 00:58:17,491 - Processed 5500 audio chunks (vol: 1993)
+2025-08-04 00:58:22,538 - System Event: SYSTEM_STATUS - System Status - CPU: 10.0%, Memory: 33.4%, Disk: 94.8%, Network: 577.96MB sent, 8956.39MB received
+2025-08-04 00:58:23,322 - Processed 5600 audio chunks (vol: 1993)
+2025-08-04 00:58:30,473 - Processed 5700 audio chunks (vol: 1993)
+2025-08-04 00:58:36,711 - Processed 5800 audio chunks (vol: 1993)
+2025-08-04 00:58:43,369 - Processed 5900 audio chunks (vol: 1993)
+2025-08-04 00:58:49,030 - Processed 6000 audio chunks (vol: 1993)
+2025-08-04 00:58:53,553 - System Event: SYSTEM_STATUS - System Status - CPU: 2.5%, Memory: 33.3%, Disk: 94.8%, Network: 577.98MB sent, 8956.43MB received
+2025-08-04 00:58:56,180 - Processed 6100 audio chunks (vol: 1993)
+2025-08-04 00:59:02,294 - Processed 6200 audio chunks (vol: 1993)
+2025-08-04 00:59:08,521 - Processed 6300 audio chunks (vol: 1993)
+2025-08-04 00:59:14,511 - Processed 6400 audio chunks (vol: 1993)
+2025-08-04 00:59:20,564 - Processed 6500 audio chunks (vol: 1993)
+2025-08-04 00:59:24,571 - System Event: SYSTEM_STATUS - System Status - CPU: 16.1%, Memory: 33.3%, Disk: 94.8%, Network: 578.02MB sent, 8956.57MB received
+2025-08-04 00:59:26,917 - Processed 6600 audio chunks (vol: 1993)
+2025-08-04 00:59:33,129 - Processed 6700 audio chunks (vol: 1993)
+2025-08-04 00:59:39,034 - Processed 6800 audio chunks (vol: 1993)
+2025-08-04 00:59:45,405 - Processed 6900 audio chunks (vol: 1993)
+2025-08-04 00:59:51,798 - Processed 7000 audio chunks (vol: 1993)
+2025-08-04 00:59:55,587 - System Event: SYSTEM_STATUS - System Status - CPU: 5.3%, Memory: 33.4%, Disk: 94.8%, Network: 578.04MB sent, 8956.61MB received
+2025-08-04 00:59:57,196 - Processed 7100 audio chunks (vol: 1993)
+2025-08-04 01:00:02,627 - Processed 7200 audio chunks (vol: 1993)
+2025-08-04 01:00:09,717 - Processed 7300 audio chunks (vol: 1993)
+2025-08-04 01:00:15,383 - Processed 7400 audio chunks (vol: 1993)
+2025-08-04 01:00:22,154 - Processed 7500 audio chunks (vol: 1993)
+2025-08-04 01:00:26,603 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 33.3%, Disk: 94.8%, Network: 578.06MB sent, 8956.64MB received
+2025-08-04 01:00:28,601 - Processed 7600 audio chunks (vol: 1993)
+2025-08-04 01:00:35,056 - Processed 7700 audio chunks (vol: 1993)
+2025-08-04 01:00:40,834 - Processed 7800 audio chunks (vol: 1993)
+2025-08-04 01:00:47,113 - Processed 7900 audio chunks (vol: 1993)
+2025-08-04 01:00:53,408 - Processed 8000 audio chunks (vol: 1993)
+2025-08-04 01:00:57,620 - System Event: SYSTEM_STATUS - System Status - CPU: 3.5%, Memory: 33.3%, Disk: 94.8%, Network: 578.12MB sent, 8956.72MB received
+2025-08-04 01:00:58,580 - Processed 8100 audio chunks (vol: 1993)
+2025-08-04 01:01:04,129 - Processed 8200 audio chunks (vol: 1993)
+2025-08-04 01:01:09,414 - Processed 8300 audio chunks (vol: 1993)
+2025-08-04 01:01:15,199 - Processed 8400 audio chunks (vol: 1993)
+2025-08-04 01:01:21,023 - Processed 8500 audio chunks (vol: 1993)
+2025-08-04 01:01:27,253 - Processed 8600 audio chunks (vol: 1993)
+2025-08-04 01:01:28,636 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 33.3%, Disk: 94.8%, Network: 578.18MB sent, 8956.94MB received
+2025-08-04 01:01:33,608 - Processed 8700 audio chunks (vol: 1993)
+2025-08-04 01:01:39,375 - Processed 8800 audio chunks (vol: 1993)
+2025-08-04 01:01:46,298 - Processed 8900 audio chunks (vol: 1993)
+2025-08-04 01:01:51,729 - Processed 9000 audio chunks (vol: 1993)
+2025-08-04 01:01:57,282 - Processed 9100 audio chunks (vol: 1993)
+2025-08-04 01:01:59,652 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 33.3%, Disk: 94.8%, Network: 578.25MB sent, 8957.04MB received
+2025-08-04 01:02:03,816 - Processed 9200 audio chunks (vol: 1993)
+2025-08-04 01:02:09,781 - Processed 9300 audio chunks (vol: 1993)
+2025-08-04 01:02:16,111 - Processed 9400 audio chunks (vol: 1993)
+2025-08-04 01:02:22,637 - Processed 9500 audio chunks (vol: 1993)
+2025-08-04 01:02:29,176 - Processed 9600 audio chunks (vol: 1993)
+2025-08-04 01:02:30,667 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 33.2%, Disk: 94.8%, Network: 578.27MB sent, 8957.07MB received
+2025-08-04 01:02:35,811 - Processed 9700 audio chunks (vol: 1993)
+2025-08-04 01:02:42,599 - Processed 9800 audio chunks (vol: 1993)
+2025-08-04 01:02:48,925 - Processed 9900 audio chunks (vol: 1993)
+2025-08-04 01:02:54,852 - Processed 10000 audio chunks (vol: 1993)
+2025-08-04 01:03:01,342 - Processed 10100 audio chunks (vol: 1993)
+2025-08-04 01:03:01,682 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 33.3%, Disk: 94.8%, Network: 578.31MB sent, 8957.14MB received
+2025-08-04 01:03:07,521 - Processed 10200 audio chunks (vol: 1993)
+2025-08-04 01:03:13,957 - Processed 10300 audio chunks (vol: 1993)
+2025-08-04 01:03:19,435 - Processed 10400 audio chunks (vol: 1993)
+2025-08-04 01:03:26,025 - Processed 10500 audio chunks (vol: 1993)
+2025-08-04 01:03:31,615 - Processed 10600 audio chunks (vol: 1993)
+2025-08-04 01:03:32,702 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 33.3%, Disk: 94.8%, Network: 578.33MB sent, 8957.18MB received
+2025-08-04 01:03:38,283 - Processed 10700 audio chunks (vol: 1993)
+2025-08-04 01:03:44,374 - Processed 10800 audio chunks (vol: 1993)
+2025-08-04 01:03:50,057 - Processed 10900 audio chunks (vol: 1993)
+2025-08-04 01:03:56,351 - Processed 11000 audio chunks (vol: 1993)
+2025-08-04 01:04:02,780 - Processed 11100 audio chunks (vol: 1993)
+2025-08-04 01:04:03,735 - System Event: SYSTEM_STATUS - System Status - CPU: 5.7%, Memory: 33.5%, Disk: 94.8%, Network: 578.41MB sent, 8957.24MB received
+2025-08-04 01:04:08,382 - Processed 11200 audio chunks (vol: 1993)
+2025-08-04 01:04:14,372 - Processed 11300 audio chunks (vol: 1993)
+2025-08-04 01:04:20,544 - Processed 11400 audio chunks (vol: 1993)
+2025-08-04 01:04:27,684 - Processed 11500 audio chunks (vol: 1993)
+2025-08-04 01:04:34,377 - Processed 11600 audio chunks (vol: 1993)
+2025-08-04 01:04:34,751 - System Event: SYSTEM_STATUS - System Status - CPU: 5.5%, Memory: 33.5%, Disk: 94.8%, Network: 578.45MB sent, 8957.29MB received
+2025-08-04 01:04:39,535 - Processed 11700 audio chunks (vol: 1993)
+2025-08-04 01:04:46,745 - Processed 11800 audio chunks (vol: 1993)
+2025-08-04 01:04:53,271 - Processed 11900 audio chunks (vol: 1993)
+2025-08-04 01:04:59,441 - Processed 12000 audio chunks (vol: 1993)
+2025-08-04 01:05:05,143 - Processed 12100 audio chunks (vol: 1993)
+2025-08-04 01:05:05,768 - System Event: SYSTEM_STATUS - System Status - CPU: 8.4%, Memory: 33.4%, Disk: 94.8%, Network: 578.5MB sent, 8957.37MB received
+2025-08-04 01:05:11,233 - Processed 12200 audio chunks (vol: 1993)
+2025-08-04 01:05:17,989 - Processed 12300 audio chunks (vol: 1993)
+2025-08-04 01:05:24,359 - Processed 12400 audio chunks (vol: 1993)
+2025-08-04 01:05:30,537 - Processed 12500 audio chunks (vol: 1993)
+2025-08-04 01:05:36,788 - System Event: SYSTEM_STATUS - System Status - CPU: 3.5%, Memory: 33.4%, Disk: 94.8%, Network: 578.52MB sent, 8957.4MB received
+2025-08-04 01:05:36,821 - Processed 12600 audio chunks (vol: 1993)
+2025-08-04 01:05:42,417 - Processed 12700 audio chunks (vol: 1993)
+2025-08-04 01:05:47,880 - Processed 12800 audio chunks (vol: 1993)
+2025-08-04 01:05:54,604 - Processed 12900 audio chunks (vol: 1993)
+2025-08-04 01:06:01,054 - Processed 13000 audio chunks (vol: 1993)
+2025-08-04 01:06:06,239 - Processed 13100 audio chunks (vol: 1993)
+2025-08-04 01:06:07,805 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 33.4%, Disk: 94.8%, Network: 578.56MB sent, 8957.47MB received
+2025-08-04 01:06:12,034 - Processed 13200 audio chunks (vol: 1993)
+2025-08-04 01:06:17,192 - Processed 13300 audio chunks (vol: 1993)
+2025-08-04 01:06:23,014 - Processed 13400 audio chunks (vol: 1993)
+2025-08-04 01:06:29,143 - Processed 13500 audio chunks (vol: 1993)
+2025-08-04 01:06:36,306 - Processed 13600 audio chunks (vol: 1993)
+2025-08-04 01:06:38,838 - System Event: SYSTEM_STATUS - System Status - CPU: 2.9%, Memory: 33.4%, Disk: 94.8%, Network: 578.61MB sent, 8957.65MB received
+2025-08-04 01:06:42,413 - Processed 13700 audio chunks (vol: 1993)
+2025-08-04 01:06:48,011 - Processed 13800 audio chunks (vol: 1993)
+2025-08-04 01:06:52,117 - Received signal 2, shutting down...
+2025-08-04 01:06:52,117 - Stopping JARVIS components...
+2025-08-04 01:06:52,129 - Stopped listening
+2025-08-04 01:06:52,148 - Speech recognition cleaned up
+2025-08-04 01:06:53,159 - Activity monitoring stopped
+2025-08-04 01:06:53,159 - System tray stopped
+2025-08-04 01:06:53,160 - JARVIS Assistant stopped
+2025-08-04 15:28:25,881 - Text-to-speech engine initialized
+2025-08-04 15:28:26,496 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 15:28:27,372 - Vosk speech recognition initialized
+2025-08-04 15:28:27,673 - Using working microphone device 4: Headphones (Bose QC45 Stereo)
+2025-08-04 15:28:28,597 - JARVIS Assistant started
+2025-08-04 15:28:28,598 - Starting JARVIS components...
+2025-08-04 15:28:28,618 - Activity monitoring started
+2025-08-04 15:28:28,638 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:28:28,649 - System Event: PROCESS_STARTED - cmd.exe
+2025-08-04 15:28:28,649 - Started in text-only mode - audio input disabled
+2025-08-04 15:28:28,699 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:28:28,715 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:28:28,725 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:28:28,733 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:28:28,753 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:28:28,762 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:28:28,804 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:28:28,808 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:28:28,812 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:28:28,821 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:28:28,827 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:28:28,828 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:28:28,835 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:28:28,845 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:28:28,851 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:28:28,854 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:28:28,858 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:28:28,859 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:28:28,864 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:28:28,877 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:28:28,882 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:28:29,061 - System tray started
+2025-08-04 15:28:29,085 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-04 15:28:29,086 - JARVIS Assistant fully started
+2025-08-04 15:28:29,900 - System Event: SYSTEM_STATUS - System Status - CPU: 24.2%, Memory: 20.8%, Disk: 96.9%, Network: 6.71MB sent, 10.17MB received
+2025-08-04 15:29:00,919 - System Event: SYSTEM_STATUS - System Status - CPU: 4.9%, Memory: 20.9%, Disk: 96.9%, Network: 7.97MB sent, 10.5MB received
+2025-08-04 15:29:37,575 - Text-to-speech engine initialized
+2025-08-04 15:29:37,765 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 15:29:38,476 - Vosk speech recognition initialized
+2025-08-04 15:29:38,584 - Using working microphone device 18: Headset (Bose QC45 Hands-Free AG Audio)
+2025-08-04 15:29:40,334 - Microphone initialized successfully
+2025-08-04 15:29:41,129 - JARVIS Assistant started
+2025-08-04 15:29:41,130 - Starting JARVIS components...
+2025-08-04 15:29:41,135 - Activity monitoring started
+2025-08-04 15:29:41,155 - Audio capture loop started with noise filtering
+2025-08-04 15:29:41,161 - Speech recognition processing started
+2025-08-04 15:29:41,177 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:29:41,177 - Started listening for hotword
+2025-08-04 15:29:41,189 - System Event: PROCESS_STARTED - cmd.exe
+2025-08-04 15:29:41,189 - Keyboard override: Press 'h' key to manually trigger hotword
+2025-08-04 15:29:41,242 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:29:41,257 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:29:41,262 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:29:41,275 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:29:41,295 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:29:41,303 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:29:41,346 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:29:41,351 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:29:41,355 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:29:41,362 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:29:41,363 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:29:41,372 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:29:41,372 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:29:41,376 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:29:41,390 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:29:41,398 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:29:41,400 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:29:41,405 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:29:41,406 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:29:41,413 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:29:41,428 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:29:41,432 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:29:41,537 - System tray started
+2025-08-04 15:29:41,557 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-04 15:29:41,557 - JARVIS Assistant fully started
+2025-08-04 15:29:42,448 - System Event: SYSTEM_STATUS - System Status - CPU: 25.9%, Memory: 21.1%, Disk: 96.9%, Network: 10.62MB sent, 10.99MB received
+2025-08-04 15:30:10,726 - Partial result: 'hello'
+2025-08-04 15:30:10,727 - Hotword detected: 'hello' in 'hello'
+2025-08-04 15:30:10,727 - Hotword detected
+2025-08-04 15:30:10,732 - Responding with: At your service.
+2025-08-04 15:30:13,472 - System Event: SYSTEM_STATUS - System Status - CPU: 4.7%, Memory: 21.2%, Disk: 96.9%, Network: 12.41MB sent, 11.42MB received
+2025-08-04 15:30:44,487 - System Event: SYSTEM_STATUS - System Status - CPU: 0.4%, Memory: 21.3%, Disk: 96.9%, Network: 13.5MB sent, 13.89MB received
+2025-08-04 15:31:15,503 - System Event: SYSTEM_STATUS - System Status - CPU: 8.1%, Memory: 21.1%, Disk: 96.9%, Network: 13.55MB sent, 14.06MB received
+2025-08-04 15:31:46,517 - System Event: SYSTEM_STATUS - System Status - CPU: 1.6%, Memory: 21.3%, Disk: 96.9%, Network: 14.69MB sent, 14.27MB received
+2025-08-04 15:31:58,019 - Text-to-speech engine initialized
+2025-08-04 15:31:58,020 - Speaking: Hello, this is a TTS test. Can you hear me?
+2025-08-04 15:32:02,989 - Speaking: Yes sir? I'm listening.
+2025-08-04 15:32:03,086 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-04 15:32:17,535 - System Event: SYSTEM_STATUS - System Status - CPU: 8.9%, Memory: 21.4%, Disk: 96.9%, Network: 15.19MB sent, 14.48MB received
+2025-08-04 15:32:48,570 - System Event: SYSTEM_STATUS - System Status - CPU: 4.1%, Memory: 21.4%, Disk: 96.9%, Network: 17.77MB sent, 15.35MB received
+2025-08-04 15:33:19,586 - System Event: SYSTEM_STATUS - System Status - CPU: 2.1%, Memory: 22.4%, Disk: 96.9%, Network: 18.66MB sent, 15.86MB received
+2025-08-04 15:33:50,602 - System Event: SYSTEM_STATUS - System Status - CPU: 1.2%, Memory: 22.1%, Disk: 96.9%, Network: 18.7MB sent, 15.92MB received
+2025-08-04 15:34:14,939 - Using voice: Microsoft David Desktop - English (United States)
+2025-08-04 15:34:14,939 - Text-to-speech engine initialized
+2025-08-04 15:34:15,159 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 15:34:15,881 - Vosk speech recognition initialized
+2025-08-04 15:34:15,989 - Using working microphone device 18: Headset (Bose QC45 Hands-Free AG Audio)
+2025-08-04 15:34:16,651 - Microphone initialized successfully
+2025-08-04 15:34:17,458 - JARVIS Assistant started
+2025-08-04 15:34:17,458 - Starting JARVIS components...
+2025-08-04 15:34:17,465 - Activity monitoring started
+2025-08-04 15:34:17,476 - Audio capture loop started with noise filtering
+2025-08-04 15:34:17,491 - Speech recognition processing started
+2025-08-04 15:34:17,505 - Started listening for hotword
+2025-08-04 15:34:17,505 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:34:17,506 - Keyboard override: Press 'h' key to manually trigger hotword
+2025-08-04 15:34:17,515 - System Event: PROCESS_STARTED - cmd.exe
+2025-08-04 15:34:17,570 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:34:17,586 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:34:17,590 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:34:17,604 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:34:17,624 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:34:17,633 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:34:17,681 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:34:17,689 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:34:17,692 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:34:17,701 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:34:17,703 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:34:17,710 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:34:17,711 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:34:17,717 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:34:17,728 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:34:17,736 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:34:17,739 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:34:17,745 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:34:17,746 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:34:17,751 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:34:17,768 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:34:17,772 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:34:17,774 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:34:17,857 - System tray started
+2025-08-04 15:34:17,879 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-04 15:34:17,879 - JARVIS Assistant fully started
+2025-08-04 15:34:18,791 - System Event: SYSTEM_STATUS - System Status - CPU: 11.0%, Memory: 22.5%, Disk: 96.9%, Network: 19.78MB sent, 16.08MB received
+2025-08-04 15:34:49,807 - System Event: SYSTEM_STATUS - System Status - CPU: 7.7%, Memory: 22.2%, Disk: 96.9%, Network: 21.12MB sent, 16.43MB received
+2025-08-04 15:35:16,344 - Speech result #2: 'as'
+2025-08-04 15:35:16,344 - Checking for hotword in: 'as'
+2025-08-04 15:35:20,410 - Processed 50 audio chunks (vol: 513)
+2025-08-04 15:35:20,826 - System Event: SYSTEM_STATUS - System Status - CPU: 2.6%, Memory: 22.0%, Disk: 96.9%, Network: 22.06MB sent, 16.88MB received
+2025-08-04 15:35:37,580 - Speech result #3: 'said'
+2025-08-04 15:35:37,580 - Checking for hotword in: 'said'
+2025-08-04 15:35:51,840 - System Event: SYSTEM_STATUS - System Status - CPU: 3.3%, Memory: 22.0%, Disk: 96.9%, Network: 22.09MB sent, 16.91MB received
+2025-08-04 15:36:03,982 - Using David's voice: Microsoft David Desktop - English (United States)
+2025-08-04 15:36:03,983 - Text-to-speech engine initialized
+2025-08-04 15:36:04,187 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 15:36:04,898 - Vosk speech recognition initialized
+2025-08-04 15:36:05,009 - Using working microphone device 18: Headset (Bose QC45 Hands-Free AG Audio)
+2025-08-04 15:36:05,657 - Microphone initialized successfully
+2025-08-04 15:36:06,468 - JARVIS Assistant started
+2025-08-04 15:36:06,469 - Starting JARVIS components...
+2025-08-04 15:36:06,476 - Activity monitoring started
+2025-08-04 15:36:06,495 - Audio capture loop started with noise filtering
+2025-08-04 15:36:06,508 - Speech recognition processing started
+2025-08-04 15:36:06,515 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:36:06,515 - Started listening for hotword
+2025-08-04 15:36:06,524 - System Event: PROCESS_STARTED - cmd.exe
+2025-08-04 15:36:06,525 - Keyboard override: Press 'h' key to manually trigger hotword
+2025-08-04 15:36:06,580 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:36:06,594 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:36:06,599 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:36:06,612 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:36:06,635 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:36:06,643 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:36:06,695 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:36:06,700 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:36:06,705 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:36:06,712 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:36:06,713 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:36:06,722 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:36:06,722 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:36:06,727 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:36:06,738 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:36:06,745 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:36:06,748 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 15:36:06,753 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:36:06,754 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:36:06,759 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:36:06,759 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 15:36:06,777 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:36:06,781 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:36:06,785 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 15:36:06,878 - System tray started
+2025-08-04 15:36:06,898 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-04 15:36:06,898 - JARVIS Assistant fully started
+2025-08-04 15:36:07,799 - System Event: SYSTEM_STATUS - System Status - CPU: 14.4%, Memory: 22.2%, Disk: 96.9%, Network: 23.23MB sent, 17.15MB received
+2025-08-04 15:36:26,527 - Partial result: 'i'll be'
+2025-08-04 15:36:34,159 - Partial result: 'i'll be a'
+2025-08-04 15:36:34,621 - Partial result: 'i'll be a'
+2025-08-04 15:36:35,404 - Partial result: 'i'll be able'
+2025-08-04 15:36:38,378 - Partial result: 'i'll be able to'
+2025-08-04 15:36:38,661 - Partial result: 'i'll be a dime a dozen'
+2025-08-04 15:36:38,815 - System Event: SYSTEM_STATUS - System Status - CPU: 8.0%, Memory: 22.2%, Disk: 96.9%, Network: 24.83MB sent, 17.67MB received
+2025-08-04 15:36:42,857 - Partial result: 'i'll be a dime a dozen is'
+2025-08-04 15:36:43,092 - Partial result: 'i'll be a dime a dozen is a'
+2025-08-04 15:36:46,203 - Partial result: 'i'll be a dime a dozen is asia'
+2025-08-04 15:36:46,471 - Partial result: 'i'll be a dime a dozen is asia and the'
+2025-08-04 15:36:46,728 - Partial result: 'i'll be a dime a dozen is asia and the'
+2025-08-04 15:36:46,924 - Partial result: 'i'll be a dime a dozen is asia and the diamond'
+2025-08-04 15:36:47,430 - Partial result: 'i'll be a dime a dozen is asia and the a dime a dozen'
+2025-08-04 15:36:47,714 - Partial result: 'i'll be a dime a dozen is asia and the diamond isn't it'
+2025-08-04 15:36:47,954 - Partial result: 'i'll be a dime a dozen is asia and the diamond isn't that what'
+2025-08-04 15:36:50,504 - Partial result: 'i'll be a dime a dozen is asia and the diamond isn't that what what'
+2025-08-04 15:36:50,745 - Partial result: 'i'll be a dime a dozen is asia and the diamond isn't that what what'
+2025-08-04 15:36:55,033 - Manual hotword trigger via keyboard!
+2025-08-04 15:36:55,033 - Hotword detected
+2025-08-04 15:36:55,035 - Responding with: At your service.
+2025-08-04 15:37:09,830 - System Event: SYSTEM_STATUS - System Status - CPU: 2.7%, Memory: 22.1%, Disk: 96.9%, Network: 24.89MB sent, 17.74MB received
+2025-08-04 15:37:36,827 - Speech result #1: 'would be a dime a dozen is asia and the diamond isn't that what what age are the house'
+2025-08-04 15:37:36,827 - Command detected: would be a dime a dozen is asia and the diamond isn't that what what age are the house
+2025-08-04 15:37:37,382 - Voice command executed - 'would be a dime a dozen is asia and the diamond isn't that what what age are the house' - SUCCESS
+2025-08-04 15:37:37,383 - Voice command executed - 'would be a dime a dozen is asia and the diamond isn't that what what age are the house' - FAILED
+2025-08-04 15:37:40,862 - System Event: SYSTEM_STATUS - System Status - CPU: 5.7%, Memory: 22.4%, Disk: 96.9%, Network: 26.96MB sent, 18.07MB received
+2025-08-04 15:38:11,881 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 22.9%, Disk: 96.9%, Network: 27.64MB sent, 18.59MB received
+2025-08-04 15:38:17,268 - Processed 50 audio chunks (vol: 894)
+2025-08-04 15:38:42,897 - System Event: SYSTEM_STATUS - System Status - CPU: 4.1%, Memory: 22.5%, Disk: 96.9%, Network: 27.79MB sent, 18.67MB received
+2025-08-04 15:38:43,891 - Processed 100 audio chunks (vol: 783)
+2025-08-04 15:38:54,223 - Partial result: 'results'
+2025-08-04 15:38:57,526 - Speech result #6: 'results'
+2025-08-04 15:38:57,527 - Checking for hotword in: 'results'
+2025-08-04 15:39:00,612 - Partial result: 'eight hours'
+2025-08-04 15:39:04,425 - Partial result: 'eight hours'
+2025-08-04 15:39:07,230 - Partial result: 'eight hours a'
+2025-08-04 15:39:07,473 - Partial result: 'eight hours a'
+2025-08-04 15:39:11,319 - Partial result: 'eight hours say a'
+2025-08-04 15:39:11,570 - Partial result: 'eight hours say a'
+2025-08-04 15:39:11,838 - Partial result: 'eight hours say hey hey'
+2025-08-04 15:39:12,342 - Partial result: 'eight hours say hey i'
+2025-08-04 15:39:13,862 - Partial result: 'eight hours say hey i'
+2025-08-04 15:39:13,911 - System Event: SYSTEM_STATUS - System Status - CPU: 4.1%, Memory: 23.0%, Disk: 96.9%, Network: 28.75MB sent, 20.03MB received
+2025-08-04 15:39:17,971 - Partial result: 'eight hours say hey i'
+2025-08-04 15:39:18,236 - Speech result #7: 'eight hours say hey hey'
+2025-08-04 15:39:18,236 - Checking for hotword in: 'eight hours say hey hey'
+2025-08-04 15:39:25,373 - Processed 150 audio chunks (vol: 973)
+2025-08-04 15:39:44,926 - System Event: SYSTEM_STATUS - System Status - CPU: 4.1%, Memory: 22.6%, Disk: 96.9%, Network: 28.78MB sent, 20.08MB received
+2025-08-04 15:39:49,186 - Processed 200 audio chunks (vol: 530)
+2025-08-04 15:40:13,764 - Processed 250 audio chunks (vol: 1488)
+2025-08-04 15:40:15,943 - System Event: SYSTEM_STATUS - System Status - CPU: 6.2%, Memory: 22.7%, Disk: 96.9%, Network: 28.83MB sent, 20.15MB received
+2025-08-04 15:40:46,960 - System Event: SYSTEM_STATUS - System Status - CPU: 13.0%, Memory: 22.4%, Disk: 96.9%, Network: 33.71MB sent, 129.2MB received
+2025-08-04 15:40:55,750 - Processed 300 audio chunks (vol: 1745)
+2025-08-04 15:41:12,689 - Speech result #18: 'stairs'
+2025-08-04 15:41:12,689 - Checking for hotword in: 'stairs'
+2025-08-04 15:41:16,484 - Processed 350 audio chunks (vol: 2833)
+2025-08-04 15:41:17,976 - System Event: SYSTEM_STATUS - System Status - CPU: 12.6%, Memory: 22.5%, Disk: 97.0%, Network: 44.98MB sent, 378.19MB received
+2025-08-04 15:41:35,189 - Processed 400 audio chunks (vol: 697)
+2025-08-04 15:41:35,210 - Speech result #21: 'source'
+2025-08-04 15:41:35,210 - Checking for hotword in: 'source'
+2025-08-04 15:41:48,993 - System Event: SYSTEM_STATUS - System Status - CPU: 19.3%, Memory: 22.5%, Disk: 97.0%, Network: 54.45MB sent, 590.09MB received
+2025-08-04 15:41:50,029 - Processed 450 audio chunks (vol: 2338)
+2025-08-04 15:41:57,979 - Partial result: 'six'
+2025-08-04 15:41:58,747 - Partial result: 'six'
+2025-08-04 15:41:59,107 - Partial result: 'six'
+2025-08-04 15:42:00,034 - Speech result #25: 'six'
+2025-08-04 15:42:00,034 - Checking for hotword in: 'six'
+2025-08-04 15:42:08,974 - Processed 500 audio chunks (vol: 949)
+2025-08-04 15:42:20,013 - System Event: SYSTEM_STATUS - System Status - CPU: 9.4%, Memory: 22.7%, Disk: 97.1%, Network: 66.7MB sent, 834.9MB received
+2025-08-04 15:42:34,831 - Processed 550 audio chunks (vol: 2901)
+2025-08-04 15:42:51,031 - System Event: SYSTEM_STATUS - System Status - CPU: 10.5%, Memory: 22.5%, Disk: 97.1%, Network: 76.52MB sent, 1071.14MB received
+2025-08-04 15:43:01,461 - Processed 600 audio chunks (vol: 1051)
+2025-08-04 15:43:22,064 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 23.4%, Disk: 97.1%, Network: 77.32MB sent, 1071.52MB received
+2025-08-04 15:43:47,343 - Speech result #33: 'sure'
+2025-08-04 15:43:47,343 - Checking for hotword in: 'sure'
+2025-08-04 15:43:53,080 - System Event: SYSTEM_STATUS - System Status - CPU: 4.7%, Memory: 23.4%, Disk: 97.1%, Network: 77.62MB sent, 1071.97MB received
+2025-08-04 15:43:53,699 - Processed 650 audio chunks (vol: 581)
+2025-08-04 15:44:05,241 - Speech result #35: 'true'
+2025-08-04 15:44:05,242 - Checking for hotword in: 'true'
+2025-08-04 15:44:16,486 - Processed 700 audio chunks (vol: 683)
+2025-08-04 15:44:24,097 - System Event: SYSTEM_STATUS - System Status - CPU: 4.9%, Memory: 23.6%, Disk: 97.1%, Network: 78.65MB sent, 1072.19MB received
+2025-08-04 15:44:31,848 - Processed 750 audio chunks (vol: 602)
+2025-08-04 15:44:40,846 - Partial result: 'please'
+2025-08-04 15:44:46,019 - Speech result #41: 'please'
+2025-08-04 15:44:46,020 - Checking for hotword in: 'please'
+2025-08-04 15:44:48,053 - Processed 800 audio chunks (vol: 740)
+2025-08-04 15:44:53,445 - System Event: SYSTEM_STATUS - System Status - CPU: 7.6%, Memory: 23.4%, Disk: 97.1%, Network: 78.72MB sent, 1072.3MB received
+2025-08-04 15:45:03,417 - Processed 850 audio chunks (vol: 611)
+2025-08-04 15:45:17,240 - Processed 900 audio chunks (vol: 1469)
+2025-08-04 15:45:21,627 - Speech result #47: 'so'
+2025-08-04 15:45:21,628 - Checking for hotword in: 'so'
+2025-08-04 15:45:24,471 - System Event: SYSTEM_STATUS - System Status - CPU: 1.8%, Memory: 23.7%, Disk: 97.1%, Network: 79.62MB sent, 1073.82MB received
+2025-08-04 15:45:34,136 - Processed 950 audio chunks (vol: 3153)
+2025-08-04 15:45:49,767 - Processed 1000 audio chunks (vol: 1771)
+2025-08-04 15:45:55,487 - System Event: SYSTEM_STATUS - System Status - CPU: 0.4%, Memory: 23.4%, Disk: 97.1%, Network: 79.7MB sent, 1073.87MB received
+2025-08-04 15:46:07,202 - Using David's voice: Microsoft David Desktop - English (United States)
+2025-08-04 15:46:07,203 - Text-to-speech engine initialized
+2025-08-04 15:46:07,526 - Using microphone: Microphone Array (Realtek High 
+2025-08-04 15:46:07,738 - Microphone initialized
+2025-08-04 15:46:15,169 - Vosk initialized with model: models/vosk-model-small-en-us-0.15
+2025-08-04 15:46:15,169 - Speech recognition engines initialized: OpenAI Whisper, Vosk
+2025-08-04 15:46:15,170 - Using working microphone device 18: Headset (Bose QC45 Hands-Free AG Audio)
+2025-08-04 15:46:15,177 - Microphone initialized successfully
+2025-08-04 15:46:15,179 - Speech recognition started
+2025-08-04 15:46:23,844 - Partial result: 'a a'
+2025-08-04 15:46:24,099 - Partial result: 'a a'
+2025-08-04 15:46:26,506 - System Event: SYSTEM_STATUS - System Status - CPU: 10.0%, Memory: 25.9%, Disk: 97.1%, Network: 79.84MB sent, 1074.14MB received
+2025-08-04 15:46:26,911 - Partial result: 'a a a'
+2025-08-04 15:46:27,188 - Partial result: 'a a a'
+2025-08-04 15:46:56,401 - Speech recognition stopped
+2025-08-04 15:46:56,401 - Speech recognition stopped
+2025-08-04 15:46:57,522 - System Event: SYSTEM_STATUS - System Status - CPU: 11.5%, Memory: 23.2%, Disk: 97.1%, Network: 79.87MB sent, 1074.21MB received
+2025-08-04 15:47:08,261 - Using David's voice: Microsoft David Desktop - English (United States)
+2025-08-04 15:47:08,261 - Text-to-speech engine initialized
+2025-08-04 15:47:08,449 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 15:47:09,163 - Vosk speech recognition initialized
+2025-08-04 15:47:09,300 - Using working microphone device 18: Headset (Bose QC45 Hands-Free AG Audio)
+2025-08-04 15:47:10,030 - Microphone initialized successfully
+2025-08-04 15:47:28,537 - System Event: SYSTEM_STATUS - System Status - CPU: 2.8%, Memory: 23.5%, Disk: 97.1%, Network: 81.65MB sent, 1074.67MB received
+2025-08-04 15:47:59,557 - System Event: SYSTEM_STATUS - System Status - CPU: 21.3%, Memory: 23.6%, Disk: 97.1%, Network: 83.63MB sent, 1075.26MB received
+2025-08-04 15:48:30,577 - System Event: SYSTEM_STATUS - System Status - CPU: 0.8%, Memory: 23.5%, Disk: 97.1%, Network: 85.85MB sent, 1075.86MB received
+2025-08-04 15:49:01,592 - System Event: SYSTEM_STATUS - System Status - CPU: 0.0%, Memory: 23.2%, Disk: 97.1%, Network: 86.02MB sent, 1075.97MB received
+2025-08-04 15:49:18,615 - Using David's voice: Microsoft David Desktop - English (United States)
+2025-08-04 15:49:18,616 - Text-to-speech engine initialized
+2025-08-04 15:49:18,922 - Using microphone: Microphone Array (Realtek High 
+2025-08-04 15:49:19,130 - Microphone initialized
+2025-08-04 15:49:19,131 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 15:49:19,866 - Vosk speech recognition initialized
+2025-08-04 15:49:19,867 - Using working microphone device 18: Headset (Bose QC45 Hands-Free AG Audio)
+2025-08-04 15:49:20,751 - Microphone initialized successfully
+2025-08-04 16:16:52,912 - Using David's voice: Microsoft David Desktop - English (United States)
+2025-08-04 16:16:52,912 - Text-to-speech engine initialized
+2025-08-04 16:16:56,960 - Whisper model loaded successfully
+2025-08-04 16:16:56,960 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 16:16:57,722 - Vosk speech recognition initialized
+2025-08-04 16:16:57,800 - Using working microphone device 18: Headphones ()
+2025-08-04 16:18:06,829 - Using David's voice: Microsoft David Desktop - English (United States)
+2025-08-04 16:18:06,829 - Text-to-speech engine initialized
+2025-08-04 16:18:11,092 - Whisper model loaded successfully
+2025-08-04 16:18:11,093 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 16:18:11,856 - Vosk speech recognition initialized
+2025-08-04 16:18:11,968 - Using working microphone device 2: Headset (Bose QC45 Hands-Free A
+2025-08-04 16:18:11,989 - Microphone initialized successfully
+2025-08-04 16:19:59,006 - Using David's voice: Microsoft David Desktop - English (United States)
+2025-08-04 16:19:59,006 - Text-to-speech engine initialized
+2025-08-04 16:20:03,384 - Whisper model loaded successfully
+2025-08-04 16:20:03,384 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 16:20:04,129 - Vosk speech recognition initialized
+2025-08-04 16:20:04,240 - Using working microphone device 2: Headset (Bose QC45 Hands-Free A
+2025-08-04 16:20:04,261 - Microphone initialized successfully
+2025-08-04 16:20:05,132 - JARVIS Assistant started
+2025-08-04 16:20:05,132 - Starting JARVIS components...
+2025-08-04 16:20:05,139 - Activity monitoring started
+2025-08-04 16:20:05,152 - Audio capture loop started with noise filtering
+2025-08-04 16:20:05,172 - Speech recognition processing started
+2025-08-04 16:20:05,180 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:20:05,181 - Started listening for hotword
+2025-08-04 16:20:05,190 - System Event: PROCESS_STARTED - cmd.exe
+2025-08-04 16:20:05,191 - Keyboard override: Press 'h' key to manually trigger hotword
+2025-08-04 16:20:05,247 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:20:05,247 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:20:05,264 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:20:05,277 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:20:05,286 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:20:05,295 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:20:05,311 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:20:05,320 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:20:05,368 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:20:05,371 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:20:05,373 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:20:05,380 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:20:05,381 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:20:05,389 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:20:05,389 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:20:05,394 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:20:05,404 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:20:05,412 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:20:05,415 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:20:05,415 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:20:05,421 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:20:05,422 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:20:05,430 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:20:05,433 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:20:05,454 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:20:05,455 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:20:05,460 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:20:05,461 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:20:05,465 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:20:05,558 - System tray started
+2025-08-04 16:20:05,579 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-04 16:20:05,580 - JARVIS Assistant fully started
+2025-08-04 16:20:06,481 - System Event: SYSTEM_STATUS - System Status - CPU: 11.9%, Memory: 26.3%, Disk: 96.7%, Network: 78.84MB sent, 622.57MB received
+2025-08-04 16:20:13,823 - Partial result: 'they'
+2025-08-04 16:20:13,946 - Partial result: 'they'
+2025-08-04 16:20:14,341 - Partial result: 'hey what's that'
+2025-08-04 16:20:14,341 - Hotword detected: 'hey' in 'hey what's that'
+2025-08-04 16:20:14,342 - Hotword detected
+2025-08-04 16:20:14,343 - Responding with: How can I help you?
+2025-08-04 16:20:37,497 - System Event: SYSTEM_STATUS - System Status - CPU: 1.2%, Memory: 25.9%, Disk: 96.7%, Network: 79.97MB sent, 622.78MB received
+2025-08-04 16:21:08,515 - System Event: SYSTEM_STATUS - System Status - CPU: 8.3%, Memory: 25.9%, Disk: 96.7%, Network: 80.01MB sent, 622.83MB received
+2025-08-04 16:21:39,531 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 26.1%, Disk: 96.8%, Network: 82.16MB sent, 636.07MB received
+2025-08-04 16:22:10,547 - System Event: SYSTEM_STATUS - System Status - CPU: 3.3%, Memory: 25.8%, Disk: 96.8%, Network: 82.84MB sent, 643.18MB received
+2025-08-04 16:22:41,564 - System Event: SYSTEM_STATUS - System Status - CPU: 4.1%, Memory: 26.0%, Disk: 96.8%, Network: 83.8MB sent, 646.43MB received
+2025-08-04 16:23:12,580 - System Event: SYSTEM_STATUS - System Status - CPU: 7.1%, Memory: 26.2%, Disk: 96.8%, Network: 85.8MB sent, 646.87MB received
+2025-08-04 16:23:32,963 - Using David's voice: Microsoft David Desktop - English (United States)
+2025-08-04 16:23:32,963 - Text-to-speech engine initialized
+2025-08-04 16:23:32,963 - Speaking: Hello, this is a TTS test. Can you hear me?
+2025-08-04 16:23:37,966 - Speaking: Yes sir? I'm listening.
+2025-08-04 16:23:38,058 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-04 16:23:43,599 - System Event: SYSTEM_STATUS - System Status - CPU: 4.1%, Memory: 26.1%, Disk: 96.8%, Network: 86.99MB sent, 647.25MB received
+2025-08-04 16:24:14,616 - System Event: SYSTEM_STATUS - System Status - CPU: 4.5%, Memory: 26.2%, Disk: 96.8%, Network: 87.92MB sent, 647.85MB received
+2025-08-04 16:24:45,631 - System Event: SYSTEM_STATUS - System Status - CPU: 4.9%, Memory: 26.0%, Disk: 96.8%, Network: 88.69MB sent, 648.49MB received
+2025-08-04 16:25:16,649 - System Event: SYSTEM_STATUS - System Status - CPU: 0.8%, Memory: 26.0%, Disk: 96.8%, Network: 89.52MB sent, 648.73MB received
+2025-08-04 16:25:24,537 - Processed 50 audio chunks (vol: 2459)
+2025-08-04 16:25:47,673 - System Event: SYSTEM_STATUS - System Status - CPU: 7.1%, Memory: 26.1%, Disk: 96.8%, Network: 90.59MB sent, 658.56MB received
+2025-08-04 16:26:18,694 - System Event: SYSTEM_STATUS - System Status - CPU: 3.7%, Memory: 26.1%, Disk: 96.8%, Network: 91.64MB sent, 659.53MB received
+2025-08-04 16:26:49,711 - System Event: SYSTEM_STATUS - System Status - CPU: 9.3%, Memory: 26.0%, Disk: 96.8%, Network: 92.77MB sent, 659.95MB received
+2025-08-04 16:27:05,938 - Using David's voice: Microsoft David Desktop - English (United States)
+2025-08-04 16:27:05,938 - Text-to-speech engine initialized with optimized audio output
+2025-08-04 16:27:10,157 - Whisper model loaded successfully
+2025-08-04 16:27:10,158 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 16:27:10,914 - Vosk speech recognition initialized
+2025-08-04 16:27:11,025 - Using working microphone device 2: Headset (Bose QC45 Hands-Free A
+2025-08-04 16:27:11,040 - Microphone initialized successfully
+2025-08-04 16:27:11,740 - Attempted to start second instance - exiting
+2025-08-04 16:27:20,725 - System Event: SYSTEM_STATUS - System Status - CPU: 2.1%, Memory: 26.2%, Disk: 96.8%, Network: 94.52MB sent, 660.31MB received
+2025-08-04 16:27:51,740 - System Event: SYSTEM_STATUS - System Status - CPU: 0.6%, Memory: 25.9%, Disk: 96.8%, Network: 95.11MB sent, 660.49MB received
+2025-08-04 16:28:22,462 - Using David's voice: Microsoft David Desktop - English (United States)
+2025-08-04 16:28:22,463 - Text-to-speech engine initialized with optimized audio output
+2025-08-04 16:28:26,646 - Whisper model loaded successfully
+2025-08-04 16:28:26,647 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 16:28:27,393 - Vosk speech recognition initialized
+2025-08-04 16:28:27,507 - Using working microphone device 2: Headset (Bose QC45 Hands-Free A
+2025-08-04 16:28:27,527 - Microphone initialized successfully
+2025-08-04 16:28:28,424 - JARVIS Assistant started
+2025-08-04 16:28:28,425 - Starting JARVIS components...
+2025-08-04 16:28:28,432 - Activity monitoring started
+2025-08-04 16:28:28,437 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:28:28,438 - Audio capture loop started with noise filtering
+2025-08-04 16:28:28,451 - Speech recognition processing started
+2025-08-04 16:28:28,473 - Started listening for hotword
+2025-08-04 16:28:28,476 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:28:28,476 - Keyboard override: Press 'h' key to manually trigger hotword
+2025-08-04 16:28:28,485 - System Event: PROCESS_STARTED - cmd.exe
+2025-08-04 16:28:28,509 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:28:28,542 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:28:28,543 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:28:28,562 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:28:28,574 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:28:28,580 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:28:28,589 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:28:28,607 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:28:28,616 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:28:28,664 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:28:28,668 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:28:28,671 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:28:28,678 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:28:28,678 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:28:28,685 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:28:28,686 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:28:28,692 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:28:28,699 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:28:28,709 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:28:28,712 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:28:28,715 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:28:28,717 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:28:28,724 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:28:28,728 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:28:28,742 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:28:28,746 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:28:28,746 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:28:28,752 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:28:28,753 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:28:28,755 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:28:28,836 - System tray started
+2025-08-04 16:28:28,856 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-04 16:28:28,856 - JARVIS Assistant fully started
+2025-08-04 16:28:29,771 - System Event: SYSTEM_STATUS - System Status - CPU: 9.0%, Memory: 26.2%, Disk: 96.8%, Network: 96.33MB sent, 661.22MB received
+2025-08-04 16:28:41,141 - Partial result: 'i don't'
+2025-08-04 16:28:41,250 - Partial result: 'a does'
+2025-08-04 16:28:44,134 - Partial result: 'a does a'
+2025-08-04 16:28:44,602 - Partial result: 'a does a'
+2025-08-04 16:28:49,213 - Partial result: 'a does a pay'
+2025-08-04 16:28:49,706 - Partial result: 'a does a pay'
+2025-08-04 16:28:51,901 - Partial result: 'a does a hey hey'
+2025-08-04 16:28:51,935 - Partial result: 'a does a hey hey hey'
+2025-08-04 16:28:55,351 - Partial result: 'a does a hey hey hey'
+2025-08-04 16:28:55,378 - Partial result: 'a does a hey hey hey hey'
+2025-08-04 16:28:56,366 - Partial result: 'a does a pay pay pay a'
+2025-08-04 16:28:56,878 - Partial result: 'a does a pay pay pay a'
+2025-08-04 16:28:57,376 - Partial result: 'a does a pay pay pay a'
+2025-08-04 16:28:57,395 - Partial result: 'a does a pay pay pay a'
+2025-08-04 16:28:58,414 - Speech result #1: 'a does a hey hey hey hey'
+2025-08-04 16:28:58,414 - Checking for hotword in: 'a does a hey hey hey hey'
+2025-08-04 16:29:00,786 - System Event: SYSTEM_STATUS - System Status - CPU: 2.2%, Memory: 26.1%, Disk: 96.8%, Network: 97.17MB sent, 661.43MB received
+2025-08-04 16:29:29,214 - Manual hotword trigger via keyboard!
+2025-08-04 16:29:29,214 - Hotword detected
+2025-08-04 16:29:29,216 - Responding with: At your service.
+2025-08-04 16:29:31,802 - System Event: SYSTEM_STATUS - System Status - CPU: 3.3%, Memory: 26.0%, Disk: 96.8%, Network: 97.2MB sent, 661.47MB received
+2025-08-04 16:29:48,191 - Command from partial result: 'jar with'
+2025-08-04 16:29:48,192 - Command detected (Vosk): jar with
+2025-08-04 16:29:48,299 - Voice command executed - 'jar with' - SUCCESS
+2025-08-04 16:29:48,299 - Voice command executed - 'jar with' - FAILED
+2025-08-04 16:29:48,631 - Partial result: 'jar with'
+2025-08-04 16:29:48,651 - Partial result: 'jar with'
+2025-08-04 16:29:49,095 - Partial result: 'jar with'
+2025-08-04 16:29:49,130 - Speech result #2: 'jar with'
+2025-08-04 16:29:49,131 - Checking for hotword in: 'jar with'
+2025-08-04 16:30:02,818 - System Event: SYSTEM_STATUS - System Status - CPU: 17.3%, Memory: 26.2%, Disk: 96.8%, Network: 98.23MB sent, 661.71MB received
+2025-08-04 16:30:02,911 - Processed 50 audio chunks (vol: 1444)
+2025-08-04 16:30:29,545 - Processed 100 audio chunks (vol: 816)
+2025-08-04 16:30:31,159 - Speech result #6: 'yes'
+2025-08-04 16:30:31,160 - Checking for hotword in: 'yes'
+2025-08-04 16:30:33,845 - System Event: SYSTEM_STATUS - System Status - CPU: 28.7%, Memory: 26.5%, Disk: 96.8%, Network: 98.71MB sent, 662.43MB received
+2025-08-04 16:30:55,651 - Processed 150 audio chunks (vol: 4237)
+2025-08-04 16:31:04,860 - System Event: SYSTEM_STATUS - System Status - CPU: 6.3%, Memory: 26.4%, Disk: 96.8%, Network: 100.1MB sent, 662.8MB received
+2025-08-04 16:31:35,876 - System Event: SYSTEM_STATUS - System Status - CPU: 5.6%, Memory: 26.6%, Disk: 96.8%, Network: 101.92MB sent, 663.81MB received
+2025-08-04 16:32:06,893 - System Event: SYSTEM_STATUS - System Status - CPU: 3.3%, Memory: 26.4%, Disk: 96.8%, Network: 102.07MB sent, 663.92MB received
+2025-08-04 16:32:37,065 - Processed 200 audio chunks (vol: 1597)
+2025-08-04 16:32:37,908 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 26.7%, Disk: 96.8%, Network: 104.55MB sent, 665.2MB received
+2025-08-04 16:32:42,266 - Partial result: 'ha ha ha'
+2025-08-04 16:32:50,917 - Speech result #11: 'ha haha'
+2025-08-04 16:32:50,917 - Checking for hotword in: 'ha haha'
+2025-08-04 16:33:08,924 - System Event: SYSTEM_STATUS - System Status - CPU: 0.2%, Memory: 26.5%, Disk: 96.8%, Network: 105.54MB sent, 665.59MB received
+2025-08-04 16:33:39,955 - System Event: SYSTEM_STATUS - System Status - CPU: 1.2%, Memory: 26.5%, Disk: 96.8%, Network: 105.6MB sent, 665.67MB received
+2025-08-04 16:34:02,718 - Speech result #12: 'ah up with the have never take offense at amazon i'm not under the oil'
+2025-08-04 16:34:02,718 - Checking for hotword in: 'ah up with the have never take offense at amazon i'm not under the oil'
+2025-08-04 16:34:03,125 - Partial result: 'i've been'
+2025-08-04 16:34:03,657 - Partial result: 'i've been'
+2025-08-04 16:34:10,969 - System Event: SYSTEM_STATUS - System Status - CPU: 9.8%, Memory: 26.6%, Disk: 96.8%, Network: 105.64MB sent, 665.69MB received
+2025-08-04 16:34:12,507 - Partial result: 'i've been reading'
+2025-08-04 16:34:13,039 - Partial result: 'i've been'
+2025-08-04 16:34:41,985 - System Event: SYSTEM_STATUS - System Status - CPU: 1.2%, Memory: 26.5%, Disk: 96.8%, Network: 105.7MB sent, 665.77MB received
+2025-08-04 16:35:13,000 - System Event: SYSTEM_STATUS - System Status - CPU: 1.2%, Memory: 26.5%, Disk: 96.8%, Network: 105.73MB sent, 665.8MB received
+2025-08-04 16:35:44,016 - System Event: SYSTEM_STATUS - System Status - CPU: 0.4%, Memory: 26.4%, Disk: 96.8%, Network: 105.75MB sent, 665.81MB received
+2025-08-04 16:36:08,783 - Partial result: 'i've been'
+2025-08-04 16:36:15,031 - System Event: SYSTEM_STATUS - System Status - CPU: 1.4%, Memory: 26.4%, Disk: 96.8%, Network: 105.81MB sent, 666.01MB received
+2025-08-04 16:36:42,910 - Speech result #13: 'i've them'
+2025-08-04 16:36:42,910 - Checking for hotword in: 'i've them'
+2025-08-04 16:36:46,047 - System Event: SYSTEM_STATUS - System Status - CPU: 0.0%, Memory: 26.4%, Disk: 96.8%, Network: 105.85MB sent, 666.06MB received
+2025-08-04 16:36:47,504 - Partial result: 'there'
+2025-08-04 16:36:47,573 - Partial result: 'there are'
+2025-08-04 16:36:55,319 - Partial result: 'there i think i'm'
+2025-08-04 16:37:17,063 - System Event: SYSTEM_STATUS - System Status - CPU: 0.2%, Memory: 26.4%, Disk: 96.8%, Network: 105.87MB sent, 666.09MB received
+2025-08-04 16:37:48,077 - System Event: SYSTEM_STATUS - System Status - CPU: 0.4%, Memory: 26.4%, Disk: 96.8%, Network: 105.92MB sent, 666.15MB received
+2025-08-04 16:38:19,091 - System Event: SYSTEM_STATUS - System Status - CPU: 0.8%, Memory: 26.5%, Disk: 96.8%, Network: 105.93MB sent, 666.15MB received
+2025-08-04 16:38:50,108 - System Event: SYSTEM_STATUS - System Status - CPU: 18.2%, Memory: 26.4%, Disk: 96.8%, Network: 105.96MB sent, 666.19MB received
+2025-08-04 16:39:21,127 - System Event: SYSTEM_STATUS - System Status - CPU: 0.8%, Memory: 26.5%, Disk: 96.8%, Network: 105.98MB sent, 666.22MB received
+2025-08-04 16:39:50,747 - Partial result: 'there i think i prefer'
+2025-08-04 16:39:52,142 - System Event: SYSTEM_STATUS - System Status - CPU: 4.3%, Memory: 26.5%, Disk: 96.8%, Network: 106.05MB sent, 666.32MB received
+2025-08-04 16:40:18,292 - Using David's voice: Microsoft David Desktop - English (United States)
+2025-08-04 16:40:18,292 - Text-to-speech engine initialized with optimized audio output
+2025-08-04 16:40:22,390 - Whisper model loaded successfully
+2025-08-04 16:40:22,391 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 16:40:23,187 - Vosk speech recognition initialized
+2025-08-04 16:40:23,301 - Using working microphone device 2: Headset (Bose QC45 Hands-Free A
+2025-08-04 16:40:23,322 - Microphone initialized successfully
+2025-08-04 16:40:24,210 - JARVIS Assistant started
+2025-08-04 16:40:24,210 - Starting JARVIS components...
+2025-08-04 16:40:24,218 - Activity monitoring started
+2025-08-04 16:40:24,222 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:40:24,223 - Audio capture loop started with noise filtering
+2025-08-04 16:40:24,237 - Speech recognition processing started
+2025-08-04 16:40:24,260 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:40:24,260 - Started listening for hotword
+2025-08-04 16:40:24,269 - System Event: PROCESS_STARTED - cmd.exe
+2025-08-04 16:40:24,270 - Keyboard override: Press 'h' key to manually trigger hotword
+2025-08-04 16:40:24,295 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:40:24,334 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:40:24,335 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:40:24,344 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:40:24,355 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:40:24,368 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:40:24,377 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:40:24,386 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:40:24,402 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:40:24,412 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:40:24,459 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:40:24,461 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:40:24,466 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:40:24,474 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:40:24,475 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:40:24,482 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:40:24,484 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:40:24,489 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:40:24,499 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:40:24,508 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:40:24,511 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:40:24,511 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:40:24,516 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:40:24,517 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:40:24,523 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:40:24,524 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:40:24,543 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:40:24,544 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:40:24,550 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:40:24,552 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:40:24,554 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:40:24,638 - System tray started
+2025-08-04 16:40:24,660 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-04 16:40:24,660 - JARVIS Assistant fully started
+2025-08-04 16:40:25,569 - System Event: SYSTEM_STATUS - System Status - CPU: 12.2%, Memory: 26.6%, Disk: 96.8%, Network: 107.77MB sent, 666.75MB received
+2025-08-04 16:40:51,720 - Manual hotword trigger via keyboard!
+2025-08-04 16:40:51,720 - Hotword detected
+2025-08-04 16:40:51,739 - Responding with: Yes?
+2025-08-04 16:40:56,592 - System Event: SYSTEM_STATUS - System Status - CPU: 24.5%, Memory: 26.7%, Disk: 96.8%, Network: 109.39MB sent, 667.3MB received
+2025-08-04 16:41:27,609 - System Event: SYSTEM_STATUS - System Status - CPU: 3.9%, Memory: 26.7%, Disk: 96.8%, Network: 111.82MB sent, 668.0MB received
+2025-08-04 16:41:58,625 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 26.8%, Disk: 96.8%, Network: 114.04MB sent, 668.74MB received
+2025-08-04 16:42:22,235 - Using David's voice: Microsoft David Desktop - English (United States)
+2025-08-04 16:42:22,235 - Text-to-speech engine initialized with optimized audio output
+2025-08-04 16:42:26,332 - Whisper model loaded successfully
+2025-08-04 16:42:26,333 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-04 16:42:27,142 - Vosk speech recognition initialized
+2025-08-04 16:42:27,252 - Using working microphone device 2: Headset (Bose QC45 Hands-Free A
+2025-08-04 16:42:27,278 - Microphone initialized successfully
+2025-08-04 16:42:28,182 - JARVIS Assistant started
+2025-08-04 16:42:28,183 - Starting JARVIS components...
+2025-08-04 16:42:28,190 - Activity monitoring started
+2025-08-04 16:42:28,194 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:42:28,201 - Audio capture loop started with noise filtering
+2025-08-04 16:42:28,215 - Speech recognition processing started
+2025-08-04 16:42:28,230 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:42:28,231 - Started listening for hotword
+2025-08-04 16:42:28,240 - System Event: PROCESS_STARTED - cmd.exe
+2025-08-04 16:42:28,241 - Keyboard override: Press 'h' key to manually trigger hotword
+2025-08-04 16:42:28,266 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:42:28,299 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:42:28,301 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:42:28,311 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:42:28,320 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:42:28,333 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:42:28,340 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:42:28,348 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:42:28,368 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:42:28,379 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:42:28,428 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:42:28,432 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:42:28,436 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:42:28,445 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:42:28,446 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:42:28,453 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:42:28,454 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:42:28,459 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:42:28,468 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:42:28,481 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:42:28,484 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:42:28,485 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-04 16:42:28,490 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:42:28,491 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:42:28,496 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:42:28,499 - System Event: PROCESS_STARTED - Code.exe
+2025-08-04 16:42:28,518 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:42:28,519 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:42:28,524 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:42:28,525 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:42:28,526 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:42:28,529 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-04 16:42:28,616 - System tray started
+2025-08-04 16:42:28,663 - Added to Windows startup
+2025-08-04 16:42:28,664 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-04 16:42:28,664 - JARVIS Assistant fully started
+2025-08-04 16:42:29,545 - System Event: SYSTEM_STATUS - System Status - CPU: 13.0%, Memory: 27.0%, Disk: 96.8%, Network: 116.92MB sent, 669.15MB received
+2025-08-04 16:43:00,561 - System Event: SYSTEM_STATUS - System Status - CPU: 0.4%, Memory: 27.0%, Disk: 96.8%, Network: 118.24MB sent, 669.94MB received
+2025-08-04 16:43:02,826 - Partial result: 'a goalie i'
+2025-08-04 16:43:02,873 - Partial result: 'a goalie i was'
+2025-08-04 16:43:03,206 - Partial result: 'a goalie i was'
+2025-08-04 16:43:03,234 - Partial result: 'a goalie i was'
+2025-08-04 16:43:03,704 - Speech result #1: 'a goalie i was'
+2025-08-04 16:43:03,704 - Checking for hotword in: 'a goalie i was'
+2025-08-04 16:43:13,533 - Partial result: 'the dallas'
+2025-08-04 16:43:16,594 - Partial result: 'the dallas a'
+2025-08-04 16:43:21,702 - Partial result: 'the dallas eighty'
+2025-08-04 16:43:31,577 - System Event: SYSTEM_STATUS - System Status - CPU: 3.3%, Memory: 26.9%, Disk: 96.8%, Network: 118.31MB sent, 670.0MB received
+2025-08-04 16:43:55,430 - Partial result: 'the dallas eighty'
+2025-08-04 16:43:55,464 - Partial result: 'the dallas eighty eight'
+2025-08-04 16:43:59,026 - Partial result: 'the dallas eighty eight'
+2025-08-04 16:43:59,521 - Partial result: 'the dallas eighty eight'
+2025-08-04 16:44:01,075 - Speech result #2: 'the dallas eighty eight'
+2025-08-04 16:44:01,075 - Checking for hotword in: 'the dallas eighty eight'
+2025-08-04 16:44:02,593 - System Event: SYSTEM_STATUS - System Status - CPU: 1.6%, Memory: 27.0%, Disk: 96.8%, Network: 118.41MB sent, 670.14MB received
+2025-08-04 16:44:19,071 - Partial result: 'i don't'
+2025-08-04 16:44:19,126 - Partial result: 'i don't'
+2025-08-04 16:44:19,517 - Partial result: 'i don't'
+2025-08-04 16:44:25,672 - Speech result #3: 'adults'
+2025-08-04 16:44:25,673 - Checking for hotword in: 'adults'
+2025-08-04 16:44:33,608 - System Event: SYSTEM_STATUS - System Status - CPU: 2.5%, Memory: 26.9%, Disk: 96.8%, Network: 118.43MB sent, 670.19MB received
+2025-08-04 16:44:35,376 - Processed 50 audio chunks (vol: 834)
+2025-08-04 16:44:58,940 - Processed 100 audio chunks (vol: 1115)
+2025-08-04 16:45:02,542 - Speech result #7: 'six'
+2025-08-04 16:45:02,542 - Checking for hotword in: 'six'
+2025-08-04 16:45:04,622 - System Event: SYSTEM_STATUS - System Status - CPU: 1.2%, Memory: 27.0%, Disk: 96.8%, Network: 118.46MB sent, 670.21MB received
+2025-08-04 16:45:11,246 - Speech result #8: 'hey'
+2025-08-04 16:45:11,247 - Checking for hotword in: 'hey'
+2025-08-04 16:45:11,248 - Hotword detected: 'hey' in 'hey'
+2025-08-04 16:45:11,248 - Hotword detected
+2025-08-04 16:45:11,255 - Responding with: I'm listening.
+2025-08-04 16:45:35,645 - System Event: SYSTEM_STATUS - System Status - CPU: 2.5%, Memory: 26.9%, Disk: 96.8%, Network: 118.47MB sent, 670.22MB received

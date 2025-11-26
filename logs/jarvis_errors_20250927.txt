@@ -1,0 +1,4 @@
+2025-09-27 14:23:10,295 - ERROR - Failed to initialize microphone: [Errno -9998] Invalid number of channels
+2025-09-27 14:23:11,801 - ERROR - Audio not available - starting in text-only mode
+2025-09-27 17:16:24,487 - ERROR - Error in Whisper recognition: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\rehma\\AppData\\Local\\Temp\\tmp7ab90rgf.wav'
+2025-09-27 19:42:42,194 - ERROR - Error in listen loop: [Errno -9999] Unanticipated host error

@@ -1,0 +1,111 @@
+2025-08-06 15:25:23,550 - Using David's voice: Microsoft David Desktop - English (United States)
+2025-08-06 15:25:23,551 - Text-to-speech engine initialized with optimized audio output
+2025-08-06 15:25:32,113 - Whisper model loaded successfully
+2025-08-06 15:25:32,114 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-06 15:25:33,061 - Vosk speech recognition initialized
+2025-08-06 15:25:33,409 - Using working microphone device 2: Headset (Bose QC45 Hands-Free A
+2025-08-06 15:25:33,448 - Microphone initialized successfully
+2025-08-06 15:25:34,704 - JARVIS Assistant started
+2025-08-06 15:25:34,705 - Starting JARVIS components...
+2025-08-06 15:25:34,712 - Activity monitoring started
+2025-08-06 15:25:34,734 - Audio capture loop started with noise filtering
+2025-08-06 15:25:34,751 - Speech recognition processing started
+2025-08-06 15:25:34,774 - Started listening for hotword
+2025-08-06 15:25:34,790 - Keyboard override: Press 'h' key to manually trigger hotword
+2025-08-06 15:25:35,226 - System tray started
+2025-08-06 15:25:35,227 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-06 15:25:35,227 - JARVIS Assistant fully started
+2025-08-06 15:25:36,091 - System Event: SYSTEM_STATUS - System Status - CPU: 25.6%, Memory: 18.0%, Disk: 97.5%, Network: 2.62MB sent, 21.96MB received
+2025-08-06 15:25:48,057 - Partial result: 'a a'
+2025-08-06 15:25:51,187 - Partial result: 'a a'
+2025-08-06 15:25:51,393 - Partial result: 'a a yard sale'
+2025-08-06 15:25:51,620 - Partial result: 'a a young age'
+2025-08-06 15:25:54,223 - Partial result: 'a a young age'
+2025-08-06 15:25:54,320 - Partial result: 'a a young age hours a'
+2025-08-06 15:25:54,687 - Partial result: 'a a young age always a'
+2025-08-06 15:25:54,738 - Partial result: 'a a young age our hrw'
+2025-08-06 15:25:57,250 - Partial result: 'a a young age our hr'
+2025-08-06 15:25:57,815 - Partial result: 'a a young age our hr was out of'
+2025-08-06 15:25:58,331 - Partial result: 'a a young age our hr was address'
+2025-08-06 15:25:58,396 - Partial result: 'a a young age our hr was ours alone'
+2025-08-06 15:26:00,819 - Partial result: 'a a young age our hr was ours alone'
+2025-08-06 15:26:00,873 - Partial result: 'a a young age our hr was address allo allo'
+2025-08-06 15:26:01,942 - Partial result: 'a a young age our hr was address allo allo'
+2025-08-06 15:26:03,904 - Partial result: 'a a young age our hr was address allo allo'
+2025-08-06 15:26:06,997 - Partial result: 'a a young age our hr was address allo allo a'
+2025-08-06 15:26:07,108 - System Event: SYSTEM_STATUS - System Status - CPU: 1.0%, Memory: 17.9%, Disk: 97.5%, Network: 3.89MB sent, 25.45MB received
+2025-08-06 15:26:10,027 - Partial result: 'a a young age our hr was address allo allo'
+2025-08-06 15:26:10,063 - Partial result: 'a a young age our hr was address allo allo i'
+2025-08-06 15:26:12,106 - Partial result: 'a a young age our hr was address allo allo i'
+2025-08-06 15:26:12,132 - Partial result: 'a a young age our hr was address allo allo i pay'
+2025-08-06 15:26:13,630 - Partial result: 'a a young age our hr was address allo allo i hey i'
+2025-08-06 15:26:13,652 - Partial result: 'a a young age our hr was address allo allo i pay i pay'
+2025-08-06 15:26:14,648 - Partial result: 'a a young age our hr was address allo allo i pay i pay'
+2025-08-06 15:26:15,151 - Partial result: 'a a young age our hr was address allo allo i pay i pay'
+2025-08-06 15:26:15,169 - Partial result: 'a a young age our hr was address allo allo i pay i pay'
+2025-08-06 15:26:16,170 - Partial result: 'a a young age our hr was address allo allo i pay i pay a'
+2025-08-06 15:26:16,194 - Partial result: 'a a young age our hr was address allo allo i pay i pay a'
+2025-08-06 15:26:16,678 - Partial result: 'a a young age our hr was address allo allo i pay i pay a'
+2025-08-06 23:25:15,508 - Using David's voice: Microsoft David Desktop - English (United States)
+2025-08-06 23:25:15,509 - Text-to-speech engine initialized with optimized audio output
+2025-08-06 23:25:25,376 - Whisper model loaded successfully
+2025-08-06 23:25:25,376 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-06 23:25:26,495 - Vosk speech recognition initialized
+2025-08-06 23:25:26,584 - Using working microphone device 2: Microsoft Sound Mapper - Output
+2025-08-06 23:25:28,009 - JARVIS Assistant started
+2025-08-06 23:25:28,009 - Starting JARVIS components...
+2025-08-06 23:25:28,022 - Activity monitoring started
+2025-08-06 23:25:28,063 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-06 23:25:28,063 - Started in text-only mode - audio input disabled
+2025-08-06 23:25:28,083 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-06 23:25:28,142 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-06 23:25:28,154 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-06 23:25:28,289 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-06 23:25:28,300 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-06 23:25:28,313 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-06 23:25:28,337 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-06 23:25:28,368 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-06 23:25:28,377 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-06 23:25:28,398 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-06 23:25:28,404 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-06 23:25:28,404 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-06 23:25:28,411 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-06 23:25:28,411 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-06 23:25:28,412 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-06 23:25:28,419 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-06 23:25:28,551 - System tray started
+2025-08-06 23:25:28,555 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-06 23:25:28,555 - JARVIS Assistant fully started
+2025-08-06 23:25:29,442 - System Event: SYSTEM_STATUS - System Status - CPU: 42.5%, Memory: 23.4%, Disk: 94.6%, Network: 23.36MB sent, 474.1MB received
+2025-08-06 23:26:00,470 - System Event: SYSTEM_STATUS - System Status - CPU: 4.1%, Memory: 19.6%, Disk: 94.4%, Network: 25.65MB sent, 501.32MB received
+2025-08-06 23:26:31,504 - System Event: SYSTEM_STATUS - System Status - CPU: 46.2%, Memory: 19.8%, Disk: 94.4%, Network: 26.35MB sent, 504.79MB received
+2025-08-06 23:27:02,519 - System Event: SYSTEM_STATUS - System Status - CPU: 14.1%, Memory: 20.9%, Disk: 94.4%, Network: 28.02MB sent, 521.38MB received
+2025-08-06 23:27:33,535 - System Event: SYSTEM_STATUS - System Status - CPU: 12.7%, Memory: 20.8%, Disk: 94.4%, Network: 28.36MB sent, 534.02MB received
+2025-08-06 23:28:04,606 - System Event: SYSTEM_STATUS - System Status - CPU: 34.2%, Memory: 21.7%, Disk: 94.4%, Network: 29.5MB sent, 561.56MB received
+2025-08-06 23:28:35,624 - System Event: SYSTEM_STATUS - System Status - CPU: 25.4%, Memory: 21.6%, Disk: 94.4%, Network: 29.97MB sent, 574.28MB received
+2025-08-06 23:29:06,640 - System Event: SYSTEM_STATUS - System Status - CPU: 8.0%, Memory: 21.8%, Disk: 94.4%, Network: 30.55MB sent, 588.82MB received
+2025-08-06 23:29:37,657 - System Event: SYSTEM_STATUS - System Status - CPU: 8.0%, Memory: 21.4%, Disk: 94.4%, Network: 31.07MB sent, 606.6MB received
+2025-08-06 23:30:07,661 - System Event: PROCESS_STARTED - cmd.exe
+2025-08-06 23:30:08,672 - System Event: SYSTEM_STATUS - System Status - CPU: 9.5%, Memory: 21.5%, Disk: 94.4%, Network: 31.48MB sent, 623.53MB received
+2025-08-06 23:30:39,693 - System Event: SYSTEM_STATUS - System Status - CPU: 27.0%, Memory: 21.7%, Disk: 94.4%, Network: 32.1MB sent, 644.86MB received
+2025-08-06 23:31:10,725 - System Event: SYSTEM_STATUS - System Status - CPU: 9.3%, Memory: 21.4%, Disk: 94.4%, Network: 32.45MB sent, 661.02MB received
+2025-08-06 23:31:41,749 - System Event: SYSTEM_STATUS - System Status - CPU: 0.4%, Memory: 21.5%, Disk: 94.4%, Network: 33.04MB sent, 676.62MB received
+2025-08-06 23:32:12,764 - System Event: SYSTEM_STATUS - System Status - CPU: 20.7%, Memory: 22.6%, Disk: 94.4%, Network: 34.17MB sent, 683.0MB received
+2025-08-06 23:32:43,784 - System Event: SYSTEM_STATUS - System Status - CPU: 18.6%, Memory: 22.2%, Disk: 94.4%, Network: 40.41MB sent, 786.76MB received
+2025-08-06 23:33:14,809 - System Event: SYSTEM_STATUS - System Status - CPU: 26.1%, Memory: 22.4%, Disk: 94.4%, Network: 40.49MB sent, 786.91MB received
+2025-08-06 23:33:45,828 - System Event: SYSTEM_STATUS - System Status - CPU: 7.1%, Memory: 22.2%, Disk: 94.4%, Network: 40.75MB sent, 791.03MB received
+2025-08-06 23:34:16,844 - System Event: SYSTEM_STATUS - System Status - CPU: 14.6%, Memory: 22.4%, Disk: 94.5%, Network: 41.04MB sent, 797.69MB received
+2025-08-06 23:34:47,861 - System Event: SYSTEM_STATUS - System Status - CPU: 8.6%, Memory: 22.4%, Disk: 94.5%, Network: 41.18MB sent, 800.4MB received
+2025-08-06 23:35:18,876 - System Event: SYSTEM_STATUS - System Status - CPU: 11.2%, Memory: 22.6%, Disk: 94.5%, Network: 41.79MB sent, 816.13MB received
+2025-08-06 23:35:49,892 - System Event: SYSTEM_STATUS - System Status - CPU: 10.3%, Memory: 22.4%, Disk: 94.5%, Network: 42.17MB sent, 833.63MB received
+2025-08-06 23:36:20,909 - System Event: SYSTEM_STATUS - System Status - CPU: 13.6%, Memory: 22.5%, Disk: 94.5%, Network: 42.45MB sent, 839.54MB received
+2025-08-06 23:36:51,925 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 22.4%, Disk: 94.5%, Network: 42.74MB sent, 851.43MB received
+2025-08-06 23:37:22,950 - System Event: SYSTEM_STATUS - System Status - CPU: 9.6%, Memory: 22.4%, Disk: 94.5%, Network: 43.16MB sent, 860.5MB received
+2025-08-06 23:37:53,973 - System Event: SYSTEM_STATUS - System Status - CPU: 15.8%, Memory: 22.9%, Disk: 94.5%, Network: 43.82MB sent, 881.89MB received
+2025-08-06 23:38:24,991 - System Event: SYSTEM_STATUS - System Status - CPU: 13.7%, Memory: 23.0%, Disk: 94.5%, Network: 44.2MB sent, 891.07MB received
+2025-08-06 23:38:56,007 - System Event: SYSTEM_STATUS - System Status - CPU: 14.2%, Memory: 22.5%, Disk: 94.5%, Network: 44.51MB sent, 900.45MB received
+2025-08-06 23:39:27,025 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 22.8%, Disk: 94.5%, Network: 44.99MB sent, 921.13MB received
+2025-08-06 23:39:58,051 - System Event: SYSTEM_STATUS - System Status - CPU: 57.5%, Memory: 23.0%, Disk: 94.5%, Network: 45.47MB sent, 939.08MB received
+2025-08-06 23:40:29,077 - System Event: SYSTEM_STATUS - System Status - CPU: 14.7%, Memory: 23.2%, Disk: 94.5%, Network: 45.86MB sent, 955.13MB received
+2025-08-06 23:41:00,094 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 23.1%, Disk: 94.5%, Network: 46.16MB sent, 968.87MB received
+2025-08-06 23:41:31,109 - System Event: SYSTEM_STATUS - System Status - CPU: 13.8%, Memory: 23.0%, Disk: 94.5%, Network: 46.46MB sent, 980.14MB received

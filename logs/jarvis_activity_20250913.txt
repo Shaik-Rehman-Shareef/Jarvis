@@ -1,0 +1,27 @@
+2025-09-13 13:19:58,933 - pyttsx3 voice: Microsoft David Desktop - English (United States)
+2025-09-13 13:19:58,934 - Local pyttsx3 TTS ready
+2025-09-13 13:20:31,790 - Whisper model loaded successfully
+2025-09-13 13:20:31,792 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-09-13 13:20:34,849 - Vosk speech recognition initialized
+2025-09-13 13:20:34,933 - Using working microphone device 2: Microsoft Sound Mapper - Output
+2025-09-13 13:20:36,972 - JARVIS Assistant started
+2025-09-13 13:20:36,972 - Starting JARVIS components...
+2025-09-13 13:20:36,989 - Activity monitoring started
+2025-09-13 13:20:37,019 - Started in text-only mode - audio input disabled
+2025-09-13 13:20:37,039 - System Event: PROCESS_STARTED - chrome.exe
+2025-09-13 13:20:37,059 - System Event: PROCESS_STARTED - chrome.exe
+2025-09-13 13:20:37,091 - System Event: PROCESS_STARTED - chrome.exe
+2025-09-13 13:20:37,180 - System Event: PROCESS_STARTED - chrome.exe
+2025-09-13 13:20:37,191 - System Event: PROCESS_STARTED - chrome.exe
+2025-09-13 13:20:37,223 - System Event: PROCESS_STARTED - chrome.exe
+2025-09-13 13:20:37,234 - System Event: PROCESS_STARTED - chrome.exe
+2025-09-13 13:20:38,298 - System Event: SYSTEM_STATUS - System Status - CPU: 29.3%, Memory: 19.3%, Disk: 94.8%, Network: 1.89MB sent, 26.38MB received
+2025-09-13 13:20:38,558 - System tray started
+2025-09-13 13:20:38,559 - Speaking (pyttsx3): JARVIS assistant is now active and ready for commands
+2025-09-13 13:20:38,559 - JARVIS Assistant fully started
+2025-09-13 13:21:09,313 - System Event: SYSTEM_STATUS - System Status - CPU: 9.1%, Memory: 19.2%, Disk: 94.8%, Network: 2.15MB sent, 27.24MB received
+2025-09-13 13:21:40,478 - System Event: SYSTEM_STATUS - System Status - CPU: 100.0%, Memory: 20.7%, Disk: 94.8%, Network: 2.75MB sent, 29.35MB received
+2025-09-13 13:21:44,025 - Quit requested from system tray
+2025-09-13 13:21:44,026 - Stopping JARVIS components...
+2025-09-13 13:21:44,027 - Stopped listening
+2025-09-13 13:21:44,028 - Speech recognition cleaned up

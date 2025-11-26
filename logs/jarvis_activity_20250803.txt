@@ -1,0 +1,149 @@
+2025-08-03 23:40:17,036 - Text-to-speech engine initialized
+2025-08-03 23:40:24,116 - Interactive demo started
+2025-08-03 23:40:24,117 - Speaking: Interactive demo ready. Type your commands!
+2025-08-03 23:40:34,905 - Voice command executed - 'open whatsapp' - SUCCESS
+2025-08-03 23:41:05,337 - Voice command executed - 'open camera and click a picture of me' - SUCCESS
+2025-08-03 23:52:57,978 - Text-to-speech engine initialized
+2025-08-03 23:52:58,189 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-03 23:52:58,908 - Vosk speech recognition initialized
+2025-08-03 23:52:58,984 - Using microphone: Microphone Array (Realtek High 
+2025-08-03 23:52:59,311 - Microphone initialized
+2025-08-03 23:53:00,439 - JARVIS Assistant started
+2025-08-03 23:53:00,440 - Starting JARVIS components...
+2025-08-03 23:53:00,450 - Activity monitoring started
+2025-08-03 23:53:00,516 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-03 23:53:00,517 - Started listening for hotword
+2025-08-03 23:53:00,553 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-03 23:53:00,557 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:53:00,654 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:53:00,678 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:53:00,684 - System Event: PROCESS_STARTED - cmd.exe
+2025-08-03 23:53:00,706 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-03 23:53:00,711 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-03 23:53:00,711 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:53:00,715 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-03 23:53:00,728 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-03 23:53:00,744 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:53:00,747 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:53:00,752 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-03 23:53:00,753 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:53:00,763 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:53:00,773 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-03 23:53:00,774 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:53:00,779 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:53:00,780 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-03 23:53:00,792 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:53:00,792 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:53:00,909 - System tray started
+2025-08-03 23:53:00,929 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-03 23:53:00,929 - JARVIS Assistant fully started
+2025-08-03 23:53:01,807 - System Event: SYSTEM_STATUS - System Status - CPU: 16.0%, Memory: 29.0%, Disk: 94.7%, Network: 516.69MB sent, 8858.34MB received
+2025-08-03 23:53:32,825 - System Event: SYSTEM_STATUS - System Status - CPU: 7.4%, Memory: 29.0%, Disk: 94.7%, Network: 518.16MB sent, 8858.85MB received
+2025-08-03 23:54:03,842 - System Event: SYSTEM_STATUS - System Status - CPU: 3.1%, Memory: 28.5%, Disk: 94.7%, Network: 518.34MB sent, 8858.98MB received
+2025-08-03 23:54:33,852 - System Event: PROCESS_STARTED - notepad.exe
+2025-08-03 23:54:34,865 - System Event: SYSTEM_STATUS - System Status - CPU: 5.8%, Memory: 28.6%, Disk: 94.7%, Network: 518.57MB sent, 8859.46MB received
+2025-08-03 23:54:46,114 - Status requested: Listening for hotword | Monitoring active | Speaking
+2025-08-03 23:55:04,869 - System Event: PROCESS_CLOSED - notepad.exe
+2025-08-03 23:55:05,882 - System Event: SYSTEM_STATUS - System Status - CPU: 4.5%, Memory: 28.6%, Disk: 94.7%, Network: 518.67MB sent, 8859.53MB received
+2025-08-03 23:55:36,895 - System Event: SYSTEM_STATUS - System Status - CPU: 1.6%, Memory: 28.6%, Disk: 94.7%, Network: 518.69MB sent, 8859.57MB received
+2025-08-03 23:56:07,909 - System Event: SYSTEM_STATUS - System Status - CPU: 2.7%, Memory: 28.6%, Disk: 94.7%, Network: 518.72MB sent, 8859.63MB received
+2025-08-03 23:56:38,924 - System Event: SYSTEM_STATUS - System Status - CPU: 2.5%, Memory: 28.6%, Disk: 94.7%, Network: 518.76MB sent, 8859.81MB received
+2025-08-03 23:57:09,938 - System Event: SYSTEM_STATUS - System Status - CPU: 3.3%, Memory: 28.6%, Disk: 94.7%, Network: 518.77MB sent, 8859.83MB received
+2025-08-03 23:57:40,961 - System Event: SYSTEM_STATUS - System Status - CPU: 8.4%, Memory: 28.8%, Disk: 94.7%, Network: 519.34MB sent, 8859.96MB received
+2025-08-03 23:58:11,978 - System Event: SYSTEM_STATUS - System Status - CPU: 6.3%, Memory: 28.5%, Disk: 94.7%, Network: 520.16MB sent, 8860.39MB received
+2025-08-03 23:58:43,005 - System Event: SYSTEM_STATUS - System Status - CPU: 9.7%, Memory: 28.8%, Disk: 94.7%, Network: 521.02MB sent, 8860.86MB received
+2025-08-03 23:59:14,021 - System Event: SYSTEM_STATUS - System Status - CPU: 7.5%, Memory: 28.8%, Disk: 94.7%, Network: 522.34MB sent, 8861.55MB received
+2025-08-03 23:59:41,016 - Text-to-speech engine initialized
+2025-08-03 23:59:41,238 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-03 23:59:41,965 - Vosk speech recognition initialized
+2025-08-03 23:59:42,132 - Using microphone: Microphone Array (Realtek High 
+2025-08-03 23:59:42,154 - Microphone initialized
+2025-08-03 23:59:42,984 - Attempted to start second instance - exiting
+2025-08-03 23:59:45,038 - System Event: SYSTEM_STATUS - System Status - CPU: 5.7%, Memory: 29.0%, Disk: 94.7%, Network: 523.68MB sent, 8862.09MB received
+2025-08-03 23:59:56,898 - Text-to-speech engine initialized
+2025-08-03 23:59:57,090 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-08-03 23:59:57,797 - Vosk speech recognition initialized
+2025-08-03 23:59:57,908 - Using microphone: Microphone Array (Realtek High 
+2025-08-03 23:59:58,124 - Microphone initialized
+2025-08-03 23:59:59,031 - JARVIS Assistant started
+2025-08-03 23:59:59,031 - Starting JARVIS components...
+2025-08-03 23:59:59,043 - Activity monitoring started
+2025-08-03 23:59:59,104 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-03 23:59:59,104 - Started listening for hotword
+2025-08-03 23:59:59,134 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-03 23:59:59,138 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:59:59,239 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:59:59,260 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:59:59,264 - System Event: PROCESS_STARTED - cmd.exe
+2025-08-03 23:59:59,280 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-03 23:59:59,284 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-03 23:59:59,285 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:59:59,288 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-03 23:59:59,299 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-03 23:59:59,303 - System Event: PROCESS_STARTED - chrome.exe
+2025-08-03 23:59:59,316 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:59:59,319 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:59:59,322 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-03 23:59:59,329 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-03 23:59:59,330 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:59:59,339 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:59:59,346 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-03 23:59:59,347 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:59:59,349 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:59:59,350 - System Event: PROCESS_STARTED - powershell.exe
+2025-08-03 23:59:59,358 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:59:59,359 - System Event: PROCESS_STARTED - Code.exe
+2025-08-03 23:59:59,438 - System tray started
+2025-08-03 23:59:59,461 - Speaking: JARVIS assistant is now active and ready for commands
+2025-08-03 23:59:59,461 - JARVIS Assistant fully started
+2025-08-04 00:00:00,376 - System Event: SYSTEM_STATUS - System Status - CPU: 11.5%, Memory: 29.2%, Disk: 94.7%, Network: 524.23MB sent, 8862.3MB received
+2025-08-04 00:00:30,382 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:00:30,383 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:00:30,384 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:00:30,385 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:00:30,386 - System Event: PROCESS_STARTED - Discord.exe
+2025-08-04 00:00:31,401 - System Event: SYSTEM_STATUS - System Status - CPU: 18.2%, Memory: 29.7%, Disk: 94.7%, Network: 525.55MB sent, 8886.11MB received
+2025-08-04 00:01:02,421 - System Event: SYSTEM_STATUS - System Status - CPU: 32.9%, Memory: 31.0%, Disk: 94.8%, Network: 526.93MB sent, 8912.5MB received
+2025-08-04 00:01:33,438 - System Event: SYSTEM_STATUS - System Status - CPU: 8.5%, Memory: 30.8%, Disk: 94.8%, Network: 527.03MB sent, 8912.75MB received
+2025-08-04 00:02:04,454 - System Event: SYSTEM_STATUS - System Status - CPU: 3.1%, Memory: 30.8%, Disk: 94.8%, Network: 527.11MB sent, 8912.82MB received
+2025-08-04 00:02:35,474 - System Event: SYSTEM_STATUS - System Status - CPU: 6.2%, Memory: 30.6%, Disk: 94.8%, Network: 527.14MB sent, 8912.86MB received
+2025-08-04 00:03:06,502 - System Event: SYSTEM_STATUS - System Status - CPU: 8.4%, Memory: 30.9%, Disk: 94.8%, Network: 527.6MB sent, 8913.04MB received
+2025-08-04 00:03:37,526 - System Event: SYSTEM_STATUS - System Status - CPU: 7.4%, Memory: 31.0%, Disk: 94.8%, Network: 528.1MB sent, 8913.63MB received
+2025-08-04 00:04:08,545 - System Event: SYSTEM_STATUS - System Status - CPU: 9.3%, Memory: 30.7%, Disk: 94.8%, Network: 528.3MB sent, 8913.76MB received
+2025-08-04 00:04:39,562 - System Event: SYSTEM_STATUS - System Status - CPU: 3.7%, Memory: 30.8%, Disk: 94.8%, Network: 528.38MB sent, 8913.89MB received
+2025-08-04 00:05:10,578 - System Event: SYSTEM_STATUS - System Status - CPU: 11.9%, Memory: 30.8%, Disk: 94.8%, Network: 528.42MB sent, 8913.95MB received
+2025-08-04 00:05:41,597 - System Event: SYSTEM_STATUS - System Status - CPU: 20.7%, Memory: 30.6%, Disk: 94.8%, Network: 528.5MB sent, 8914.0MB received
+2025-08-04 00:06:12,613 - System Event: SYSTEM_STATUS - System Status - CPU: 7.4%, Memory: 30.6%, Disk: 94.8%, Network: 528.53MB sent, 8914.05MB received
+2025-08-04 00:06:43,646 - System Event: SYSTEM_STATUS - System Status - CPU: 7.6%, Memory: 30.7%, Disk: 94.8%, Network: 528.6MB sent, 8914.24MB received
+2025-08-04 00:07:14,667 - System Event: SYSTEM_STATUS - System Status - CPU: 6.2%, Memory: 30.7%, Disk: 94.8%, Network: 528.62MB sent, 8914.27MB received
+2025-08-04 00:07:45,682 - System Event: SYSTEM_STATUS - System Status - CPU: 11.6%, Memory: 30.7%, Disk: 94.8%, Network: 529.2MB sent, 8922.18MB received
+2025-08-04 00:08:16,700 - System Event: SYSTEM_STATUS - System Status - CPU: 10.8%, Memory: 30.7%, Disk: 94.8%, Network: 529.22MB sent, 8922.19MB received
+2025-08-04 00:08:47,719 - System Event: SYSTEM_STATUS - System Status - CPU: 16.0%, Memory: 30.9%, Disk: 94.8%, Network: 529.29MB sent, 8922.28MB received
+2025-08-04 00:09:18,735 - System Event: SYSTEM_STATUS - System Status - CPU: 13.2%, Memory: 30.7%, Disk: 94.8%, Network: 529.32MB sent, 8922.33MB received
+2025-08-04 00:09:49,750 - System Event: SYSTEM_STATUS - System Status - CPU: 9.9%, Memory: 31.1%, Disk: 94.8%, Network: 529.74MB sent, 8924.44MB received
+2025-08-04 00:10:20,767 - System Event: SYSTEM_STATUS - System Status - CPU: 9.1%, Memory: 31.3%, Disk: 94.8%, Network: 529.98MB sent, 8926.45MB received
+2025-08-04 00:10:51,783 - System Event: SYSTEM_STATUS - System Status - CPU: 5.3%, Memory: 31.2%, Disk: 94.8%, Network: 530.03MB sent, 8926.49MB received
+2025-08-04 00:11:22,800 - System Event: SYSTEM_STATUS - System Status - CPU: 5.1%, Memory: 31.3%, Disk: 94.8%, Network: 530.15MB sent, 8926.71MB received
+2025-08-04 00:11:53,819 - System Event: SYSTEM_STATUS - System Status - CPU: 14.2%, Memory: 31.2%, Disk: 94.8%, Network: 530.24MB sent, 8926.75MB received
+2025-08-04 00:12:24,837 - System Event: SYSTEM_STATUS - System Status - CPU: 10.7%, Memory: 31.5%, Disk: 94.8%, Network: 530.85MB sent, 8928.6MB received
+2025-08-04 00:12:55,853 - System Event: SYSTEM_STATUS - System Status - CPU: 4.7%, Memory: 31.4%, Disk: 94.8%, Network: 530.95MB sent, 8928.97MB received
+2025-08-04 00:13:26,879 - System Event: SYSTEM_STATUS - System Status - CPU: 18.5%, Memory: 31.8%, Disk: 94.8%, Network: 531.34MB sent, 8929.37MB received
+2025-08-04 00:13:57,941 - System Event: SYSTEM_STATUS - System Status - CPU: 18.8%, Memory: 32.0%, Disk: 94.8%, Network: 531.46MB sent, 8929.51MB received
+2025-08-04 00:14:28,970 - System Event: SYSTEM_STATUS - System Status - CPU: 9.6%, Memory: 32.1%, Disk: 94.8%, Network: 531.6MB sent, 8929.74MB received
+2025-08-04 00:14:59,987 - System Event: SYSTEM_STATUS - System Status - CPU: 8.4%, Memory: 32.2%, Disk: 94.8%, Network: 532.13MB sent, 8931.01MB received
+2025-08-04 00:15:31,012 - System Event: SYSTEM_STATUS - System Status - CPU: 6.1%, Memory: 32.2%, Disk: 94.8%, Network: 532.17MB sent, 8931.06MB received
+2025-08-04 00:16:02,030 - System Event: SYSTEM_STATUS - System Status - CPU: 9.4%, Memory: 32.1%, Disk: 94.8%, Network: 532.24MB sent, 8931.16MB received
+2025-08-04 00:16:33,046 - System Event: SYSTEM_STATUS - System Status - CPU: 20.0%, Memory: 32.0%, Disk: 94.8%, Network: 532.3MB sent, 8931.36MB received
+2025-08-04 00:17:04,062 - System Event: SYSTEM_STATUS - System Status - CPU: 10.0%, Memory: 32.0%, Disk: 94.8%, Network: 532.57MB sent, 8932.7MB received
+2025-08-04 00:17:35,079 - System Event: SYSTEM_STATUS - System Status - CPU: 14.2%, Memory: 32.0%, Disk: 94.8%, Network: 532.68MB sent, 8932.83MB received
+2025-08-04 00:18:06,096 - System Event: SYSTEM_STATUS - System Status - CPU: 9.6%, Memory: 31.9%, Disk: 94.8%, Network: 532.72MB sent, 8932.89MB received
+2025-08-04 00:18:37,114 - System Event: SYSTEM_STATUS - System Status - CPU: 7.7%, Memory: 32.0%, Disk: 94.8%, Network: 532.78MB sent, 8932.97MB received
+2025-08-04 00:19:08,135 - System Event: SYSTEM_STATUS - System Status - CPU: 6.1%, Memory: 31.9%, Disk: 94.8%, Network: 532.8MB sent, 8933.03MB received
+2025-08-04 00:19:39,151 - System Event: SYSTEM_STATUS - System Status - CPU: 7.7%, Memory: 31.9%, Disk: 94.8%, Network: 532.88MB sent, 8933.14MB received
+2025-08-04 00:20:10,170 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 31.9%, Disk: 94.8%, Network: 532.9MB sent, 8933.19MB received
+2025-08-04 00:20:41,190 - System Event: SYSTEM_STATUS - System Status - CPU: 4.7%, Memory: 31.1%, Disk: 94.8%, Network: 532.94MB sent, 8933.24MB received
+2025-08-04 00:21:12,207 - System Event: SYSTEM_STATUS - System Status - CPU: 4.3%, Memory: 31.1%, Disk: 94.8%, Network: 532.97MB sent, 8933.29MB received
+2025-08-04 00:21:43,233 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 31.4%, Disk: 94.8%, Network: 534.2MB sent, 8933.99MB received
+2025-08-04 00:22:14,249 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 31.1%, Disk: 94.8%, Network: 535.11MB sent, 8934.26MB received
+2025-08-04 00:22:45,269 - System Event: SYSTEM_STATUS - System Status - CPU: 20.9%, Memory: 31.2%, Disk: 94.8%, Network: 535.66MB sent, 8934.89MB received
+2025-08-04 00:23:16,291 - System Event: SYSTEM_STATUS - System Status - CPU: 2.7%, Memory: 31.4%, Disk: 94.8%, Network: 536.82MB sent, 8935.55MB received

@@ -1,0 +1,13 @@
+vosk==0.3.45
+pyttsx3==2.90
+PyAudio-binaries==0.2.11
+psutil==5.9.5
+pyautogui==0.9.54
+opencv-python==4.8.1.78
+Pillow==10.0.0
+pystray==0.19.4
+keyboard==0.13.5
+requests==2.31.0
+pywin32==306
+winshell==0.6
+pyinstaller==5.13.2

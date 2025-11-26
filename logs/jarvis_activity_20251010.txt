@@ -1,0 +1,1146 @@
+2025-10-10 00:57:35,511 - pyttsx3 voice: Microsoft David Desktop - English (United States)
+2025-10-10 00:57:35,511 - Local pyttsx3 TTS ready
+2025-10-10 00:57:41,986 - Whisper model loaded successfully
+2025-10-10 00:57:41,988 - Using small Vosk model: models/vosk-model-small-en-us-0.15
+2025-10-10 00:57:43,611 - Vosk speech recognition initialized
+2025-10-10 00:57:43,908 - Using working microphone device 2: Headset (Jabra Evolve2 55 v Han
+2025-10-10 00:57:43,950 - Microphone initialized successfully
+2025-10-10 00:57:45,982 - JARVIS Assistant started
+2025-10-10 00:57:45,982 - Starting JARVIS components...
+2025-10-10 00:57:45,992 - Activity monitoring started
+2025-10-10 00:57:46,021 - Audio capture loop started with noise filtering
+2025-10-10 00:57:46,069 - Speech recognition processing started
+2025-10-10 00:57:46,143 - Started listening for hotword
+2025-10-10 00:57:46,162 - Keyboard override: Press 'h' key to manually trigger hotword
+2025-10-10 00:57:46,244 - System Event: PROCESS_STARTED - Discord.exe
+2025-10-10 00:57:46,346 - System Event: PROCESS_STARTED - Discord.exe
+2025-10-10 00:57:46,365 - System Event: PROCESS_STARTED - Discord.exe
+2025-10-10 00:57:46,421 - System Event: PROCESS_STARTED - Discord.exe
+2025-10-10 00:57:46,426 - System Event: PROCESS_STARTED - Discord.exe
+2025-10-10 00:57:46,431 - System Event: PROCESS_STARTED - Discord.exe
+2025-10-10 00:57:46,431 - System Event: PROCESS_STARTED - Discord.exe
+2025-10-10 00:57:46,544 - System tray started
+2025-10-10 00:57:46,544 - Speaking (pyttsx3): JARVIS assistant is now active and ready for commands
+2025-10-10 00:57:46,545 - JARVIS Assistant fully started
+2025-10-10 00:57:47,448 - System Event: SYSTEM_STATUS - System Status - CPU: 31.0%, Memory: 20.1%, Disk: 95.5%, Network: 0.7MB sent, 2.39MB received
+2025-10-10 00:58:18,469 - System Event: SYSTEM_STATUS - System Status - CPU: 24.0%, Memory: 20.9%, Disk: 95.6%, Network: 14.56MB sent, 22.05MB received
+2025-10-10 00:58:21,474 - Partial result: 'there'
+2025-10-10 00:58:21,761 - Partial result: 'the wonder'
+2025-10-10 00:58:21,928 - Partial result: 'the underworld'
+2025-10-10 00:58:22,092 - Partial result: 'the underworld'
+2025-10-10 00:58:24,351 - Partial result: 'there are no one could'
+2025-10-10 00:58:24,393 - Partial result: 'there are no one could'
+2025-10-10 00:58:24,788 - Partial result: 'there are no one could'
+2025-10-10 00:58:25,107 - Partial result: 'the underworld'
+2025-10-10 00:58:25,399 - Partial result: 'there are no one could have'
+2025-10-10 00:58:29,963 - Partial result: 'the underworld am not'
+2025-10-10 00:58:30,049 - Speech result #1: 'the underworld him'
+2025-10-10 00:58:30,049 - Checking for hotword in: 'the underworld him'
+2025-10-10 00:58:30,692 - Partial result: 'kids can'
+2025-10-10 00:58:31,015 - Partial result: 'she's gonna'
+2025-10-10 00:58:31,108 - Partial result: 'here's conan the'
+2025-10-10 00:58:31,515 - Partial result: 'here's conan the'
+2025-10-10 00:58:33,541 - Partial result: 'she's gonna do'
+2025-10-10 00:58:33,637 - Partial result: 'she's gonna do for'
+2025-10-10 00:58:34,139 - Partial result: 'she's gonna do but'
+2025-10-10 00:58:36,716 - Speech result #2: 'she's gonna do but numbers'
+2025-10-10 00:58:36,717 - Checking for hotword in: 'she's gonna do but numbers'
+2025-10-10 00:58:47,582 - Partial result: 'i know'
+2025-10-10 00:58:49,490 - System Event: SYSTEM_STATUS - System Status - CPU: 10.5%, Memory: 21.1%, Disk: 95.6%, Network: 36.86MB sent, 42.09MB received
+2025-10-10 00:59:17,385 - Partial result: 'and'
+2025-10-10 00:59:17,772 - Partial result: 'and'
+2025-10-10 00:59:17,837 - Partial result: 'and'
+2025-10-10 00:59:18,295 - Partial result: 'oh and back'
+2025-10-10 00:59:18,355 - Partial result: 'oh and quarterback that'
+2025-10-10 00:59:18,769 - Partial result: 'oh and quarterback that'
+2025-10-10 00:59:19,334 - Partial result: 'oh and quarterback that'
+2025-10-10 00:59:19,787 - Partial result: 'oh and quarterback that liability'
+2025-10-10 00:59:20,516 - System Event: SYSTEM_STATUS - System Status - CPU: 14.7%, Memory: 21.0%, Disk: 95.6%, Network: 58.62MB sent, 61.65MB received
+2025-10-10 00:59:21,314 - Partial result: 'oh and quarterback that liability it's'
+2025-10-10 00:59:21,364 - Partial result: 'oh and quarterback that liability it's'
+2025-10-10 00:59:21,767 - Processed 50 audio chunks (vol: 619)
+2025-10-10 00:59:21,804 - Partial result: 'oh and quarterback that liability it's'
+2025-10-10 00:59:21,892 - Speech result #3: 'home and quarterback that liability'
+2025-10-10 00:59:21,892 - Checking for hotword in: 'home and quarterback that liability'
+2025-10-10 00:59:25,439 - Partial result: 'back'
+2025-10-10 00:59:25,484 - Partial result: 'back'
+2025-10-10 00:59:25,988 - Partial result: 'back'
+2025-10-10 00:59:28,541 - Partial result: 'back might make'
+2025-10-10 00:59:29,048 - Partial result: 'back into'
+2025-10-10 00:59:29,130 - Partial result: 'back'
+2025-10-10 00:59:29,569 - Partial result: 'back lightning that'
+2025-10-10 00:59:29,647 - Partial result: 'back lightning that'
+2025-10-10 00:59:30,060 - Partial result: 'back lightning that'
+2025-10-10 00:59:37,233 - Speech result #4: 'back lightning that'
+2025-10-10 00:59:37,233 - Checking for hotword in: 'back lightning that'
+2025-10-10 00:59:40,328 - Partial result: 'and'
+2025-10-10 00:59:40,824 - Partial result: 'and'
+2025-10-10 00:59:42,902 - Partial result: 'and'
+2025-10-10 00:59:42,938 - Speech result #5: 'and quick'
+2025-10-10 00:59:42,938 - Checking for hotword in: 'and quick'
+2025-10-10 00:59:43,393 - Partial result: 'put all'
+2025-10-10 00:59:44,418 - Partial result: 'put all'
+2025-10-10 00:59:44,935 - Partial result: 'put all and'
+2025-10-10 00:59:44,974 - Partial result: 'put all and'
+2025-10-10 00:59:47,498 - Partial result: 'put all and'
+2025-10-10 00:59:47,534 - Speech result #6: 'put all and'
+2025-10-10 00:59:47,534 - Checking for hotword in: 'put all and'
+2025-10-10 00:59:51,060 - Partial result: 'cook'
+2025-10-10 00:59:51,539 - System Event: SYSTEM_STATUS - System Status - CPU: 7.7%, Memory: 20.9%, Disk: 95.6%, Network: 79.61MB sent, 80.8MB received
+2025-10-10 00:59:52,654 - Partial result: 'cork'
+2025-10-10 00:59:52,761 - Partial result: 'cork bat'
+2025-10-10 00:59:53,201 - Partial result: 'cork bat know much'
+2025-10-10 00:59:53,237 - Partial result: 'cork bat know much'
+2025-10-10 00:59:53,725 - Partial result: 'cork bat not much of the'
+2025-10-10 00:59:55,239 - Partial result: 'cork bat not much of the'
+2025-10-10 00:59:55,299 - Partial result: 'cork bat not much of the high'
+2025-10-10 00:59:56,262 - Partial result: 'cork bat not much of the high'
+2025-10-10 01:00:00,375 - Speech result #7: 'cork bat not much of the high'
+2025-10-10 01:00:00,375 - Checking for hotword in: 'cork bat not much of the high'
+2025-10-10 01:00:00,921 - Partial result: 'not'
+2025-10-10 01:00:01,408 - Partial result: 'not could have been'
+2025-10-10 01:00:01,449 - Partial result: 'not could have been'
+2025-10-10 01:00:01,944 - Partial result: 'not could have been'
+2025-10-10 01:00:02,431 - Partial result: 'not could have been religion'
+2025-10-10 01:00:02,505 - Partial result: 'not could have been larger'
+2025-10-10 01:00:02,987 - Partial result: 'not could have been religion in'
+2025-10-10 01:00:03,058 - Partial result: 'not could have been religion in'
+2025-10-10 01:00:03,503 - Partial result: 'not could have been religion in don't'
+2025-10-10 01:00:03,610 - Partial result: 'not could have been religion into and unlimited'
+2025-10-10 01:00:04,970 - Processed 100 audio chunks (vol: 1128)
+2025-10-10 01:00:05,019 - Partial result: 'not could have been religion into and unlimited'
+2025-10-10 01:00:05,497 - Partial result: 'not could have been religion and then not intend to north korea'
+2025-10-10 01:00:06,557 - Partial result: 'not could have been religion and then not intend to knock on my'
+2025-10-10 01:00:14,266 - Partial result: 'not could have been religion and then not intend to knock on'
+2025-10-10 01:00:14,737 - Partial result: 'not could have been religion and then not intend to knock on'
+2025-10-10 01:00:15,243 - Speech result #8: 'not could have been religion intend to knock on'
+2025-10-10 01:00:15,243 - Checking for hotword in: 'not could have been religion intend to knock on'
+2025-10-10 01:00:22,571 - System Event: SYSTEM_STATUS - System Status - CPU: 8.3%, Memory: 20.8%, Disk: 95.6%, Network: 98.85MB sent, 84.2MB received
+2025-10-10 01:00:53,607 - System Event: SYSTEM_STATUS - System Status - CPU: 9.9%, Memory: 20.9%, Disk: 95.6%, Network: 111.96MB sent, 96.01MB received
+2025-10-10 01:01:05,559 - Partial result: 'but'
+2025-10-10 01:01:05,613 - Partial result: 'but'
+2025-10-10 01:01:10,169 - Partial result: 'but'
+2025-10-10 01:01:24,630 - System Event: SYSTEM_STATUS - System Status - CPU: 14.1%, Memory: 21.1%, Disk: 95.6%, Network: 133.02MB sent, 117.17MB received
+2025-10-10 01:01:36,408 - Speech result #9: 'right'
+2025-10-10 01:01:36,408 - Checking for hotword in: 'right'
+2025-10-10 01:01:45,042 - Partial result: 'a little'
+2025-10-10 01:01:46,111 - Partial result: 'a little'
+2025-10-10 01:01:46,601 - Partial result: 'a little and'
+2025-10-10 01:01:48,152 - Partial result: 'a little and'
+2025-10-10 01:01:55,302 - Partial result: 'a little went on a'
+2025-10-10 01:01:55,649 - System Event: SYSTEM_STATUS - System Status - CPU: 12.8%, Memory: 20.9%, Disk: 95.6%, Network: 154.17MB sent, 135.49MB received
+2025-10-10 01:02:00,951 - Partial result: 'a little went on'
+2025-10-10 01:02:01,007 - Partial result: 'a little went on to'
+2025-10-10 01:02:01,494 - Partial result: 'a little went on to'
+2025-10-10 01:02:25,655 - System Event: PROCESS_STARTED - cmd.exe
+2025-10-10 01:02:26,678 - System Event: SYSTEM_STATUS - System Status - CPU: 7.6%, Memory: 21.0%, Disk: 95.6%, Network: 175.41MB sent, 150.91MB received
+2025-10-10 01:02:29,195 - Partial result: 'a little went on to lowering'
+2025-10-10 01:02:29,675 - Partial result: 'a little went on to lowering'
+2025-10-10 01:02:30,191 - Partial result: 'a little went on to lowering it'
+2025-10-10 01:02:30,295 - Partial result: 'a little went on to lowering if i'
+2025-10-10 01:02:38,360 - Partial result: 'a little went on to lowering it'
+2025-10-10 01:02:38,888 - Partial result: 'a little went on to lowering it reopened'
+2025-10-10 01:02:39,353 - Partial result: 'a little went on to lowering it reopened'
+2025-10-10 01:02:40,389 - Speech result #10: 'a little went on lowering it reopened'
+2025-10-10 01:02:40,389 - Checking for hotword in: 'a little went on lowering it reopened'
+2025-10-10 01:02:47,105 - Partial result: 'just'
+2025-10-10 01:02:47,684 - Partial result: 'interested'
+2025-10-10 01:02:48,155 - Partial result: 'just have'
+2025-10-10 01:02:48,247 - Partial result: 'just as'
+2025-10-10 01:02:57,711 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 21.0%, Disk: 95.6%, Network: 197.09MB sent, 171.59MB received
+2025-10-10 01:03:12,299 - Partial result: 'just a little'
+2025-10-10 01:03:16,370 - Partial result: 'just a little on'
+2025-10-10 01:03:28,736 - System Event: SYSTEM_STATUS - System Status - CPU: 12.7%, Memory: 20.9%, Disk: 95.6%, Network: 218.37MB sent, 193.01MB received
+2025-10-10 01:03:48,128 - Partial result: 'just a little on'
+2025-10-10 01:03:48,684 - Partial result: 'just a little on the'
+2025-10-10 01:03:55,347 - Partial result: 'just a little on him and'
+2025-10-10 01:03:55,410 - Partial result: 'just a little on him'
+2025-10-10 01:03:55,841 - Partial result: 'just a little on him another'
+2025-10-10 01:03:56,009 - Partial result: 'just a little on him not a fun little'
+2025-10-10 01:03:56,866 - Partial result: 'just a little on him a thunderous'
+2025-10-10 01:03:59,751 - System Event: SYSTEM_STATUS - System Status - CPU: 15.6%, Memory: 21.0%, Disk: 95.6%, Network: 239.23MB sent, 212.58MB received
+2025-10-10 01:04:01,980 - Partial result: 'just a little on him a thunderous the'
+2025-10-10 01:04:02,516 - Partial result: 'just a little on him a thunderous the'
+2025-10-10 01:04:02,564 - Partial result: 'just a little on him a thunderous the young and'
+2025-10-10 01:04:11,144 - Processed 150 audio chunks (vol: 716)
+2025-10-10 01:04:11,189 - Partial result: 'just a little on him a thunderous the young and'
+2025-10-10 01:04:21,439 - Partial result: 'just a little on him a thunderous the young and dirt on'
+2025-10-10 01:04:21,918 - Partial result: 'just a little on him a thunderous the young and dirt on'
+2025-10-10 01:04:22,000 - Partial result: 'just a little on him a thunderous the young and dirt on it'
+2025-10-10 01:04:28,146 - Partial result: 'just a little on him a thunderous the young and dirt on it all'
+2025-10-10 01:04:29,154 - Partial result: 'just a little on him a thunderous the young and dirt on little'
+2025-10-10 01:04:29,244 - Partial result: 'just a little on him a thunderous the young and dirt on little after'
+2025-10-10 01:04:29,708 - Partial result: 'just a little on him a thunderous the young and dirt on little harder'
+2025-10-10 01:04:29,787 - Partial result: 'just a little on him a thunderous the young and dirt on little harder to'
+2025-10-10 01:04:30,225 - Partial result: 'just a little on him a thunderous the young and dirt on little harder to call'
+2025-10-10 01:04:30,780 - System Event: SYSTEM_STATUS - System Status - CPU: 10.5%, Memory: 21.0%, Disk: 95.6%, Network: 260.69MB sent, 233.85MB received
+2025-10-10 01:04:34,411 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he'
+2025-10-10 01:04:34,510 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he'
+2025-10-10 01:04:43,042 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they wouldn't'
+2025-10-10 01:04:43,128 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not going to'
+2025-10-10 01:04:48,675 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna'
+2025-10-10 01:04:49,137 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna'
+2025-10-10 01:04:49,177 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start'
+2025-10-10 01:04:49,669 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start'
+2025-10-10 01:04:49,735 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our'
+2025-10-10 01:04:51,203 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our'
+2025-10-10 01:04:51,717 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our live'
+2025-10-10 01:05:01,803 - System Event: SYSTEM_STATUS - System Status - CPU: 14.0%, Memory: 21.1%, Disk: 95.6%, Network: 282.16MB sent, 255.06MB received
+2025-10-10 01:05:32,824 - System Event: SYSTEM_STATUS - System Status - CPU: 8.4%, Memory: 21.0%, Disk: 95.6%, Network: 301.16MB sent, 274.1MB received
+2025-10-10 01:06:03,851 - System Event: SYSTEM_STATUS - System Status - CPU: 7.6%, Memory: 20.9%, Disk: 95.6%, Network: 308.46MB sent, 283.58MB received
+2025-10-10 01:06:13,296 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our let her'
+2025-10-10 01:06:20,928 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit photo'
+2025-10-10 01:06:21,003 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up'
+2025-10-10 01:06:28,653 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up with an'
+2025-10-10 01:06:28,773 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lives for don't know what'
+2025-10-10 01:06:29,110 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article'
+2025-10-10 01:06:29,143 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article'
+2025-10-10 01:06:31,670 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do'
+2025-10-10 01:06:32,200 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do the'
+2025-10-10 01:06:34,261 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like'
+2025-10-10 01:06:34,804 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like what it'
+2025-10-10 01:06:34,867 - System Event: SYSTEM_STATUS - System Status - CPU: 17.5%, Memory: 21.0%, Disk: 95.6%, Network: 322.95MB sent, 298.87MB received
+2025-10-10 01:06:37,305 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like that would ultimately'
+2025-10-10 01:06:37,374 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism and'
+2025-10-10 01:06:37,813 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism an'
+2025-10-10 01:06:44,006 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and'
+2025-10-10 01:06:45,555 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and'
+2025-10-10 01:06:49,148 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all'
+2025-10-10 01:06:49,681 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all that'
+2025-10-10 01:06:53,227 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your'
+2025-10-10 01:06:53,276 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your mom the'
+2025-10-10 01:06:53,737 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your mom tomorrow'
+2025-10-10 01:07:05,892 - System Event: SYSTEM_STATUS - System Status - CPU: 11.5%, Memory: 21.0%, Disk: 95.6%, Network: 336.58MB sent, 314.28MB received
+2025-10-10 01:07:36,912 - System Event: SYSTEM_STATUS - System Status - CPU: 10.6%, Memory: 21.0%, Disk: 95.6%, Network: 355.88MB sent, 328.84MB received
+2025-10-10 01:07:53,229 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your mom tomorrow'
+2025-10-10 01:07:53,771 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your mom tomorrow'
+2025-10-10 01:07:54,287 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your mom the model been given'
+2025-10-10 01:07:54,773 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your mom the model been given'
+2025-10-10 01:08:01,446 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your mom the model been given'
+2025-10-10 01:08:07,559 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your mom the model been given decision on'
+2025-10-10 01:08:07,932 - System Event: SYSTEM_STATUS - System Status - CPU: 11.0%, Memory: 21.0%, Disk: 95.6%, Network: 376.96MB sent, 345.87MB received
+2025-10-10 01:08:22,964 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your mom the model been given decision on board'
+2025-10-10 01:08:23,518 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your mom the model been given decision on'
+2025-10-10 01:08:31,110 - Processed 200 audio chunks (vol: 627)
+2025-10-10 01:08:31,162 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your mom the model been given decision on'
+2025-10-10 01:08:31,681 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your mom the model been given decision on our'
+2025-10-10 01:08:32,196 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your mom the model been given decision on our'
+2025-10-10 01:08:38,961 - System Event: SYSTEM_STATUS - System Status - CPU: 8.7%, Memory: 21.0%, Disk: 95.6%, Network: 398.21MB sent, 365.44MB received
+2025-10-10 01:08:45,519 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your mom the model been given decision on our'
+2025-10-10 01:08:50,645 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your mom the model been given decision on a daily'
+2025-10-10 01:08:50,747 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your mom the model been given decision on the'
+2025-10-10 01:08:51,656 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your mom the model been given decision on the is'
+2025-10-10 01:08:51,709 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your mom the model been given decision on the is i'
+2025-10-10 01:08:52,186 - Partial result: 'just a little on him a thunderous the young and dirt on little after that cause he did they were not gonna start our lit up in an article do look like liberalism in march and all the your mom the model been given decision on the is your job'
+2025-10-10 01:09:09,976 - System Event: SYSTEM_STATUS - System Status - CPU: 12.4%, Memory: 21.0%, Disk: 95.6%, Network: 419.38MB sent, 385.15MB received
+2025-10-10 01:09:41,007 - System Event: SYSTEM_STATUS - System Status - CPU: 9.1%, Memory: 20.9%, Disk: 95.6%, Network: 440.52MB sent, 405.43MB received
+2025-10-10 01:10:12,042 - System Event: SYSTEM_STATUS - System Status - CPU: 13.9%, Memory: 20.9%, Disk: 95.6%, Network: 461.82MB sent, 418.27MB received
+2025-10-10 01:10:43,065 - System Event: SYSTEM_STATUS - System Status - CPU: 11.0%, Memory: 20.9%, Disk: 95.6%, Network: 476.26MB sent, 424.07MB received
+2025-10-10 01:11:14,084 - System Event: SYSTEM_STATUS - System Status - CPU: 11.1%, Memory: 20.9%, Disk: 95.6%, Network: 495.82MB sent, 442.5MB received
+2025-10-10 01:11:45,108 - System Event: SYSTEM_STATUS - System Status - CPU: 12.3%, Memory: 20.9%, Disk: 95.6%, Network: 517.01MB sent, 461.63MB received
+2025-10-10 01:12:16,133 - System Event: SYSTEM_STATUS - System Status - CPU: 11.2%, Memory: 20.8%, Disk: 95.6%, Network: 532.92MB sent, 472.88MB received
+2025-10-10 01:12:27,585 - Speech result #11: 'just a little on him not a thunderous the young and dirt on little after that cause he did they were not gonna start our lit for don't put in an article do look like liberalism in march and all the your mom tomorrow to been given decision on out today the is jump jump each the video'
+2025-10-10 01:12:27,585 - Checking for hotword in: 'just a little on him not a thunderous the young and dirt on little after that cause he did they were not gonna start our lit for don't put in an article do look like liberalism in march and all the your mom tomorrow to been given decision on out today the is jump jump each the video'
+2025-10-10 01:12:28,548 - Partial result: 'no i'
+2025-10-10 01:12:35,205 - Partial result: 'no i'
+2025-10-10 01:12:35,276 - Partial result: 'no i'
+2025-10-10 01:12:47,166 - System Event: SYSTEM_STATUS - System Status - CPU: 11.3%, Memory: 20.7%, Disk: 95.6%, Network: 544.92MB sent, 473.84MB received
+2025-10-10 01:12:52,141 - Partial result: 'the water and'
+2025-10-10 01:12:52,654 - Partial result: 'the water and all you'
+2025-10-10 01:12:59,898 - Partial result: 'the water and all your'
+2025-10-10 01:13:09,143 - Partial result: 'the water and all your eyes'
+2025-10-10 01:13:09,627 - Partial result: 'the water and all your eyes and and'
+2025-10-10 01:13:09,754 - Partial result: 'the water and all your eyes and and'
+2025-10-10 01:13:10,696 - Partial result: 'the water and all your eyes and and'
+2025-10-10 01:13:10,784 - Partial result: 'the water and all your eyes and and ratify'
+2025-10-10 01:13:13,248 - Partial result: 'the water and all your eyes and and even if it'
+2025-10-10 01:13:13,720 - Partial result: 'the water and all your eyes and and even if it were'
+2025-10-10 01:13:18,205 - System Event: SYSTEM_STATUS - System Status - CPU: 7.9%, Memory: 20.5%, Disk: 95.6%, Network: 565.47MB sent, 477.52MB received
+2025-10-10 01:13:23,552 - Partial result: 'the water and all your eyes and and even if it had a'
+2025-10-10 01:13:25,524 - Partial result: 'the water and all your eyes and and were given a teenager i'
+2025-10-10 01:13:26,519 - Partial result: 'the water and all your eyes and and were given a teenager i'
+2025-10-10 01:13:49,231 - System Event: SYSTEM_STATUS - System Status - CPU: 16.1%, Memory: 22.4%, Disk: 95.6%, Network: 571.83MB sent, 480.45MB received
+2025-10-10 01:13:54,259 - Partial result: 'the water and all your eyes and and were given a teenager i mean'
+2025-10-10 01:13:54,746 - Partial result: 'the water and all your eyes and and were given a teenager i mean like'
+2025-10-10 01:13:55,788 - Partial result: 'the water and all your eyes and and were given a teenager i mean live for'
+2025-10-10 01:14:03,500 - Partial result: 'the water and all your eyes and and were given a teenager i mean live production'
+2025-10-10 01:14:04,005 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer'
+2025-10-10 01:14:04,064 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a'
+2025-10-10 01:14:04,511 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the'
+2025-10-10 01:14:13,725 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that'
+2025-10-10 01:14:13,780 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a the'
+2025-10-10 01:14:14,243 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip but it'
+2025-10-10 01:14:14,309 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip but a good'
+2025-10-10 01:14:14,742 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken'
+2025-10-10 01:14:14,769 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better got chicken pox'
+2025-10-10 01:14:15,244 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been'
+2025-10-10 01:14:15,275 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been going'
+2025-10-10 01:14:15,788 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been'
+2025-10-10 01:14:15,839 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been garlic now'
+2025-10-10 01:14:20,255 - System Event: SYSTEM_STATUS - System Status - CPU: 19.3%, Memory: 22.0%, Disk: 95.6%, Network: 605.94MB sent, 716.84MB received
+2025-10-10 01:14:32,178 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been garlic or than'
+2025-10-10 01:14:38,351 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been garlic or than'
+2025-10-10 01:14:51,285 - System Event: SYSTEM_STATUS - System Status - CPU: 7.9%, Memory: 22.5%, Disk: 95.6%, Network: 769.86MB sent, 727.9MB received
+2025-10-10 01:15:22,309 - System Event: SYSTEM_STATUS - System Status - CPU: 11.4%, Memory: 22.5%, Disk: 95.6%, Network: 781.69MB sent, 731.37MB received
+2025-10-10 01:15:26,073 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been garlic or then you have'
+2025-10-10 01:15:32,715 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been garlic or then you have'
+2025-10-10 01:15:33,216 - Processed 250 audio chunks (vol: 500)
+2025-10-10 01:15:33,333 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been garlic or then you have ended'
+2025-10-10 01:15:33,388 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been garlic or then you have ended up'
+2025-10-10 01:15:33,753 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been garlic or then you have ended up turning'
+2025-10-10 01:15:33,803 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been garlic or then you have ended up turning'
+2025-10-10 01:15:35,785 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been garlic or then you have ended up total'
+2025-10-10 01:15:36,846 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been garlic or then you have ended up total'
+2025-10-10 01:15:51,759 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been garlic or then you have ended up total doesn't back'
+2025-10-10 01:15:52,767 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been garlic or then you have ended up total does about'
+2025-10-10 01:15:53,335 - System Event: SYSTEM_STATUS - System Status - CPU: 10.7%, Memory: 22.5%, Disk: 95.6%, Network: 800.8MB sent, 735.35MB received
+2025-10-10 01:16:24,354 - System Event: SYSTEM_STATUS - System Status - CPU: 12.1%, Memory: 22.6%, Disk: 95.6%, Network: 819.84MB sent, 737.66MB received
+2025-10-10 01:16:55,372 - System Event: SYSTEM_STATUS - System Status - CPU: 18.7%, Memory: 23.4%, Disk: 95.6%, Network: 840.08MB sent, 817.86MB received
+2025-10-10 01:17:26,428 - System Event: SYSTEM_STATUS - System Status - CPU: 18.4%, Memory: 23.3%, Disk: 95.6%, Network: 853.79MB sent, 861.45MB received
+2025-10-10 01:17:57,448 - System Event: SYSTEM_STATUS - System Status - CPU: 21.2%, Memory: 23.3%, Disk: 95.6%, Network: 854.61MB sent, 904.7MB received
+2025-10-10 01:18:00,392 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been garlic or then you have ended up total does that look for'
+2025-10-10 01:18:00,910 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been garlic or then you have ended up total does that look for'
+2025-10-10 01:18:03,472 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been garlic or then you have ended up total does about not the only'
+2025-10-10 01:18:03,506 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been garlic or then you have ended up total does about not the only'
+2025-10-10 01:18:28,469 - System Event: SYSTEM_STATUS - System Status - CPU: 12.5%, Memory: 23.3%, Disk: 95.6%, Network: 855.38MB sent, 935.91MB received
+2025-10-10 01:18:36,284 - Partial result: 'the water and all your eyes and and were given a teenager i mean i prefer a of the a that philip better get chicken have been garlic or then you have ended up total does about not the only'
+2025-10-10 01:18:39,430 - Speech result #12: 'water and all your eyes and and ratify given a teenager i mean will i prefer a of the a that philip better get chicken have been garlic or then you have ended up total does about look for only'
+2025-10-10 01:18:39,430 - Checking for hotword in: 'water and all your eyes and and ratify given a teenager i mean will i prefer a of the a that philip better get chicken have been garlic or then you have ended up total does about look for only'
+2025-10-10 01:18:59,487 - System Event: SYSTEM_STATUS - System Status - CPU: 18.5%, Memory: 23.3%, Disk: 95.6%, Network: 856.51MB sent, 989.14MB received
+2025-10-10 01:19:30,504 - System Event: SYSTEM_STATUS - System Status - CPU: 15.4%, Memory: 23.1%, Disk: 95.6%, Network: 857.03MB sent, 1020.29MB received
+2025-10-10 01:20:01,526 - System Event: SYSTEM_STATUS - System Status - CPU: 21.9%, Memory: 23.2%, Disk: 95.6%, Network: 857.88MB sent, 1080.45MB received
+2025-10-10 01:20:32,547 - System Event: SYSTEM_STATUS - System Status - CPU: 11.9%, Memory: 23.2%, Disk: 95.6%, Network: 858.35MB sent, 1110.13MB received
+2025-10-10 01:20:43,989 - Partial result: 'he he'
+2025-10-10 01:21:03,568 - System Event: SYSTEM_STATUS - System Status - CPU: 14.4%, Memory: 23.2%, Disk: 95.6%, Network: 858.96MB sent, 1140.77MB received
+2025-10-10 01:21:34,587 - System Event: SYSTEM_STATUS - System Status - CPU: 15.8%, Memory: 23.1%, Disk: 95.6%, Network: 859.86MB sent, 1200.14MB received
+2025-10-10 01:22:05,622 - System Event: SYSTEM_STATUS - System Status - CPU: 14.2%, Memory: 23.2%, Disk: 95.6%, Network: 860.28MB sent, 1227.4MB received
+2025-10-10 01:22:36,645 - System Event: SYSTEM_STATUS - System Status - CPU: 13.6%, Memory: 23.2%, Disk: 95.6%, Network: 861.15MB sent, 1288.45MB received
+2025-10-10 01:23:07,667 - System Event: SYSTEM_STATUS - System Status - CPU: 15.4%, Memory: 23.2%, Disk: 95.6%, Network: 861.58MB sent, 1318.23MB received
+2025-10-10 01:23:38,695 - System Event: SYSTEM_STATUS - System Status - CPU: 23.7%, Memory: 23.1%, Disk: 95.6%, Network: 862.06MB sent, 1352.99MB received
+2025-10-10 01:23:50,932 - Partial result: 'he he'
+2025-10-10 01:23:50,976 - Partial result: 'he he'
+2025-10-10 01:24:09,713 - System Event: SYSTEM_STATUS - System Status - CPU: 13.6%, Memory: 23.2%, Disk: 95.6%, Network: 862.97MB sent, 1405.94MB received
+2025-10-10 01:24:40,734 - System Event: SYSTEM_STATUS - System Status - CPU: 11.9%, Memory: 23.1%, Disk: 95.6%, Network: 863.53MB sent, 1435.86MB received
+2025-10-10 01:25:11,755 - System Event: SYSTEM_STATUS - System Status - CPU: 12.7%, Memory: 23.2%, Disk: 95.6%, Network: 864.48MB sent, 1491.53MB received
+2025-10-10 01:25:42,776 - System Event: SYSTEM_STATUS - System Status - CPU: 14.5%, Memory: 23.1%, Disk: 95.6%, Network: 865.05MB sent, 1521.76MB received
+2025-10-10 01:26:13,801 - System Event: SYSTEM_STATUS - System Status - CPU: 28.0%, Memory: 23.1%, Disk: 95.6%, Network: 866.08MB sent, 1571.14MB received
+2025-10-10 01:26:44,817 - System Event: SYSTEM_STATUS - System Status - CPU: 16.1%, Memory: 23.1%, Disk: 95.6%, Network: 866.92MB sent, 1612.73MB received
+2025-10-10 01:27:15,838 - System Event: SYSTEM_STATUS - System Status - CPU: 15.0%, Memory: 23.2%, Disk: 95.6%, Network: 867.65MB sent, 1646.38MB received
+2025-10-10 01:27:46,865 - System Event: SYSTEM_STATUS - System Status - CPU: 17.3%, Memory: 23.3%, Disk: 95.6%, Network: 869.13MB sent, 1712.3MB received
+2025-10-10 01:28:17,884 - System Event: SYSTEM_STATUS - System Status - CPU: 11.8%, Memory: 23.3%, Disk: 95.6%, Network: 869.96MB sent, 1750.55MB received
+2025-10-10 01:28:48,906 - System Event: SYSTEM_STATUS - System Status - CPU: 16.9%, Memory: 23.3%, Disk: 95.6%, Network: 871.44MB sent, 1821.97MB received
+2025-10-10 01:29:19,924 - System Event: SYSTEM_STATUS - System Status - CPU: 19.5%, Memory: 23.3%, Disk: 95.6%, Network: 872.34MB sent, 1860.76MB received
+2025-10-10 01:29:50,941 - System Event: SYSTEM_STATUS - System Status - CPU: 15.4%, Memory: 23.2%, Disk: 95.6%, Network: 873.08MB sent, 1890.5MB received
+2025-10-10 01:30:21,960 - System Event: SYSTEM_STATUS - System Status - CPU: 11.5%, Memory: 23.4%, Disk: 95.6%, Network: 874.26MB sent, 1948.51MB received
+2025-10-10 01:30:52,983 - System Event: SYSTEM_STATUS - System Status - CPU: 12.4%, Memory: 23.4%, Disk: 95.6%, Network: 875.01MB sent, 1983.43MB received
+2025-10-10 01:31:24,006 - System Event: SYSTEM_STATUS - System Status - CPU: 13.3%, Memory: 23.4%, Disk: 95.6%, Network: 876.19MB sent, 2040.78MB received
+2025-10-10 01:31:55,023 - System Event: SYSTEM_STATUS - System Status - CPU: 24.6%, Memory: 23.4%, Disk: 95.6%, Network: 876.81MB sent, 2070.02MB received
+2025-10-10 01:32:26,045 - System Event: SYSTEM_STATUS - System Status - CPU: 14.0%, Memory: 23.3%, Disk: 95.6%, Network: 877.48MB sent, 2100.84MB received
+2025-10-10 01:32:57,065 - System Event: SYSTEM_STATUS - System Status - CPU: 13.2%, Memory: 23.3%, Disk: 95.6%, Network: 877.8MB sent, 2118.25MB received
+2025-10-10 01:33:28,085 - System Event: SYSTEM_STATUS - System Status - CPU: 10.7%, Memory: 23.1%, Disk: 95.6%, Network: 878.56MB sent, 2154.0MB received
+2025-10-10 01:33:59,104 - System Event: SYSTEM_STATUS - System Status - CPU: 13.3%, Memory: 23.1%, Disk: 95.6%, Network: 879.77MB sent, 2242.94MB received
+2025-10-10 01:34:30,120 - System Event: SYSTEM_STATUS - System Status - CPU: 16.3%, Memory: 23.1%, Disk: 95.6%, Network: 880.27MB sent, 2278.77MB received
+2025-10-10 01:35:01,157 - System Event: SYSTEM_STATUS - System Status - CPU: 23.4%, Memory: 23.2%, Disk: 95.6%, Network: 889.28MB sent, 2349.15MB received
+2025-10-10 01:35:32,179 - System Event: SYSTEM_STATUS - System Status - CPU: 17.3%, Memory: 23.4%, Disk: 95.6%, Network: 910.89MB sent, 2398.07MB received
+2025-10-10 01:36:03,203 - System Event: SYSTEM_STATUS - System Status - CPU: 19.1%, Memory: 23.3%, Disk: 95.6%, Network: 932.54MB sent, 2444.69MB received
+2025-10-10 01:36:34,221 - System Event: SYSTEM_STATUS - System Status - CPU: 15.6%, Memory: 23.3%, Disk: 95.6%, Network: 954.08MB sent, 2498.48MB received
+2025-10-10 01:37:05,239 - System Event: SYSTEM_STATUS - System Status - CPU: 26.6%, Memory: 23.4%, Disk: 95.6%, Network: 975.69MB sent, 2551.97MB received
+2025-10-10 01:37:36,274 - System Event: SYSTEM_STATUS - System Status - CPU: 32.2%, Memory: 24.2%, Disk: 95.6%, Network: 1000.47MB sent, 2566.98MB received
+2025-10-10 01:38:07,299 - System Event: SYSTEM_STATUS - System Status - CPU: 12.8%, Memory: 24.2%, Disk: 95.6%, Network: 1023.73MB sent, 2577.33MB received
+2025-10-10 01:38:38,329 - System Event: SYSTEM_STATUS - System Status - CPU: 20.6%, Memory: 24.9%, Disk: 95.6%, Network: 1051.27MB sent, 2603.34MB received
+2025-10-10 01:39:09,350 - System Event: SYSTEM_STATUS - System Status - CPU: 14.7%, Memory: 24.7%, Disk: 95.6%, Network: 1078.21MB sent, 2607.5MB received
+2025-10-10 01:39:40,372 - System Event: SYSTEM_STATUS - System Status - CPU: 22.5%, Memory: 24.8%, Disk: 95.6%, Network: 1103.39MB sent, 2652.78MB received
+2025-10-10 01:40:11,428 - System Event: SYSTEM_STATUS - System Status - CPU: 30.4%, Memory: 25.2%, Disk: 95.6%, Network: 1150.13MB sent, 2683.36MB received
+2025-10-10 01:40:42,451 - System Event: SYSTEM_STATUS - System Status - CPU: 17.5%, Memory: 24.9%, Disk: 95.6%, Network: 1193.71MB sent, 2711.48MB received
+2025-10-10 01:41:13,491 - System Event: SYSTEM_STATUS - System Status - CPU: 18.3%, Memory: 24.9%, Disk: 95.6%, Network: 1244.88MB sent, 2737.94MB received
+2025-10-10 01:41:44,509 - System Event: SYSTEM_STATUS - System Status - CPU: 18.1%, Memory: 24.8%, Disk: 95.6%, Network: 1284.92MB sent, 2781.87MB received
+2025-10-10 01:42:15,530 - System Event: SYSTEM_STATUS - System Status - CPU: 22.9%, Memory: 24.9%, Disk: 95.6%, Network: 1320.23MB sent, 2829.88MB received
+2025-10-10 01:42:46,553 - System Event: SYSTEM_STATUS - System Status - CPU: 18.2%, Memory: 24.9%, Disk: 95.6%, Network: 1363.57MB sent, 2867.75MB received
+2025-10-10 01:43:17,579 - System Event: SYSTEM_STATUS - System Status - CPU: 22.4%, Memory: 25.0%, Disk: 95.6%, Network: 1413.22MB sent, 2919.79MB received
+2025-10-10 01:43:31,010 - Speech result #13: 'he he'
+2025-10-10 01:43:31,010 - Checking for hotword in: 'he he'
+2025-10-10 01:43:48,622 - System Event: SYSTEM_STATUS - System Status - CPU: 25.4%, Memory: 25.0%, Disk: 95.6%, Network: 1456.16MB sent, 2968.63MB received
+2025-10-10 01:44:19,642 - System Event: SYSTEM_STATUS - System Status - CPU: 17.2%, Memory: 25.0%, Disk: 95.6%, Network: 1505.93MB sent, 3019.97MB received
+2025-10-10 01:44:50,660 - System Event: SYSTEM_STATUS - System Status - CPU: 24.6%, Memory: 25.0%, Disk: 95.6%, Network: 1545.82MB sent, 3077.19MB received
+2025-10-10 01:45:21,683 - System Event: SYSTEM_STATUS - System Status - CPU: 21.3%, Memory: 25.1%, Disk: 95.6%, Network: 1595.91MB sent, 3128.94MB received
+2025-10-10 01:45:52,706 - System Event: SYSTEM_STATUS - System Status - CPU: 23.2%, Memory: 25.1%, Disk: 95.6%, Network: 1637.11MB sent, 3169.78MB received
+2025-10-10 01:46:23,731 - System Event: SYSTEM_STATUS - System Status - CPU: 17.9%, Memory: 25.3%, Disk: 95.6%, Network: 1687.3MB sent, 3219.17MB received
+2025-10-10 01:46:54,749 - System Event: SYSTEM_STATUS - System Status - CPU: 50.7%, Memory: 25.2%, Disk: 95.6%, Network: 1729.46MB sent, 3252.27MB received
+2025-10-10 01:47:25,772 - System Event: SYSTEM_STATUS - System Status - CPU: 24.0%, Memory: 25.2%, Disk: 95.6%, Network: 1780.03MB sent, 3295.07MB received
+2025-10-10 01:47:56,795 - System Event: SYSTEM_STATUS - System Status - CPU: 20.4%, Memory: 25.1%, Disk: 95.6%, Network: 1819.55MB sent, 3331.19MB received
+2025-10-10 01:48:27,815 - System Event: SYSTEM_STATUS - System Status - CPU: 19.9%, Memory: 25.0%, Disk: 95.6%, Network: 1870.11MB sent, 3372.51MB received
+2025-10-10 01:48:58,833 - System Event: SYSTEM_STATUS - System Status - CPU: 19.4%, Memory: 25.0%, Disk: 95.6%, Network: 1911.47MB sent, 3411.89MB received
+2025-10-10 01:49:29,852 - System Event: SYSTEM_STATUS - System Status - CPU: 22.6%, Memory: 25.1%, Disk: 95.6%, Network: 1962.63MB sent, 3461.46MB received
+2025-10-10 01:50:00,875 - System Event: SYSTEM_STATUS - System Status - CPU: 34.6%, Memory: 25.1%, Disk: 95.6%, Network: 2007.21MB sent, 3504.24MB received
+2025-10-10 01:50:31,897 - System Event: SYSTEM_STATUS - System Status - CPU: 17.3%, Memory: 25.0%, Disk: 95.6%, Network: 2058.28MB sent, 3546.37MB received
+2025-10-10 01:51:02,973 - System Event: SYSTEM_STATUS - System Status - CPU: 25.0%, Memory: 25.0%, Disk: 95.6%, Network: 2097.65MB sent, 3576.81MB received
+2025-10-10 01:51:33,991 - System Event: SYSTEM_STATUS - System Status - CPU: 23.0%, Memory: 25.0%, Disk: 95.6%, Network: 2146.01MB sent, 3615.96MB received
+2025-10-10 01:52:05,011 - System Event: SYSTEM_STATUS - System Status - CPU: 29.4%, Memory: 25.2%, Disk: 95.6%, Network: 2183.68MB sent, 3650.32MB received
+2025-10-10 01:52:36,036 - System Event: SYSTEM_STATUS - System Status - CPU: 21.2%, Memory: 24.8%, Disk: 95.6%, Network: 2204.82MB sent, 3668.95MB received
+2025-10-10 01:53:07,065 - System Event: SYSTEM_STATUS - System Status - CPU: 34.9%, Memory: 25.2%, Disk: 95.6%, Network: 2225.8MB sent, 3679.76MB received
+2025-10-10 01:53:38,086 - System Event: SYSTEM_STATUS - System Status - CPU: 19.2%, Memory: 24.9%, Disk: 95.6%, Network: 2247.73MB sent, 3735.91MB received
+2025-10-10 01:54:09,103 - System Event: SYSTEM_STATUS - System Status - CPU: 14.4%, Memory: 24.8%, Disk: 95.6%, Network: 2268.72MB sent, 3774.11MB received
+2025-10-10 01:54:40,122 - System Event: SYSTEM_STATUS - System Status - CPU: 18.6%, Memory: 24.9%, Disk: 95.6%, Network: 2290.51MB sent, 3844.46MB received
+2025-10-10 01:55:11,146 - System Event: SYSTEM_STATUS - System Status - CPU: 19.2%, Memory: 24.8%, Disk: 95.6%, Network: 2305.73MB sent, 3879.19MB received
+2025-10-10 01:55:42,174 - System Event: SYSTEM_STATUS - System Status - CPU: 9.4%, Memory: 24.9%, Disk: 95.6%, Network: 2317.76MB sent, 3913.76MB received
+2025-10-10 01:56:13,197 - System Event: SYSTEM_STATUS - System Status - CPU: 15.3%, Memory: 24.8%, Disk: 95.6%, Network: 2338.08MB sent, 3928.49MB received
+2025-10-10 01:56:43,201 - System Event: PROCESS_CLOSED - Discord.exe
+2025-10-10 01:56:44,212 - System Event: SYSTEM_STATUS - System Status - CPU: 10.2%, Memory: 22.2%, Disk: 95.6%, Network: 2338.74MB sent, 3961.85MB received
+2025-10-10 01:57:15,228 - System Event: SYSTEM_STATUS - System Status - CPU: 10.9%, Memory: 22.0%, Disk: 95.6%, Network: 2339.58MB sent, 4026.42MB received
+2025-10-10 01:57:46,248 - System Event: SYSTEM_STATUS - System Status - CPU: 11.5%, Memory: 22.0%, Disk: 95.6%, Network: 2339.99MB sent, 4056.14MB received
+2025-10-10 01:58:17,292 - System Event: SYSTEM_STATUS - System Status - CPU: 18.4%, Memory: 22.0%, Disk: 95.6%, Network: 2340.53MB sent, 4095.36MB received
+2025-10-10 08:50:18,331 - System Event: SYSTEM_STATUS - System Status - CPU: 98.3%, Memory: 23.5%, Disk: 95.6%, Network: 1233.14MB sent, 2166.89MB received
+2025-10-11 00:03:53,134 - System Event: SYSTEM_STATUS - System Status - CPU: 34.0%, Memory: 23.2%, Disk: 95.6%, Network: 1234.52MB sent, 2168.67MB received
+2025-10-11 00:04:43,197 - System Event: SYSTEM_STATUS - System Status - CPU: 34.4%, Memory: 23.1%, Disk: 95.4%, Network: 1235.8MB sent, 2178.73MB received
+2025-10-11 00:05:13,202 - System Event: PROCESS_STARTED - Discord.exe
+2025-10-11 00:05:13,202 - System Event: PROCESS_STARTED - Discord.exe
+2025-10-11 00:05:13,203 - System Event: PROCESS_STARTED - Discord.exe
+2025-10-11 00:05:13,203 - System Event: PROCESS_STARTED - Discord.exe
+2025-10-11 00:05:13,204 - System Event: PROCESS_STARTED - Discord.exe
+2025-10-11 00:05:13,204 - System Event: PROCESS_STARTED - Discord.exe
+2025-10-11 00:05:14,231 - System Event: SYSTEM_STATUS - System Status - CPU: 32.8%, Memory: 25.6%, Disk: 95.6%, Network: 1238.5MB sent, 2217.1MB received
+2025-10-11 00:05:45,250 - System Event: SYSTEM_STATUS - System Status - CPU: 16.4%, Memory: 25.7%, Disk: 95.6%, Network: 1259.11MB sent, 2247.17MB received
+2025-10-11 00:06:16,285 - System Event: SYSTEM_STATUS - System Status - CPU: 20.6%, Memory: 26.5%, Disk: 95.6%, Network: 1276.76MB sent, 2277.58MB received
+2025-10-11 00:06:47,330 - System Event: SYSTEM_STATUS - System Status - CPU: 44.3%, Memory: 27.2%, Disk: 95.6%, Network: 1298.0MB sent, 2298.14MB received
+2025-10-11 00:07:18,404 - System Event: SYSTEM_STATUS - System Status - CPU: 44.3%, Memory: 27.3%, Disk: 95.6%, Network: 1332.06MB sent, 2425.69MB received
+2025-10-11 00:07:49,478 - System Event: SYSTEM_STATUS - System Status - CPU: 93.3%, Memory: 27.9%, Disk: 95.4%, Network: 1374.05MB sent, 2676.42MB received
+2025-10-11 00:08:20,516 - System Event: SYSTEM_STATUS - System Status - CPU: 38.7%, Memory: 27.8%, Disk: 95.4%, Network: 1413.89MB sent, 2762.75MB received
+2025-10-11 00:08:51,576 - System Event: SYSTEM_STATUS - System Status - CPU: 100.0%, Memory: 28.3%, Disk: 95.4%, Network: 1460.51MB sent, 2835.21MB received
+2025-10-11 00:09:22,628 - System Event: SYSTEM_STATUS - System Status - CPU: 53.8%, Memory: 27.5%, Disk: 95.4%, Network: 1498.86MB sent, 2903.19MB received
+2025-10-11 00:09:53,655 - System Event: SYSTEM_STATUS - System Status - CPU: 22.3%, Memory: 27.4%, Disk: 95.4%, Network: 1540.99MB sent, 2957.31MB received
+2025-10-11 00:10:24,676 - System Event: SYSTEM_STATUS - System Status - CPU: 25.4%, Memory: 27.6%, Disk: 95.4%, Network: 1575.14MB sent, 3044.24MB received
+2025-10-11 00:10:55,703 - System Event: SYSTEM_STATUS - System Status - CPU: 42.3%, Memory: 27.5%, Disk: 95.4%, Network: 1596.25MB sent, 3091.92MB received
+2025-10-11 00:11:26,729 - System Event: SYSTEM_STATUS - System Status - CPU: 18.6%, Memory: 27.4%, Disk: 95.4%, Network: 1623.46MB sent, 3142.74MB received
+2025-10-11 00:11:57,767 - System Event: SYSTEM_STATUS - System Status - CPU: 23.8%, Memory: 27.6%, Disk: 95.4%, Network: 1644.83MB sent, 3222.27MB received
+2025-10-11 00:12:28,786 - System Event: SYSTEM_STATUS - System Status - CPU: 19.2%, Memory: 27.5%, Disk: 95.4%, Network: 1665.84MB sent, 3275.62MB received
+2025-10-11 00:12:59,803 - System Event: SYSTEM_STATUS - System Status - CPU: 25.7%, Memory: 27.5%, Disk: 95.4%, Network: 1695.05MB sent, 3367.45MB received
+2025-10-11 00:13:30,829 - System Event: SYSTEM_STATUS - System Status - CPU: 30.4%, Memory: 27.4%, Disk: 95.4%, Network: 1723.24MB sent, 3423.17MB received
+2025-10-11 00:14:01,877 - System Event: SYSTEM_STATUS - System Status - CPU: 46.7%, Memory: 27.4%, Disk: 95.4%, Network: 1752.64MB sent, 3502.99MB received
+2025-10-11 00:14:32,903 - System Event: SYSTEM_STATUS - System Status - CPU: 23.4%, Memory: 27.4%, Disk: 95.4%, Network: 1786.32MB sent, 3562.23MB received
+2025-10-11 00:15:03,922 - System Event: SYSTEM_STATUS - System Status - CPU: 39.4%, Memory: 27.2%, Disk: 95.4%, Network: 1833.76MB sent, 3617.22MB received
+2025-10-11 00:15:34,942 - System Event: SYSTEM_STATUS - System Status - CPU: 25.6%, Memory: 27.3%, Disk: 95.4%, Network: 1874.15MB sent, 3695.09MB received
+2025-10-11 00:16:05,966 - System Event: SYSTEM_STATUS - System Status - CPU: 37.4%, Memory: 27.2%, Disk: 95.4%, Network: 1915.45MB sent, 3724.92MB received
+2025-10-11 00:16:36,989 - System Event: SYSTEM_STATUS - System Status - CPU: 26.5%, Memory: 27.0%, Disk: 95.4%, Network: 1941.91MB sent, 3796.69MB received
+2025-10-11 00:17:08,013 - System Event: SYSTEM_STATUS - System Status - CPU: 20.7%, Memory: 27.0%, Disk: 95.4%, Network: 1962.94MB sent, 3832.82MB received
+2025-10-11 00:17:39,034 - System Event: SYSTEM_STATUS - System Status - CPU: 24.0%, Memory: 26.9%, Disk: 95.4%, Network: 1982.73MB sent, 3881.71MB received
+2025-10-11 00:18:10,051 - System Event: SYSTEM_STATUS - System Status - CPU: 29.3%, Memory: 26.9%, Disk: 95.4%, Network: 1997.12MB sent, 3938.66MB received
+2025-10-11 00:18:41,076 - System Event: SYSTEM_STATUS - System Status - CPU: 23.4%, Memory: 26.9%, Disk: 95.4%, Network: 2029.35MB sent, 3974.05MB received
+2025-10-11 00:19:12,119 - System Event: SYSTEM_STATUS - System Status - CPU: 28.5%, Memory: 26.9%, Disk: 95.4%, Network: 2071.13MB sent, 4033.14MB received
+2025-10-11 00:19:43,147 - System Event: SYSTEM_STATUS - System Status - CPU: 17.4%, Memory: 27.0%, Disk: 95.4%, Network: 2090.74MB sent, 4034.24MB received
+2025-10-11 00:20:14,167 - System Event: SYSTEM_STATUS - System Status - CPU: 18.1%, Memory: 26.6%, Disk: 95.4%, Network: 2121.51MB sent, 4070.16MB received
+2025-10-11 00:20:45,185 - System Event: SYSTEM_STATUS - System Status - CPU: 26.9%, Memory: 26.5%, Disk: 95.4%, Network: 2156.11MB sent, 4127.15MB received
+2025-10-11 00:21:16,236 - System Event: SYSTEM_STATUS - System Status - CPU: 37.3%, Memory: 26.5%, Disk: 95.4%, Network: 2206.01MB sent, 4191.47MB received
+2025-10-11 00:21:47,261 - System Event: SYSTEM_STATUS - System Status - CPU: 29.0%, Memory: 26.4%, Disk: 95.4%, Network: 2242.71MB sent, 4229.83MB received
+2025-10-11 00:22:18,287 - System Event: SYSTEM_STATUS - System Status - CPU: 29.7%, Memory: 26.4%, Disk: 95.4%, Network: 2293.04MB sent, 4302.72MB received
+2025-10-11 00:22:49,304 - System Event: SYSTEM_STATUS - System Status - CPU: 23.5%, Memory: 26.5%, Disk: 95.4%, Network: 2333.14MB sent, 4337.71MB received
+2025-10-11 00:23:20,320 - System Event: SYSTEM_STATUS - System Status - CPU: 15.3%, Memory: 26.7%, Disk: 95.4%, Network: 2371.31MB sent, 4379.33MB received
+2025-10-11 00:23:51,367 - System Event: SYSTEM_STATUS - System Status - CPU: 12.1%, Memory: 26.6%, Disk: 95.4%, Network: 2399.01MB sent, 4388.99MB received
+2025-10-11 00:24:22,409 - System Event: SYSTEM_STATUS - System Status - CPU: 16.4%, Memory: 26.7%, Disk: 95.4%, Network: 2428.63MB sent, 4401.94MB received
+2025-10-11 00:24:53,441 - System Event: SYSTEM_STATUS - System Status - CPU: 15.6%, Memory: 26.6%, Disk: 95.4%, Network: 2455.24MB sent, 4411.64MB received
+2025-10-11 00:25:24,473 - System Event: SYSTEM_STATUS - System Status - CPU: 13.1%, Memory: 26.6%, Disk: 95.4%, Network: 2486.38MB sent, 4422.83MB received
+2025-10-11 00:25:55,490 - System Event: SYSTEM_STATUS - System Status - CPU: 13.3%, Memory: 26.6%, Disk: 95.4%, Network: 2510.59MB sent, 4432.94MB received
+2025-10-11 00:26:26,511 - System Event: SYSTEM_STATUS - System Status - CPU: 16.3%, Memory: 26.5%, Disk: 95.4%, Network: 2541.52MB sent, 4444.23MB received
+2025-10-11 00:26:57,533 - System Event: SYSTEM_STATUS - System Status - CPU: 11.9%, Memory: 26.6%, Disk: 95.4%, Network: 2566.47MB sent, 4454.79MB received
+2025-10-11 00:27:28,566 - System Event: SYSTEM_STATUS - System Status - CPU: 13.4%, Memory: 26.6%, Disk: 95.4%, Network: 2583.95MB sent, 4466.01MB received
+2025-10-11 00:27:59,585 - System Event: SYSTEM_STATUS - System Status - CPU: 17.5%, Memory: 26.6%, Disk: 95.4%, Network: 2595.98MB sent, 4469.41MB received
+2025-10-11 00:28:30,606 - System Event: SYSTEM_STATUS - System Status - CPU: 22.2%, Memory: 26.6%, Disk: 95.4%, Network: 2615.17MB sent, 4472.34MB received
+2025-10-11 00:29:01,626 - System Event: SYSTEM_STATUS - System Status - CPU: 15.1%, Memory: 26.5%, Disk: 95.4%, Network: 2628.37MB sent, 4474.54MB received
+2025-10-11 00:29:32,647 - System Event: SYSTEM_STATUS - System Status - CPU: 13.1%, Memory: 26.5%, Disk: 95.4%, Network: 2646.24MB sent, 4481.4MB received
+2025-10-11 00:30:03,671 - System Event: SYSTEM_STATUS - System Status - CPU: 14.3%, Memory: 26.5%, Disk: 95.4%, Network: 2661.45MB sent, 4486.62MB received
+2025-10-11 00:30:34,692 - System Event: SYSTEM_STATUS - System Status - CPU: 14.1%, Memory: 26.6%, Disk: 95.4%, Network: 2683.76MB sent, 4489.84MB received
+2025-10-11 00:31:05,720 - System Event: SYSTEM_STATUS - System Status - CPU: 18.6%, Memory: 26.7%, Disk: 95.4%, Network: 2721.25MB sent, 4520.44MB received
+2025-10-11 00:31:36,744 - System Event: SYSTEM_STATUS - System Status - CPU: 25.1%, Memory: 26.6%, Disk: 95.4%, Network: 2771.03MB sent, 4564.35MB received
+2025-10-11 00:32:07,767 - System Event: SYSTEM_STATUS - System Status - CPU: 25.9%, Memory: 26.6%, Disk: 95.4%, Network: 2796.76MB sent, 4631.06MB received
+2025-10-11 00:32:38,785 - System Event: SYSTEM_STATUS - System Status - CPU: 24.8%, Memory: 26.7%, Disk: 95.4%, Network: 2843.48MB sent, 4667.35MB received
+2025-10-11 00:33:09,805 - System Event: SYSTEM_STATUS - System Status - CPU: 27.6%, Memory: 26.7%, Disk: 95.4%, Network: 2855.95MB sent, 4734.08MB received
+2025-10-11 00:33:40,828 - System Event: SYSTEM_STATUS - System Status - CPU: 26.1%, Memory: 26.7%, Disk: 95.4%, Network: 2881.16MB sent, 4770.5MB received
+2025-10-11 00:34:11,862 - System Event: SYSTEM_STATUS - System Status - CPU: 36.1%, Memory: 27.0%, Disk: 95.4%, Network: 2895.23MB sent, 4835.85MB received
+2025-10-11 00:34:42,906 - System Event: SYSTEM_STATUS - System Status - CPU: 18.7%, Memory: 26.9%, Disk: 95.4%, Network: 2918.33MB sent, 4872.05MB received
+2025-10-11 00:35:13,926 - System Event: SYSTEM_STATUS - System Status - CPU: 19.0%, Memory: 26.9%, Disk: 95.4%, Network: 2930.84MB sent, 4934.57MB received
+2025-10-11 00:35:44,945 - System Event: SYSTEM_STATUS - System Status - CPU: 27.7%, Memory: 26.8%, Disk: 95.4%, Network: 2941.44MB sent, 4980.34MB received
+2025-10-11 00:36:15,968 - System Event: SYSTEM_STATUS - System Status - CPU: 20.8%, Memory: 26.8%, Disk: 95.4%, Network: 2951.19MB sent, 5033.25MB received
+2025-10-11 00:36:46,990 - System Event: SYSTEM_STATUS - System Status - CPU: 22.5%, Memory: 26.8%, Disk: 95.4%, Network: 2972.14MB sent, 5082.43MB received
+2025-10-11 00:37:18,015 - System Event: SYSTEM_STATUS - System Status - CPU: 20.0%, Memory: 26.8%, Disk: 95.4%, Network: 2986.2MB sent, 5132.74MB received
+2025-10-11 00:37:49,035 - System Event: SYSTEM_STATUS - System Status - CPU: 27.7%, Memory: 27.1%, Disk: 95.4%, Network: 3030.83MB sent, 5198.49MB received
+2025-10-11 00:38:20,052 - System Event: SYSTEM_STATUS - System Status - CPU: 26.9%, Memory: 26.8%, Disk: 95.4%, Network: 3077.29MB sent, 5237.12MB received
+2025-10-11 00:38:51,082 - System Event: SYSTEM_STATUS - System Status - CPU: 31.5%, Memory: 26.8%, Disk: 95.4%, Network: 3121.94MB sent, 5299.69MB received
+2025-10-11 00:39:22,108 - System Event: SYSTEM_STATUS - System Status - CPU: 25.5%, Memory: 26.8%, Disk: 95.4%, Network: 3147.3MB sent, 5336.14MB received
+2025-10-11 00:39:53,146 - System Event: SYSTEM_STATUS - System Status - CPU: 26.7%, Memory: 27.0%, Disk: 95.4%, Network: 3190.32MB sent, 5397.93MB received
+2025-10-11 00:40:24,164 - System Event: SYSTEM_STATUS - System Status - CPU: 22.7%, Memory: 26.9%, Disk: 95.4%, Network: 3226.47MB sent, 5437.08MB received
+2025-10-11 00:40:55,185 - System Event: SYSTEM_STATUS - System Status - CPU: 34.4%, Memory: 26.8%, Disk: 95.4%, Network: 3254.24MB sent, 5502.75MB received
+2025-10-11 00:41:26,213 - System Event: SYSTEM_STATUS - System Status - CPU: 19.9%, Memory: 26.8%, Disk: 95.4%, Network: 3286.45MB sent, 5534.92MB received
+2025-10-11 00:41:57,246 - System Event: SYSTEM_STATUS - System Status - CPU: 15.7%, Memory: 26.9%, Disk: 95.4%, Network: 2343.28MB sent, 3983.21MB received
+2025-10-11 00:42:28,276 - System Event: SYSTEM_STATUS - System Status - CPU: 18.3%, Memory: 26.9%, Disk: 95.4%, Network: 2380.86MB sent, 4050.53MB received
+2025-10-11 00:42:59,292 - System Event: SYSTEM_STATUS - System Status - CPU: 24.1%, Memory: 26.9%, Disk: 95.4%, Network: 2425.69MB sent, 4116.63MB received
+2025-10-11 00:43:30,310 - System Event: SYSTEM_STATUS - System Status - CPU: 20.0%, Memory: 26.9%, Disk: 95.4%, Network: 2477.24MB sent, 4153.78MB received
+2025-10-11 00:44:01,334 - System Event: SYSTEM_STATUS - System Status - CPU: 16.1%, Memory: 26.9%, Disk: 95.4%, Network: 2517.79MB sent, 4220.72MB received
+2025-10-11 00:44:32,358 - System Event: SYSTEM_STATUS - System Status - CPU: 22.2%, Memory: 26.8%, Disk: 95.4%, Network: 2560.91MB sent, 4261.51MB received
+2025-10-11 00:45:03,381 - System Event: SYSTEM_STATUS - System Status - CPU: 16.1%, Memory: 26.8%, Disk: 95.4%, Network: 2603.66MB sent, 4321.17MB received
+2025-10-11 00:45:34,426 - System Event: SYSTEM_STATUS - System Status - CPU: 24.8%, Memory: 26.7%, Disk: 95.4%, Network: 2655.38MB sent, 4367.15MB received
+2025-10-11 00:46:05,445 - System Event: SYSTEM_STATUS - System Status - CPU: 36.9%, Memory: 26.8%, Disk: 95.4%, Network: 2695.03MB sent, 4409.62MB received
+2025-10-11 00:46:36,469 - System Event: SYSTEM_STATUS - System Status - CPU: 19.2%, Memory: 26.7%, Disk: 95.4%, Network: 2744.11MB sent, 4457.52MB received
+2025-10-11 00:47:07,503 - System Event: SYSTEM_STATUS - System Status - CPU: 19.6%, Memory: 26.8%, Disk: 95.4%, Network: 2784.43MB sent, 4509.28MB received
+2025-10-11 00:47:38,524 - System Event: SYSTEM_STATUS - System Status - CPU: 25.0%, Memory: 26.8%, Disk: 95.4%, Network: 2835.65MB sent, 4559.99MB received
+2025-10-11 00:48:09,546 - System Event: SYSTEM_STATUS - System Status - CPU: 22.4%, Memory: 26.8%, Disk: 95.4%, Network: 2875.51MB sent, 4604.83MB received
+2025-10-11 00:48:40,573 - System Event: SYSTEM_STATUS - System Status - CPU: 35.2%, Memory: 26.8%, Disk: 95.4%, Network: 2925.02MB sent, 4671.81MB received
+2025-10-11 00:49:11,602 - System Event: SYSTEM_STATUS - System Status - CPU: 21.0%, Memory: 26.7%, Disk: 95.4%, Network: 2962.43MB sent, 4706.11MB received
+2025-10-11 00:49:42,627 - System Event: SYSTEM_STATUS - System Status - CPU: 18.3%, Memory: 26.7%, Disk: 95.4%, Network: 3004.97MB sent, 4753.85MB received
+2025-10-11 00:50:13,649 - System Event: SYSTEM_STATUS - System Status - CPU: 15.4%, Memory: 27.0%, Disk: 95.4%, Network: 3043.5MB sent, 4755.52MB received
+2025-10-11 00:50:44,677 - System Event: SYSTEM_STATUS - System Status - CPU: 9.1%, Memory: 26.7%, Disk: 95.4%, Network: 3064.52MB sent, 4756.76MB received
+2025-10-11 00:51:15,706 - System Event: SYSTEM_STATUS - System Status - CPU: 8.6%, Memory: 26.7%, Disk: 95.4%, Network: 3085.1MB sent, 4757.85MB received
+2025-10-11 00:51:46,749 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 26.7%, Disk: 95.4%, Network: 3106.12MB sent, 4758.84MB received
+2025-10-11 00:52:17,781 - System Event: SYSTEM_STATUS - System Status - CPU: 6.2%, Memory: 26.7%, Disk: 95.4%, Network: 3119.15MB sent, 4759.72MB received
+2025-10-11 00:52:48,817 - System Event: SYSTEM_STATUS - System Status - CPU: 7.6%, Memory: 26.6%, Disk: 95.4%, Network: 3136.62MB sent, 4760.76MB received
+2025-10-11 00:53:19,840 - System Event: SYSTEM_STATUS - System Status - CPU: 12.1%, Memory: 26.7%, Disk: 95.4%, Network: 3153.55MB sent, 4761.8MB received
+2025-10-11 00:53:50,864 - System Event: SYSTEM_STATUS - System Status - CPU: 10.5%, Memory: 26.7%, Disk: 95.4%, Network: 3171.49MB sent, 4762.85MB received
+2025-10-11 00:54:21,889 - System Event: SYSTEM_STATUS - System Status - CPU: 8.1%, Memory: 26.7%, Disk: 95.4%, Network: 3180.4MB sent, 4763.65MB received
+2025-10-11 00:54:52,921 - System Event: SYSTEM_STATUS - System Status - CPU: 8.4%, Memory: 26.6%, Disk: 95.4%, Network: 3192.65MB sent, 4764.58MB received
+2025-10-11 00:55:23,969 - System Event: SYSTEM_STATUS - System Status - CPU: 7.0%, Memory: 26.7%, Disk: 95.4%, Network: 3204.2MB sent, 4765.51MB received
+2025-10-11 00:55:54,999 - System Event: SYSTEM_STATUS - System Status - CPU: 11.5%, Memory: 26.7%, Disk: 95.4%, Network: 3224.54MB sent, 4766.58MB received
+2025-10-11 00:56:26,030 - System Event: SYSTEM_STATUS - System Status - CPU: 9.9%, Memory: 26.6%, Disk: 95.4%, Network: 3245.44MB sent, 4767.63MB received
+2025-10-11 00:56:57,069 - System Event: SYSTEM_STATUS - System Status - CPU: 13.4%, Memory: 26.6%, Disk: 95.4%, Network: 3266.49MB sent, 4768.66MB received
+2025-10-11 00:57:28,102 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 26.6%, Disk: 95.4%, Network: 3287.45MB sent, 4769.7MB received
+2025-10-11 00:57:59,132 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 26.5%, Disk: 95.4%, Network: 3308.48MB sent, 4770.71MB received
+2025-10-11 00:58:30,156 - System Event: SYSTEM_STATUS - System Status - CPU: 12.8%, Memory: 26.7%, Disk: 95.4%, Network: 3329.22MB sent, 4771.74MB received
+2025-10-11 00:59:01,178 - System Event: SYSTEM_STATUS - System Status - CPU: 11.6%, Memory: 26.5%, Disk: 95.4%, Network: 3350.25MB sent, 4772.78MB received
+2025-10-11 00:59:32,209 - System Event: SYSTEM_STATUS - System Status - CPU: 8.5%, Memory: 26.5%, Disk: 95.4%, Network: 3371.12MB sent, 4773.82MB received
+2025-10-11 01:00:03,250 - System Event: SYSTEM_STATUS - System Status - CPU: 8.9%, Memory: 26.5%, Disk: 95.4%, Network: 3392.14MB sent, 4775.15MB received
+2025-10-11 01:00:34,269 - System Event: SYSTEM_STATUS - System Status - CPU: 8.1%, Memory: 26.5%, Disk: 95.4%, Network: 3412.95MB sent, 4776.25MB received
+2025-10-11 01:01:05,288 - System Event: SYSTEM_STATUS - System Status - CPU: 11.6%, Memory: 26.5%, Disk: 95.4%, Network: 3433.87MB sent, 4777.29MB received
+2025-10-11 01:01:36,325 - System Event: SYSTEM_STATUS - System Status - CPU: 7.4%, Memory: 26.5%, Disk: 95.4%, Network: 3452.0MB sent, 4778.29MB received
+2025-10-11 01:02:07,433 - System Event: SYSTEM_STATUS - System Status - CPU: 29.3%, Memory: 26.6%, Disk: 95.4%, Network: 3473.06MB sent, 4779.37MB received
+2025-10-11 01:02:38,470 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 26.5%, Disk: 95.4%, Network: 3494.0MB sent, 4780.44MB received
+2025-10-11 01:03:09,497 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 26.5%, Disk: 95.4%, Network: 3515.03MB sent, 4781.51MB received
+2025-10-11 01:03:40,531 - System Event: SYSTEM_STATUS - System Status - CPU: 13.3%, Memory: 26.6%, Disk: 95.4%, Network: 3535.9MB sent, 4782.53MB received
+2025-10-11 01:04:11,565 - System Event: SYSTEM_STATUS - System Status - CPU: 10.2%, Memory: 26.5%, Disk: 95.4%, Network: 3556.99MB sent, 4783.65MB received
+2025-10-11 01:04:42,599 - System Event: SYSTEM_STATUS - System Status - CPU: 8.7%, Memory: 26.5%, Disk: 95.4%, Network: 3577.07MB sent, 4784.7MB received
+2025-10-11 01:05:13,634 - System Event: SYSTEM_STATUS - System Status - CPU: 7.7%, Memory: 26.5%, Disk: 95.4%, Network: 3598.06MB sent, 4785.82MB received
+2025-10-11 01:05:44,688 - System Event: SYSTEM_STATUS - System Status - CPU: 28.4%, Memory: 26.5%, Disk: 95.4%, Network: 3618.4MB sent, 4786.82MB received
+2025-10-11 01:06:15,719 - System Event: SYSTEM_STATUS - System Status - CPU: 10.8%, Memory: 26.4%, Disk: 95.4%, Network: 3639.43MB sent, 4787.84MB received
+2025-10-11 01:06:46,749 - System Event: SYSTEM_STATUS - System Status - CPU: 9.7%, Memory: 26.4%, Disk: 95.4%, Network: 3660.18MB sent, 4789.01MB received
+2025-10-11 01:07:17,784 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 26.5%, Disk: 95.4%, Network: 3681.21MB sent, 4790.14MB received
+2025-10-11 01:07:48,802 - System Event: SYSTEM_STATUS - System Status - CPU: 10.2%, Memory: 26.4%, Disk: 95.4%, Network: 3698.86MB sent, 4791.13MB received
+2025-10-11 01:08:19,821 - System Event: SYSTEM_STATUS - System Status - CPU: 11.7%, Memory: 26.4%, Disk: 95.4%, Network: 3719.89MB sent, 4792.18MB received
+2025-10-11 01:08:50,853 - System Event: SYSTEM_STATUS - System Status - CPU: 8.7%, Memory: 26.4%, Disk: 95.4%, Network: 3740.77MB sent, 4793.24MB received
+2025-10-11 03:56:01,528 - System Event: SYSTEM_STATUS - System Status - CPU: 58.1%, Memory: 28.1%, Disk: 95.4%, Network: 3748.42MB sent, 4793.95MB received
+2025-10-11 22:50:32,632 - System Event: SYSTEM_STATUS - System Status - CPU: 23.1%, Memory: 27.2%, Disk: 95.4%, Network: 3084.9MB sent, 4426.84MB received
+2025-10-11 22:52:57,432 - System Event: SYSTEM_STATUS - System Status - CPU: 17.5%, Memory: 27.4%, Disk: 95.4%, Network: 3086.2MB sent, 4431.17MB received
+2025-10-11 22:53:28,472 - System Event: SYSTEM_STATUS - System Status - CPU: 47.5%, Memory: 25.5%, Disk: 95.3%, Network: 3087.71MB sent, 4451.34MB received
+2025-10-11 22:53:59,499 - System Event: SYSTEM_STATUS - System Status - CPU: 7.1%, Memory: 26.4%, Disk: 95.3%, Network: 3093.33MB sent, 4476.69MB received
+2025-10-11 22:54:30,545 - System Event: SYSTEM_STATUS - System Status - CPU: 31.8%, Memory: 27.8%, Disk: 95.4%, Network: 3109.15MB sent, 4545.19MB received
+2025-10-11 22:55:01,601 - System Event: SYSTEM_STATUS - System Status - CPU: 22.8%, Memory: 26.9%, Disk: 95.3%, Network: 3124.39MB sent, 4556.06MB received
+2025-10-11 22:55:32,644 - System Event: SYSTEM_STATUS - System Status - CPU: 18.8%, Memory: 27.3%, Disk: 95.3%, Network: 3134.09MB sent, 4579.27MB received
+2025-10-11 22:56:03,665 - System Event: SYSTEM_STATUS - System Status - CPU: 10.3%, Memory: 27.5%, Disk: 95.3%, Network: 3135.76MB sent, 4581.56MB received
+2025-10-11 22:56:34,691 - System Event: SYSTEM_STATUS - System Status - CPU: 99.0%, Memory: 28.2%, Disk: 95.3%, Network: 3137.33MB sent, 4582.29MB received
+2025-10-11 22:57:05,726 - System Event: SYSTEM_STATUS - System Status - CPU: 8.9%, Memory: 27.3%, Disk: 95.3%, Network: 3138.9MB sent, 4582.99MB received
+2025-10-11 22:57:36,754 - System Event: SYSTEM_STATUS - System Status - CPU: 10.8%, Memory: 27.2%, Disk: 95.3%, Network: 3140.45MB sent, 4583.63MB received
+2025-10-11 22:58:07,789 - System Event: SYSTEM_STATUS - System Status - CPU: 8.9%, Memory: 27.1%, Disk: 95.3%, Network: 3142.05MB sent, 4584.37MB received
+2025-10-11 22:58:38,805 - System Event: SYSTEM_STATUS - System Status - CPU: 6.2%, Memory: 27.0%, Disk: 95.3%, Network: 3143.64MB sent, 4585.13MB received
+2025-10-11 22:59:09,836 - System Event: SYSTEM_STATUS - System Status - CPU: 11.4%, Memory: 27.0%, Disk: 95.3%, Network: 3145.23MB sent, 4585.89MB received
+2025-10-11 22:59:40,877 - System Event: SYSTEM_STATUS - System Status - CPU: 9.4%, Memory: 27.0%, Disk: 95.3%, Network: 3146.9MB sent, 4588.93MB received
+2025-10-11 23:00:11,900 - System Event: SYSTEM_STATUS - System Status - CPU: 9.3%, Memory: 27.2%, Disk: 95.3%, Network: 3149.01MB sent, 4600.99MB received
+2025-10-11 23:00:42,923 - System Event: SYSTEM_STATUS - System Status - CPU: 8.6%, Memory: 26.9%, Disk: 95.3%, Network: 3152.16MB sent, 4610.7MB received
+2025-10-11 23:01:13,957 - System Event: SYSTEM_STATUS - System Status - CPU: 19.1%, Memory: 30.5%, Disk: 95.9%, Network: 3158.3MB sent, 4617.74MB received
+2025-10-11 23:01:44,987 - System Event: SYSTEM_STATUS - System Status - CPU: 15.0%, Memory: 27.0%, Disk: 95.6%, Network: 3163.86MB sent, 4618.63MB received
+2025-10-11 23:02:16,023 - System Event: SYSTEM_STATUS - System Status - CPU: 8.0%, Memory: 26.7%, Disk: 95.6%, Network: 3171.79MB sent, 4619.72MB received
+2025-10-11 23:02:47,045 - System Event: SYSTEM_STATUS - System Status - CPU: 11.9%, Memory: 26.6%, Disk: 95.5%, Network: 3176.82MB sent, 4620.72MB received
+2025-10-11 23:03:18,079 - System Event: SYSTEM_STATUS - System Status - CPU: 10.4%, Memory: 26.4%, Disk: 95.5%, Network: 3181.84MB sent, 4621.67MB received
+2025-10-11 23:03:49,100 - System Event: SYSTEM_STATUS - System Status - CPU: 10.0%, Memory: 26.3%, Disk: 95.5%, Network: 3188.59MB sent, 4622.85MB received
+2025-10-11 23:04:20,117 - System Event: SYSTEM_STATUS - System Status - CPU: 12.9%, Memory: 26.2%, Disk: 95.5%, Network: 3195.22MB sent, 4624.02MB received
+2025-10-11 23:04:51,140 - System Event: SYSTEM_STATUS - System Status - CPU: 7.0%, Memory: 26.2%, Disk: 95.5%, Network: 3204.5MB sent, 4625.42MB received
+2025-10-11 23:05:22,162 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 26.1%, Disk: 95.5%, Network: 3213.02MB sent, 4626.72MB received
+2025-10-11 23:05:53,187 - System Event: SYSTEM_STATUS - System Status - CPU: 8.5%, Memory: 26.1%, Disk: 95.5%, Network: 3220.19MB sent, 4629.11MB received
+2025-10-11 23:06:24,202 - System Event: SYSTEM_STATUS - System Status - CPU: 7.5%, Memory: 26.0%, Disk: 95.5%, Network: 3227.29MB sent, 4630.28MB received
+2025-10-11 23:06:55,221 - System Event: SYSTEM_STATUS - System Status - CPU: 14.3%, Memory: 26.0%, Disk: 95.5%, Network: 3236.99MB sent, 4631.41MB received
+2025-10-11 23:07:26,257 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 26.0%, Disk: 95.5%, Network: 3250.99MB sent, 4632.83MB received
+2025-10-11 23:07:57,283 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 26.1%, Disk: 95.5%, Network: 3264.92MB sent, 4635.86MB received
+2025-10-11 23:08:28,305 - System Event: SYSTEM_STATUS - System Status - CPU: 9.0%, Memory: 26.0%, Disk: 95.5%, Network: 3265.22MB sent, 4637.26MB received
+2025-10-11 23:08:59,341 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 26.1%, Disk: 95.5%, Network: 3265.65MB sent, 4646.43MB received
+2025-10-11 23:09:30,363 - System Event: SYSTEM_STATUS - System Status - CPU: 10.5%, Memory: 26.1%, Disk: 95.5%, Network: 3266.08MB sent, 4655.26MB received
+2025-10-11 23:10:01,401 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 26.0%, Disk: 95.5%, Network: 3266.53MB sent, 4675.24MB received
+2025-10-11 23:10:32,432 - System Event: SYSTEM_STATUS - System Status - CPU: 5.8%, Memory: 26.0%, Disk: 95.5%, Network: 3266.97MB sent, 4689.91MB received
+2025-10-11 23:11:03,454 - System Event: SYSTEM_STATUS - System Status - CPU: 8.8%, Memory: 27.6%, Disk: 95.5%, Network: 3267.41MB sent, 4704.4MB received
+2025-10-11 23:11:34,476 - System Event: SYSTEM_STATUS - System Status - CPU: 8.5%, Memory: 27.6%, Disk: 95.5%, Network: 3267.9MB sent, 4723.14MB received
+2025-10-11 23:12:05,497 - System Event: SYSTEM_STATUS - System Status - CPU: 11.5%, Memory: 27.5%, Disk: 95.5%, Network: 3268.42MB sent, 4744.0MB received
+2025-10-11 23:12:36,521 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 27.5%, Disk: 95.5%, Network: 3268.9MB sent, 4763.07MB received
+2025-10-11 23:13:07,549 - System Event: SYSTEM_STATUS - System Status - CPU: 8.5%, Memory: 27.6%, Disk: 95.5%, Network: 3269.42MB sent, 4783.57MB received
+2025-10-11 23:13:38,574 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 27.5%, Disk: 95.5%, Network: 3269.88MB sent, 4799.51MB received
+2025-10-11 23:14:09,594 - System Event: SYSTEM_STATUS - System Status - CPU: 10.5%, Memory: 27.5%, Disk: 95.5%, Network: 3270.28MB sent, 4813.47MB received
+2025-10-11 23:14:40,612 - System Event: SYSTEM_STATUS - System Status - CPU: 9.5%, Memory: 27.5%, Disk: 95.5%, Network: 3270.82MB sent, 4828.15MB received
+2025-10-11 23:15:11,636 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 27.5%, Disk: 95.5%, Network: 3271.27MB sent, 4845.01MB received
+2025-10-11 23:15:42,668 - System Event: SYSTEM_STATUS - System Status - CPU: 7.4%, Memory: 27.5%, Disk: 95.5%, Network: 3271.69MB sent, 4858.48MB received
+2025-10-11 23:16:13,688 - System Event: SYSTEM_STATUS - System Status - CPU: 10.4%, Memory: 27.5%, Disk: 95.5%, Network: 3272.16MB sent, 4879.1MB received
+2025-10-11 23:16:44,706 - System Event: SYSTEM_STATUS - System Status - CPU: 12.0%, Memory: 27.5%, Disk: 95.5%, Network: 3282.4MB sent, 4891.35MB received
+2025-10-11 23:17:15,730 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 27.5%, Disk: 95.5%, Network: 3293.86MB sent, 4900.38MB received
+2025-10-11 23:17:46,754 - System Event: SYSTEM_STATUS - System Status - CPU: 18.2%, Memory: 27.5%, Disk: 95.5%, Network: 3305.26MB sent, 4907.35MB received
+2025-10-11 23:18:17,783 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 27.4%, Disk: 95.5%, Network: 3325.65MB sent, 4907.98MB received
+2025-10-11 23:18:48,801 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 27.3%, Disk: 95.5%, Network: 3346.7MB sent, 4908.63MB received
+2025-10-11 23:19:19,824 - System Event: SYSTEM_STATUS - System Status - CPU: 13.8%, Memory: 27.3%, Disk: 95.5%, Network: 3367.94MB sent, 4909.29MB received
+2025-10-11 23:19:50,860 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 27.3%, Disk: 95.5%, Network: 3389.09MB sent, 4909.94MB received
+2025-10-11 23:20:21,893 - System Event: SYSTEM_STATUS - System Status - CPU: 9.9%, Memory: 27.4%, Disk: 95.5%, Network: 3410.08MB sent, 4910.6MB received
+2025-10-11 23:20:52,929 - System Event: SYSTEM_STATUS - System Status - CPU: 5.7%, Memory: 27.3%, Disk: 95.5%, Network: 3431.22MB sent, 4911.3MB received
+2025-10-11 23:21:23,959 - System Event: SYSTEM_STATUS - System Status - CPU: 11.7%, Memory: 27.3%, Disk: 95.5%, Network: 3452.21MB sent, 4911.93MB received
+2025-10-11 23:21:54,984 - System Event: SYSTEM_STATUS - System Status - CPU: 13.2%, Memory: 27.3%, Disk: 95.5%, Network: 3473.37MB sent, 4912.58MB received
+2025-10-11 23:22:26,017 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 27.4%, Disk: 95.5%, Network: 3494.31MB sent, 4913.22MB received
+2025-10-11 23:22:57,044 - System Event: SYSTEM_STATUS - System Status - CPU: 6.1%, Memory: 27.5%, Disk: 95.5%, Network: 3515.35MB sent, 4913.89MB received
+2025-10-11 23:23:28,077 - System Event: SYSTEM_STATUS - System Status - CPU: 8.4%, Memory: 27.5%, Disk: 95.5%, Network: 3536.35MB sent, 4914.54MB received
+2025-10-11 23:23:59,113 - System Event: SYSTEM_STATUS - System Status - CPU: 7.4%, Memory: 27.4%, Disk: 95.5%, Network: 3557.38MB sent, 4915.23MB received
+2025-10-11 23:24:30,136 - System Event: SYSTEM_STATUS - System Status - CPU: 16.8%, Memory: 27.4%, Disk: 95.5%, Network: 3578.52MB sent, 4915.96MB received
+2025-10-11 23:25:01,155 - System Event: SYSTEM_STATUS - System Status - CPU: 7.0%, Memory: 27.5%, Disk: 95.5%, Network: 3599.54MB sent, 4916.64MB received
+2025-10-11 23:25:32,181 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 27.4%, Disk: 95.5%, Network: 3620.55MB sent, 4917.29MB received
+2025-10-11 23:26:03,204 - System Event: SYSTEM_STATUS - System Status - CPU: 7.6%, Memory: 27.4%, Disk: 95.5%, Network: 3641.7MB sent, 4917.97MB received
+2025-10-11 23:26:34,232 - System Event: SYSTEM_STATUS - System Status - CPU: 12.2%, Memory: 27.4%, Disk: 95.5%, Network: 3662.77MB sent, 4918.59MB received
+2025-10-11 23:27:05,260 - System Event: SYSTEM_STATUS - System Status - CPU: 12.8%, Memory: 27.4%, Disk: 95.5%, Network: 3683.89MB sent, 4919.22MB received
+2025-10-11 23:27:36,283 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 27.4%, Disk: 95.5%, Network: 3705.07MB sent, 4919.84MB received
+2025-10-11 23:28:07,307 - System Event: SYSTEM_STATUS - System Status - CPU: 7.0%, Memory: 27.4%, Disk: 95.5%, Network: 3726.25MB sent, 4920.48MB received
+2025-10-11 23:28:38,337 - System Event: SYSTEM_STATUS - System Status - CPU: 10.1%, Memory: 27.4%, Disk: 95.5%, Network: 3747.1MB sent, 4921.12MB received
+2025-10-11 23:29:09,366 - System Event: SYSTEM_STATUS - System Status - CPU: 8.0%, Memory: 27.4%, Disk: 95.5%, Network: 3768.27MB sent, 4921.76MB received
+2025-10-11 23:29:40,387 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 27.4%, Disk: 95.5%, Network: 3789.44MB sent, 4922.48MB received
+2025-10-11 23:30:11,423 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 27.4%, Disk: 95.5%, Network: 3806.63MB sent, 4929.49MB received
+2025-10-11 23:30:42,446 - System Event: SYSTEM_STATUS - System Status - CPU: 13.8%, Memory: 27.4%, Disk: 95.5%, Network: 3826.53MB sent, 4940.1MB received
+2025-10-11 23:31:13,471 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 27.5%, Disk: 95.5%, Network: 3846.14MB sent, 4950.89MB received
+2025-10-11 23:31:44,490 - System Event: SYSTEM_STATUS - System Status - CPU: 7.4%, Memory: 27.5%, Disk: 95.5%, Network: 3866.76MB sent, 4961.05MB received
+2025-10-11 23:32:15,507 - System Event: SYSTEM_STATUS - System Status - CPU: 11.0%, Memory: 27.4%, Disk: 95.5%, Network: 3888.43MB sent, 4971.84MB received
+2025-10-11 23:32:46,531 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 27.4%, Disk: 95.5%, Network: 3908.63MB sent, 4982.22MB received
+2025-10-11 23:33:17,553 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 27.4%, Disk: 95.5%, Network: 3920.75MB sent, 4992.8MB received
+2025-10-11 23:33:48,579 - System Event: SYSTEM_STATUS - System Status - CPU: 4.7%, Memory: 27.4%, Disk: 95.5%, Network: 3937.92MB sent, 5003.27MB received
+2025-10-11 23:34:19,599 - System Event: SYSTEM_STATUS - System Status - CPU: 11.5%, Memory: 27.4%, Disk: 95.5%, Network: 3955.47MB sent, 5014.0MB received
+2025-10-11 23:34:50,620 - System Event: SYSTEM_STATUS - System Status - CPU: 10.5%, Memory: 27.5%, Disk: 95.5%, Network: 3970.15MB sent, 5024.45MB received
+2025-10-11 23:35:21,645 - System Event: SYSTEM_STATUS - System Status - CPU: 9.7%, Memory: 27.5%, Disk: 95.5%, Network: 3989.57MB sent, 5035.26MB received
+2025-10-11 23:35:52,683 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 27.5%, Disk: 95.5%, Network: 4006.35MB sent, 5044.78MB received
+2025-10-11 23:36:23,709 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 27.4%, Disk: 95.5%, Network: 4025.87MB sent, 5055.39MB received
+2025-10-11 23:36:54,728 - System Event: SYSTEM_STATUS - System Status - CPU: 10.1%, Memory: 27.5%, Disk: 95.5%, Network: 4046.39MB sent, 5065.64MB received
+2025-10-11 23:37:25,759 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 27.5%, Disk: 95.5%, Network: 4067.35MB sent, 5076.43MB received
+2025-10-11 23:37:56,782 - System Event: SYSTEM_STATUS - System Status - CPU: 8.8%, Memory: 27.5%, Disk: 95.5%, Network: 4086.3MB sent, 5086.94MB received
+2025-10-11 23:38:27,805 - System Event: SYSTEM_STATUS - System Status - CPU: 5.6%, Memory: 27.4%, Disk: 95.5%, Network: 4106.0MB sent, 5097.7MB received
+2025-10-11 23:38:58,828 - System Event: SYSTEM_STATUS - System Status - CPU: 10.9%, Memory: 27.5%, Disk: 95.5%, Network: 4127.0MB sent, 5108.41MB received
+2025-10-11 23:39:29,853 - System Event: SYSTEM_STATUS - System Status - CPU: 11.4%, Memory: 27.6%, Disk: 95.5%, Network: 4148.41MB sent, 5119.21MB received
+2025-10-11 23:40:00,881 - System Event: SYSTEM_STATUS - System Status - CPU: 10.1%, Memory: 27.6%, Disk: 95.5%, Network: 4164.4MB sent, 5129.27MB received
+2025-10-11 23:40:31,903 - System Event: SYSTEM_STATUS - System Status - CPU: 8.1%, Memory: 27.5%, Disk: 95.5%, Network: 4183.39MB sent, 5140.01MB received
+2025-10-11 23:41:02,924 - System Event: SYSTEM_STATUS - System Status - CPU: 9.5%, Memory: 27.5%, Disk: 95.5%, Network: 4202.77MB sent, 5150.4MB received
+2025-10-11 23:41:33,945 - System Event: SYSTEM_STATUS - System Status - CPU: 6.1%, Memory: 27.5%, Disk: 95.5%, Network: 4219.65MB sent, 5161.03MB received
+2025-10-11 23:42:04,961 - System Event: SYSTEM_STATUS - System Status - CPU: 13.9%, Memory: 27.5%, Disk: 95.5%, Network: 4223.44MB sent, 5170.64MB received
+2025-10-11 23:42:35,983 - System Event: SYSTEM_STATUS - System Status - CPU: 5.7%, Memory: 27.5%, Disk: 95.5%, Network: 4236.98MB sent, 5181.28MB received
+2025-10-11 23:43:07,020 - System Event: SYSTEM_STATUS - System Status - CPU: 13.1%, Memory: 27.0%, Disk: 95.5%, Network: 4252.03MB sent, 5192.17MB received
+2025-10-11 23:43:38,041 - System Event: SYSTEM_STATUS - System Status - CPU: 9.4%, Memory: 27.2%, Disk: 95.5%, Network: 4270.31MB sent, 5204.5MB received
+2025-10-11 23:44:09,062 - System Event: SYSTEM_STATUS - System Status - CPU: 5.1%, Memory: 27.0%, Disk: 95.5%, Network: 4282.74MB sent, 5205.03MB received
+2025-10-11 23:44:40,079 - System Event: SYSTEM_STATUS - System Status - CPU: 16.0%, Memory: 27.4%, Disk: 95.5%, Network: 4292.79MB sent, 5207.81MB received
+2025-10-11 23:45:11,105 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 26.7%, Disk: 95.5%, Network: 4302.71MB sent, 5209.7MB received
+2025-10-11 23:45:42,145 - System Event: SYSTEM_STATUS - System Status - CPU: 20.7%, Memory: 28.5%, Disk: 95.5%, Network: 4309.08MB sent, 5239.35MB received
+2025-10-11 23:46:13,163 - System Event: SYSTEM_STATUS - System Status - CPU: 19.5%, Memory: 28.1%, Disk: 95.6%, Network: 4317.48MB sent, 5367.35MB received
+2025-10-11 23:46:44,189 - System Event: SYSTEM_STATUS - System Status - CPU: 22.1%, Memory: 30.4%, Disk: 95.5%, Network: 4330.62MB sent, 5393.23MB received
+2025-10-11 23:47:15,206 - System Event: SYSTEM_STATUS - System Status - CPU: 12.1%, Memory: 30.4%, Disk: 95.5%, Network: 4344.11MB sent, 5402.61MB received
+2025-10-11 23:47:46,229 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 30.0%, Disk: 95.5%, Network: 4362.44MB sent, 5408.67MB received
+2025-10-11 23:48:17,257 - System Event: SYSTEM_STATUS - System Status - CPU: 5.6%, Memory: 29.8%, Disk: 95.5%, Network: 4375.13MB sent, 5418.95MB received
+2025-10-11 23:48:48,289 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 29.6%, Disk: 95.5%, Network: 4394.68MB sent, 5429.75MB received
+2025-10-11 23:49:19,306 - System Event: SYSTEM_STATUS - System Status - CPU: 5.8%, Memory: 29.7%, Disk: 95.5%, Network: 4414.4MB sent, 5441.86MB received
+2025-10-11 23:49:50,326 - System Event: SYSTEM_STATUS - System Status - CPU: 8.6%, Memory: 29.6%, Disk: 95.5%, Network: 4436.21MB sent, 5463.38MB received
+2025-10-11 23:50:21,353 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 29.5%, Disk: 95.5%, Network: 4453.13MB sent, 5480.87MB received
+2025-10-11 23:50:52,374 - System Event: SYSTEM_STATUS - System Status - CPU: 11.4%, Memory: 30.3%, Disk: 95.5%, Network: 4476.63MB sent, 5718.81MB received
+2025-10-11 23:51:23,399 - System Event: SYSTEM_STATUS - System Status - CPU: 15.1%, Memory: 30.8%, Disk: 95.5%, Network: 4492.14MB sent, 5946.51MB received
+2025-10-11 23:51:54,416 - System Event: SYSTEM_STATUS - System Status - CPU: 15.8%, Memory: 31.9%, Disk: 95.5%, Network: 4513.06MB sent, 6211.22MB received
+2025-10-11 23:52:25,433 - System Event: SYSTEM_STATUS - System Status - CPU: 15.5%, Memory: 32.1%, Disk: 95.5%, Network: 4532.27MB sent, 6447.36MB received
+2025-10-11 23:52:56,461 - System Event: SYSTEM_STATUS - System Status - CPU: 12.0%, Memory: 32.5%, Disk: 95.5%, Network: 4555.03MB sent, 6724.87MB received
+2025-10-11 23:53:27,503 - System Event: SYSTEM_STATUS - System Status - CPU: 11.3%, Memory: 34.2%, Disk: 95.5%, Network: 4573.64MB sent, 7012.95MB received
+2025-10-11 23:53:58,530 - System Event: SYSTEM_STATUS - System Status - CPU: 10.7%, Memory: 34.6%, Disk: 95.5%, Network: 4588.57MB sent, 7265.23MB received
+2025-10-11 23:54:29,551 - System Event: SYSTEM_STATUS - System Status - CPU: 13.3%, Memory: 34.5%, Disk: 95.5%, Network: 4605.34MB sent, 7533.92MB received
+2025-10-11 23:55:00,571 - System Event: SYSTEM_STATUS - System Status - CPU: 24.2%, Memory: 35.3%, Disk: 95.5%, Network: 4620.65MB sent, 7797.02MB received
+2025-10-11 23:55:31,598 - System Event: SYSTEM_STATUS - System Status - CPU: 14.6%, Memory: 35.3%, Disk: 95.5%, Network: 4634.44MB sent, 8065.69MB received
+2025-10-11 23:56:02,620 - System Event: SYSTEM_STATUS - System Status - CPU: 20.6%, Memory: 38.6%, Disk: 96.1%, Network: 4639.33MB sent, 8158.11MB received
+2025-10-11 23:56:33,656 - System Event: SYSTEM_STATUS - System Status - CPU: 10.1%, Memory: 38.9%, Disk: 96.1%, Network: 4642.72MB sent, 8172.77MB received
+2025-10-11 23:57:04,677 - System Event: SYSTEM_STATUS - System Status - CPU: 11.4%, Memory: 39.1%, Disk: 96.1%, Network: 4651.51MB sent, 8193.64MB received
+2025-10-11 23:57:35,701 - System Event: SYSTEM_STATUS - System Status - CPU: 10.1%, Memory: 33.9%, Disk: 96.1%, Network: 4655.74MB sent, 8212.02MB received
+2025-10-11 23:58:06,728 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 33.9%, Disk: 96.1%, Network: 4669.06MB sent, 8232.63MB received
+2025-10-11 23:58:37,751 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 33.8%, Disk: 96.1%, Network: 4680.21MB sent, 8252.4MB received
+2025-10-11 23:59:08,768 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 29.8%, Disk: 96.1%, Network: 4688.01MB sent, 8272.7MB received
+2025-10-11 23:59:39,785 - System Event: SYSTEM_STATUS - System Status - CPU: 9.5%, Memory: 29.7%, Disk: 96.1%, Network: 4692.65MB sent, 8284.83MB received
+2025-10-12 00:00:10,809 - System Event: SYSTEM_STATUS - System Status - CPU: 5.3%, Memory: 29.6%, Disk: 96.1%, Network: 4705.9MB sent, 8305.39MB received
+2025-10-12 00:00:41,832 - System Event: SYSTEM_STATUS - System Status - CPU: 6.2%, Memory: 29.8%, Disk: 96.1%, Network: 4709.99MB sent, 8324.17MB received
+2025-10-12 00:01:12,867 - System Event: SYSTEM_STATUS - System Status - CPU: 8.3%, Memory: 29.8%, Disk: 96.1%, Network: 4716.17MB sent, 8344.23MB received
+2025-10-12 00:01:43,891 - System Event: SYSTEM_STATUS - System Status - CPU: 19.4%, Memory: 30.3%, Disk: 96.1%, Network: 4730.87MB sent, 8364.81MB received
+2025-10-12 00:02:14,910 - System Event: SYSTEM_STATUS - System Status - CPU: 11.3%, Memory: 29.6%, Disk: 96.1%, Network: 4746.68MB sent, 8384.81MB received
+2025-10-12 00:02:45,930 - System Event: SYSTEM_STATUS - System Status - CPU: 7.4%, Memory: 29.2%, Disk: 96.1%, Network: 4764.93MB sent, 8399.86MB received
+2025-10-12 00:03:16,954 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 29.4%, Disk: 96.1%, Network: 4778.83MB sent, 8419.41MB received
+2025-10-12 00:03:47,977 - System Event: SYSTEM_STATUS - System Status - CPU: 9.5%, Memory: 29.2%, Disk: 96.1%, Network: 4791.68MB sent, 8439.34MB received
+2025-10-12 00:04:18,997 - System Event: SYSTEM_STATUS - System Status - CPU: 12.0%, Memory: 29.3%, Disk: 96.1%, Network: 4807.08MB sent, 8458.92MB received
+2025-10-12 00:04:50,015 - System Event: SYSTEM_STATUS - System Status - CPU: 9.6%, Memory: 29.1%, Disk: 96.1%, Network: 4815.22MB sent, 8470.38MB received
+2025-10-12 00:05:21,047 - System Event: SYSTEM_STATUS - System Status - CPU: 10.7%, Memory: 29.3%, Disk: 96.1%, Network: 4817.43MB sent, 8483.48MB received
+2025-10-12 00:05:52,071 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 29.2%, Disk: 96.1%, Network: 4819.13MB sent, 8489.27MB received
+2025-10-12 00:06:23,118 - System Event: SYSTEM_STATUS - System Status - CPU: 8.5%, Memory: 29.1%, Disk: 96.1%, Network: 4821.18MB sent, 8492.25MB received
+2025-10-12 00:06:54,137 - System Event: SYSTEM_STATUS - System Status - CPU: 8.1%, Memory: 29.2%, Disk: 96.1%, Network: 4823.48MB sent, 8507.59MB received
+2025-10-12 00:07:25,166 - System Event: SYSTEM_STATUS - System Status - CPU: 10.4%, Memory: 29.1%, Disk: 96.1%, Network: 4825.98MB sent, 8517.28MB received
+2025-10-12 00:07:56,193 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 29.1%, Disk: 96.1%, Network: 4831.5MB sent, 8534.39MB received
+2025-10-12 00:08:27,216 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 29.1%, Disk: 96.1%, Network: 4835.69MB sent, 8553.86MB received
+2025-10-12 00:08:58,240 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 29.1%, Disk: 96.1%, Network: 4838.64MB sent, 8574.72MB received
+2025-10-12 00:09:29,261 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 29.1%, Disk: 96.1%, Network: 4842.38MB sent, 8589.56MB received
+2025-10-12 00:10:00,278 - System Event: SYSTEM_STATUS - System Status - CPU: 11.5%, Memory: 29.0%, Disk: 96.1%, Network: 4844.39MB sent, 8598.59MB received
+2025-10-12 00:10:31,302 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 29.0%, Disk: 96.1%, Network: 4848.06MB sent, 8618.06MB received
+2025-10-12 00:11:02,332 - System Event: SYSTEM_STATUS - System Status - CPU: 7.5%, Memory: 29.1%, Disk: 96.1%, Network: 4852.15MB sent, 8632.26MB received
+2025-10-12 00:11:33,355 - System Event: SYSTEM_STATUS - System Status - CPU: 7.4%, Memory: 29.0%, Disk: 96.1%, Network: 4857.34MB sent, 8650.74MB received
+2025-10-12 00:12:04,372 - System Event: SYSTEM_STATUS - System Status - CPU: 8.7%, Memory: 29.0%, Disk: 96.1%, Network: 4861.32MB sent, 8671.23MB received
+2025-10-12 00:12:35,391 - System Event: SYSTEM_STATUS - System Status - CPU: 11.9%, Memory: 29.0%, Disk: 96.1%, Network: 4863.29MB sent, 8689.59MB received
+2025-10-12 00:13:06,417 - System Event: SYSTEM_STATUS - System Status - CPU: 14.4%, Memory: 29.0%, Disk: 96.1%, Network: 4865.17MB sent, 8710.3MB received
+2025-10-12 00:13:37,440 - System Event: SYSTEM_STATUS - System Status - CPU: 7.6%, Memory: 29.0%, Disk: 96.1%, Network: 4866.8MB sent, 8721.51MB received
+2025-10-12 00:14:08,470 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 29.0%, Disk: 96.1%, Network: 4869.8MB sent, 8733.42MB received
+2025-10-12 00:14:39,488 - System Event: SYSTEM_STATUS - System Status - CPU: 11.3%, Memory: 29.1%, Disk: 96.1%, Network: 4871.93MB sent, 8747.51MB received
+2025-10-12 00:15:10,513 - System Event: SYSTEM_STATUS - System Status - CPU: 10.1%, Memory: 29.2%, Disk: 96.1%, Network: 4874.04MB sent, 8756.78MB received
+2025-10-12 00:15:41,538 - System Event: SYSTEM_STATUS - System Status - CPU: 8.8%, Memory: 29.2%, Disk: 96.1%, Network: 4875.79MB sent, 8767.9MB received
+2025-10-12 00:16:12,563 - System Event: SYSTEM_STATUS - System Status - CPU: 9.1%, Memory: 29.1%, Disk: 96.1%, Network: 4877.87MB sent, 8769.47MB received
+2025-10-12 00:16:43,598 - System Event: SYSTEM_STATUS - System Status - CPU: 12.0%, Memory: 29.1%, Disk: 96.1%, Network: 4881.13MB sent, 8778.6MB received
+2025-10-12 00:17:14,617 - System Event: SYSTEM_STATUS - System Status - CPU: 8.7%, Memory: 29.3%, Disk: 96.1%, Network: 4884.01MB sent, 8791.67MB received
+2025-10-12 00:17:45,632 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 29.1%, Disk: 96.1%, Network: 4887.65MB sent, 8803.23MB received
+2025-10-12 00:18:16,655 - System Event: SYSTEM_STATUS - System Status - CPU: 6.2%, Memory: 29.1%, Disk: 96.1%, Network: 4897.44MB sent, 8807.04MB received
+2025-10-12 00:18:47,681 - System Event: SYSTEM_STATUS - System Status - CPU: 11.2%, Memory: 29.1%, Disk: 96.1%, Network: 4905.54MB sent, 8815.89MB received
+2025-10-12 00:19:18,702 - System Event: SYSTEM_STATUS - System Status - CPU: 7.6%, Memory: 29.1%, Disk: 96.1%, Network: 4910.29MB sent, 8825.54MB received
+2025-10-12 00:19:49,720 - System Event: SYSTEM_STATUS - System Status - CPU: 18.7%, Memory: 29.1%, Disk: 96.1%, Network: 4913.72MB sent, 8840.39MB received
+2025-10-12 00:20:20,741 - System Event: SYSTEM_STATUS - System Status - CPU: 9.3%, Memory: 29.1%, Disk: 96.1%, Network: 4916.55MB sent, 8849.66MB received
+2025-10-12 00:20:51,769 - System Event: SYSTEM_STATUS - System Status - CPU: 7.7%, Memory: 29.1%, Disk: 96.1%, Network: 4920.24MB sent, 8863.11MB received
+2025-10-12 00:21:22,793 - System Event: SYSTEM_STATUS - System Status - CPU: 10.1%, Memory: 29.1%, Disk: 96.1%, Network: 4924.22MB sent, 8881.58MB received
+2025-10-12 00:21:53,811 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 29.1%, Disk: 96.1%, Network: 4926.52MB sent, 8892.11MB received
+2025-10-12 00:22:24,827 - System Event: SYSTEM_STATUS - System Status - CPU: 11.5%, Memory: 29.1%, Disk: 96.1%, Network: 4929.22MB sent, 8905.73MB received
+2025-10-12 00:22:55,847 - System Event: SYSTEM_STATUS - System Status - CPU: 5.7%, Memory: 29.1%, Disk: 96.1%, Network: 4931.58MB sent, 8921.58MB received
+2025-10-12 00:23:26,882 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 29.1%, Disk: 96.1%, Network: 4935.93MB sent, 8938.22MB received
+2025-10-12 00:23:57,903 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 29.1%, Disk: 96.1%, Network: 4939.03MB sent, 8942.32MB received
+2025-10-12 00:24:28,923 - System Event: SYSTEM_STATUS - System Status - CPU: 5.4%, Memory: 29.1%, Disk: 96.1%, Network: 4940.68MB sent, 8956.34MB received
+2025-10-12 00:24:59,939 - System Event: SYSTEM_STATUS - System Status - CPU: 9.8%, Memory: 29.1%, Disk: 96.1%, Network: 4942.37MB sent, 8965.88MB received
+2025-10-12 00:25:30,961 - System Event: SYSTEM_STATUS - System Status - CPU: 8.1%, Memory: 29.1%, Disk: 96.1%, Network: 4944.19MB sent, 8979.95MB received
+2025-10-12 00:26:01,986 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 29.0%, Disk: 96.1%, Network: 4946.01MB sent, 8993.48MB received
+2025-10-12 00:26:33,021 - System Event: SYSTEM_STATUS - System Status - CPU: 4.1%, Memory: 29.0%, Disk: 96.1%, Network: 4948.28MB sent, 9013.27MB received
+2025-10-12 00:27:04,041 - System Event: SYSTEM_STATUS - System Status - CPU: 5.4%, Memory: 29.1%, Disk: 96.1%, Network: 4950.26MB sent, 9027.48MB received
+2025-10-12 00:27:35,061 - System Event: SYSTEM_STATUS - System Status - CPU: 12.2%, Memory: 29.1%, Disk: 96.1%, Network: 4953.86MB sent, 9047.34MB received
+2025-10-12 00:28:06,087 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 29.0%, Disk: 96.1%, Network: 4955.63MB sent, 9061.82MB received
+2025-10-12 00:28:37,113 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 29.0%, Disk: 96.1%, Network: 4957.87MB sent, 9080.97MB received
+2025-10-12 00:29:08,142 - System Event: SYSTEM_STATUS - System Status - CPU: 8.0%, Memory: 29.1%, Disk: 96.1%, Network: 4959.79MB sent, 9092.04MB received
+2025-10-12 00:29:39,160 - System Event: SYSTEM_STATUS - System Status - CPU: 14.3%, Memory: 29.1%, Disk: 96.1%, Network: 4961.52MB sent, 9101.91MB received
+2025-10-12 00:30:10,182 - System Event: SYSTEM_STATUS - System Status - CPU: 9.5%, Memory: 29.1%, Disk: 96.1%, Network: 4963.14MB sent, 9110.58MB received
+2025-10-12 00:30:41,202 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 29.1%, Disk: 96.1%, Network: 4964.88MB sent, 9129.53MB received
+2025-10-12 00:31:12,240 - System Event: SYSTEM_STATUS - System Status - CPU: 5.4%, Memory: 29.3%, Disk: 96.1%, Network: 4967.27MB sent, 9149.74MB received
+2025-10-12 00:31:43,271 - System Event: SYSTEM_STATUS - System Status - CPU: 8.6%, Memory: 29.3%, Disk: 96.1%, Network: 4974.25MB sent, 9158.13MB received
+2025-10-12 00:32:14,291 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 29.1%, Disk: 96.1%, Network: 4980.16MB sent, 9167.73MB received
+2025-10-12 00:32:45,307 - System Event: SYSTEM_STATUS - System Status - CPU: 11.6%, Memory: 29.1%, Disk: 96.1%, Network: 4985.28MB sent, 9182.04MB received
+2025-10-12 00:33:16,345 - System Event: SYSTEM_STATUS - System Status - CPU: 7.1%, Memory: 29.1%, Disk: 96.1%, Network: 4988.54MB sent, 9187.95MB received
+2025-10-12 00:33:47,372 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 29.1%, Disk: 96.1%, Network: 4990.44MB sent, 9200.38MB received
+2025-10-12 00:34:18,396 - System Event: SYSTEM_STATUS - System Status - CPU: 8.0%, Memory: 29.1%, Disk: 96.1%, Network: 4992.18MB sent, 9215.8MB received
+2025-10-12 00:34:49,411 - System Event: SYSTEM_STATUS - System Status - CPU: 9.7%, Memory: 29.1%, Disk: 96.1%, Network: 4993.9MB sent, 9235.62MB received
+2025-10-12 00:35:20,448 - System Event: SYSTEM_STATUS - System Status - CPU: 8.0%, Memory: 29.2%, Disk: 96.1%, Network: 4995.66MB sent, 9252.32MB received
+2025-10-12 00:35:51,486 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 29.2%, Disk: 96.1%, Network: 4997.39MB sent, 9267.19MB received
+2025-10-12 00:36:22,511 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 29.1%, Disk: 96.1%, Network: 4999.12MB sent, 9286.46MB received
+2025-10-12 00:36:53,539 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 29.1%, Disk: 96.1%, Network: 5000.9MB sent, 9305.28MB received
+2025-10-12 00:37:24,583 - System Event: SYSTEM_STATUS - System Status - CPU: 8.3%, Memory: 29.2%, Disk: 96.1%, Network: 5002.63MB sent, 9316.61MB received
+2025-10-12 00:37:55,609 - System Event: SYSTEM_STATUS - System Status - CPU: 7.6%, Memory: 29.1%, Disk: 96.1%, Network: 5005.12MB sent, 9330.61MB received
+2025-10-12 00:38:26,639 - System Event: SYSTEM_STATUS - System Status - CPU: 7.6%, Memory: 29.1%, Disk: 96.1%, Network: 5011.07MB sent, 9346.08MB received
+2025-10-12 00:38:57,667 - System Event: SYSTEM_STATUS - System Status - CPU: 11.3%, Memory: 29.4%, Disk: 96.1%, Network: 5020.39MB sent, 9366.24MB received
+2025-10-12 00:39:28,704 - System Event: SYSTEM_STATUS - System Status - CPU: 5.1%, Memory: 29.2%, Disk: 96.1%, Network: 5024.44MB sent, 9376.71MB received
+2025-10-12 00:39:59,723 - System Event: SYSTEM_STATUS - System Status - CPU: 10.2%, Memory: 29.3%, Disk: 96.1%, Network: 5029.2MB sent, 9397.14MB received
+2025-10-12 00:40:30,752 - System Event: SYSTEM_STATUS - System Status - CPU: 8.4%, Memory: 29.2%, Disk: 96.1%, Network: 5030.9MB sent, 9416.94MB received
+2025-10-12 00:41:01,783 - System Event: SYSTEM_STATUS - System Status - CPU: 7.5%, Memory: 29.2%, Disk: 96.1%, Network: 5033.24MB sent, 9424.89MB received
+2025-10-12 00:41:32,809 - System Event: SYSTEM_STATUS - System Status - CPU: 8.4%, Memory: 29.1%, Disk: 96.1%, Network: 5036.02MB sent, 9437.39MB received
+2025-10-12 00:42:03,829 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 29.2%, Disk: 96.1%, Network: 5037.88MB sent, 9456.09MB received
+2025-10-12 00:42:34,861 - System Event: SYSTEM_STATUS - System Status - CPU: 14.4%, Memory: 29.1%, Disk: 96.1%, Network: 5040.44MB sent, 9474.17MB received
+2025-10-12 00:43:05,881 - System Event: SYSTEM_STATUS - System Status - CPU: 8.3%, Memory: 29.2%, Disk: 96.1%, Network: 5043.16MB sent, 9492.95MB received
+2025-10-12 00:43:36,914 - System Event: SYSTEM_STATUS - System Status - CPU: 5.8%, Memory: 29.1%, Disk: 96.1%, Network: 5047.25MB sent, 9494.59MB received
+2025-10-12 00:44:07,934 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 29.1%, Disk: 96.1%, Network: 5053.5MB sent, 9501.5MB received
+2025-10-12 00:44:38,966 - System Event: SYSTEM_STATUS - System Status - CPU: 6.5%, Memory: 29.1%, Disk: 96.1%, Network: 5056.85MB sent, 9521.12MB received
+2025-10-12 00:45:09,989 - System Event: SYSTEM_STATUS - System Status - CPU: 11.6%, Memory: 29.3%, Disk: 96.1%, Network: 5061.62MB sent, 9537.47MB received
+2025-10-12 00:45:41,017 - System Event: SYSTEM_STATUS - System Status - CPU: 12.0%, Memory: 29.2%, Disk: 96.1%, Network: 5065.81MB sent, 9546.18MB received
+2025-10-12 00:46:12,036 - System Event: SYSTEM_STATUS - System Status - CPU: 7.0%, Memory: 29.1%, Disk: 96.1%, Network: 5068.47MB sent, 9554.08MB received
+2025-10-12 00:46:43,065 - System Event: SYSTEM_STATUS - System Status - CPU: 6.5%, Memory: 29.1%, Disk: 96.1%, Network: 5074.22MB sent, 9559.93MB received
+2025-10-12 00:47:14,084 - System Event: SYSTEM_STATUS - System Status - CPU: 7.6%, Memory: 29.4%, Disk: 96.1%, Network: 5078.59MB sent, 9577.76MB received
+2025-10-12 00:47:45,109 - System Event: SYSTEM_STATUS - System Status - CPU: 14.1%, Memory: 29.1%, Disk: 96.1%, Network: 5080.45MB sent, 9588.44MB received
+2025-10-12 00:48:16,153 - System Event: SYSTEM_STATUS - System Status - CPU: 5.5%, Memory: 29.3%, Disk: 96.1%, Network: 5082.08MB sent, 9594.27MB received
+2025-10-12 00:48:47,199 - System Event: SYSTEM_STATUS - System Status - CPU: 19.3%, Memory: 29.1%, Disk: 96.1%, Network: 5083.6MB sent, 9597.32MB received
+2025-10-12 00:49:18,224 - System Event: SYSTEM_STATUS - System Status - CPU: 8.1%, Memory: 29.1%, Disk: 96.1%, Network: 5085.5MB sent, 9611.04MB received
+2025-10-12 00:49:49,246 - System Event: SYSTEM_STATUS - System Status - CPU: 7.4%, Memory: 29.1%, Disk: 96.1%, Network: 5088.41MB sent, 9615.75MB received
+2025-10-12 00:50:20,264 - System Event: SYSTEM_STATUS - System Status - CPU: 11.2%, Memory: 29.1%, Disk: 96.1%, Network: 5097.41MB sent, 9621.9MB received
+2025-10-12 00:50:51,294 - System Event: SYSTEM_STATUS - System Status - CPU: 8.5%, Memory: 29.2%, Disk: 96.1%, Network: 5106.48MB sent, 9632.62MB received
+2025-10-12 00:51:22,322 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 29.2%, Disk: 96.1%, Network: 5117.05MB sent, 9645.87MB received
+2025-10-12 00:51:53,349 - System Event: SYSTEM_STATUS - System Status - CPU: 8.0%, Memory: 29.2%, Disk: 96.1%, Network: 5131.18MB sent, 9661.48MB received
+2025-10-12 00:52:24,372 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 29.2%, Disk: 96.1%, Network: 5144.17MB sent, 9674.06MB received
+2025-10-12 00:52:55,401 - System Event: SYSTEM_STATUS - System Status - CPU: 11.7%, Memory: 29.2%, Disk: 96.1%, Network: 5162.06MB sent, 9685.04MB received
+2025-10-12 00:53:26,423 - System Event: SYSTEM_STATUS - System Status - CPU: 6.7%, Memory: 29.1%, Disk: 96.1%, Network: 5174.11MB sent, 9695.91MB received
+2025-10-12 00:53:57,458 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 29.2%, Disk: 96.1%, Network: 5189.15MB sent, 9711.09MB received
+2025-10-12 00:54:28,485 - System Event: SYSTEM_STATUS - System Status - CPU: 5.4%, Memory: 29.1%, Disk: 96.1%, Network: 5198.79MB sent, 9720.74MB received
+2025-10-12 00:54:59,504 - System Event: SYSTEM_STATUS - System Status - CPU: 8.7%, Memory: 29.2%, Disk: 96.1%, Network: 5207.49MB sent, 9723.48MB received
+2025-10-12 00:55:30,552 - System Event: SYSTEM_STATUS - System Status - CPU: 40.1%, Memory: 29.2%, Disk: 96.1%, Network: 5212.69MB sent, 9733.1MB received
+2025-10-12 00:56:01,581 - System Event: SYSTEM_STATUS - System Status - CPU: 9.1%, Memory: 29.3%, Disk: 96.1%, Network: 5218.5MB sent, 9747.24MB received
+2025-10-12 00:56:32,616 - System Event: SYSTEM_STATUS - System Status - CPU: 7.6%, Memory: 29.2%, Disk: 96.1%, Network: 5221.65MB sent, 9766.66MB received
+2025-10-12 00:57:03,641 - System Event: SYSTEM_STATUS - System Status - CPU: 8.1%, Memory: 29.2%, Disk: 96.1%, Network: 5225.81MB sent, 9787.55MB received
+2025-10-12 00:57:34,666 - System Event: SYSTEM_STATUS - System Status - CPU: 14.5%, Memory: 29.3%, Disk: 96.1%, Network: 5228.34MB sent, 9806.85MB received
+2025-10-12 00:58:05,697 - System Event: SYSTEM_STATUS - System Status - CPU: 8.7%, Memory: 29.2%, Disk: 96.1%, Network: 5231.01MB sent, 9816.06MB received
+2025-10-12 00:58:36,725 - System Event: SYSTEM_STATUS - System Status - CPU: 7.4%, Memory: 29.2%, Disk: 96.1%, Network: 5233.29MB sent, 9832.84MB received
+2025-10-12 00:59:07,747 - System Event: SYSTEM_STATUS - System Status - CPU: 8.9%, Memory: 29.4%, Disk: 96.1%, Network: 5235.35MB sent, 9853.31MB received
+2025-10-12 00:59:38,828 - System Event: SYSTEM_STATUS - System Status - CPU: 13.7%, Memory: 29.2%, Disk: 96.1%, Network: 5238.6MB sent, 9872.64MB received
+2025-10-12 01:00:09,846 - System Event: SYSTEM_STATUS - System Status - CPU: 13.4%, Memory: 29.2%, Disk: 96.1%, Network: 5253.42MB sent, 9893.85MB received
+2025-10-12 01:00:40,878 - System Event: SYSTEM_STATUS - System Status - CPU: 7.1%, Memory: 29.2%, Disk: 96.1%, Network: 5265.07MB sent, 9910.03MB received
+2025-10-12 01:01:11,901 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 29.2%, Disk: 96.1%, Network: 5281.27MB sent, 9930.17MB received
+2025-10-12 01:01:42,931 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 29.3%, Disk: 96.1%, Network: 5292.42MB sent, 9945.18MB received
+2025-10-12 01:02:13,947 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 29.3%, Disk: 96.1%, Network: 5308.17MB sent, 9966.29MB received
+2025-10-12 01:02:44,964 - System Event: SYSTEM_STATUS - System Status - CPU: 12.9%, Memory: 29.2%, Disk: 96.1%, Network: 5321.53MB sent, 9983.41MB received
+2025-10-12 01:03:15,993 - System Event: SYSTEM_STATUS - System Status - CPU: 8.9%, Memory: 29.2%, Disk: 96.1%, Network: 5338.07MB sent, 10003.95MB received
+2025-10-12 01:03:47,028 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 29.2%, Disk: 96.1%, Network: 5350.21MB sent, 10022.12MB received
+2025-10-12 01:04:18,053 - System Event: SYSTEM_STATUS - System Status - CPU: 9.0%, Memory: 29.2%, Disk: 96.1%, Network: 5365.43MB sent, 10043.37MB received
+2025-10-12 01:04:49,081 - System Event: SYSTEM_STATUS - System Status - CPU: 4.7%, Memory: 29.2%, Disk: 96.1%, Network: 5373.87MB sent, 10058.61MB received
+2025-10-12 01:05:20,105 - System Event: SYSTEM_STATUS - System Status - CPU: 11.8%, Memory: 29.2%, Disk: 96.1%, Network: 5379.22MB sent, 10077.99MB received
+2025-10-12 01:05:51,141 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 29.2%, Disk: 96.1%, Network: 5385.42MB sent, 10091.13MB received
+2025-10-12 01:06:22,166 - System Event: SYSTEM_STATUS - System Status - CPU: 9.7%, Memory: 29.2%, Disk: 96.1%, Network: 5390.41MB sent, 10108.76MB received
+2025-10-12 01:06:53,192 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 29.2%, Disk: 96.1%, Network: 5392.59MB sent, 10126.6MB received
+2025-10-12 01:07:24,225 - System Event: SYSTEM_STATUS - System Status - CPU: 5.5%, Memory: 29.2%, Disk: 96.1%, Network: 5394.35MB sent, 10142.65MB received
+2025-10-12 01:07:55,247 - System Event: SYSTEM_STATUS - System Status - CPU: 12.8%, Memory: 29.3%, Disk: 96.1%, Network: 5397.31MB sent, 10159.28MB received
+2025-10-12 01:08:26,278 - System Event: SYSTEM_STATUS - System Status - CPU: 7.6%, Memory: 29.2%, Disk: 96.1%, Network: 5400.24MB sent, 10178.51MB received
+2025-10-12 01:08:57,306 - System Event: SYSTEM_STATUS - System Status - CPU: 5.5%, Memory: 29.2%, Disk: 96.1%, Network: 5403.06MB sent, 10188.98MB received
+2025-10-12 01:09:28,346 - System Event: SYSTEM_STATUS - System Status - CPU: 17.4%, Memory: 29.3%, Disk: 96.1%, Network: 5405.89MB sent, 10207.64MB received
+2025-10-12 01:09:59,367 - System Event: SYSTEM_STATUS - System Status - CPU: 7.4%, Memory: 29.2%, Disk: 96.1%, Network: 5408.32MB sent, 10222.95MB received
+2025-10-12 01:10:30,388 - System Event: SYSTEM_STATUS - System Status - CPU: 10.9%, Memory: 29.2%, Disk: 96.1%, Network: 5410.86MB sent, 10243.35MB received
+2025-10-12 01:11:01,411 - System Event: SYSTEM_STATUS - System Status - CPU: 7.1%, Memory: 29.2%, Disk: 96.1%, Network: 5413.0MB sent, 10257.75MB received
+2025-10-12 01:11:32,443 - System Event: SYSTEM_STATUS - System Status - CPU: 4.7%, Memory: 29.2%, Disk: 96.1%, Network: 5415.57MB sent, 10277.44MB received
+2025-10-12 01:12:03,471 - System Event: SYSTEM_STATUS - System Status - CPU: 9.6%, Memory: 29.1%, Disk: 96.1%, Network: 5417.41MB sent, 10292.51MB received
+2025-10-12 01:12:34,502 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 29.2%, Disk: 96.1%, Network: 5419.78MB sent, 10311.92MB received
+2025-10-12 01:13:05,522 - System Event: SYSTEM_STATUS - System Status - CPU: 9.9%, Memory: 29.2%, Disk: 96.1%, Network: 5422.1MB sent, 10326.06MB received
+2025-10-12 01:13:36,554 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 29.2%, Disk: 96.1%, Network: 5423.95MB sent, 10344.64MB received
+2025-10-12 01:14:07,593 - System Event: SYSTEM_STATUS - System Status - CPU: 15.0%, Memory: 29.2%, Disk: 96.1%, Network: 5426.11MB sent, 10358.09MB received
+2025-10-12 01:14:38,624 - System Event: SYSTEM_STATUS - System Status - CPU: 11.2%, Memory: 29.3%, Disk: 96.1%, Network: 5428.64MB sent, 10378.36MB received
+2025-10-12 01:15:09,643 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 29.2%, Disk: 96.1%, Network: 5432.33MB sent, 10399.07MB received
+2025-10-12 01:15:40,779 - System Event: SYSTEM_STATUS - System Status - CPU: 30.4%, Memory: 29.3%, Disk: 96.1%, Network: 5436.42MB sent, 10418.96MB received
+2025-10-12 01:16:11,813 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 29.1%, Disk: 96.1%, Network: 5438.76MB sent, 10437.58MB received
+2025-10-12 01:16:42,836 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 29.3%, Disk: 96.1%, Network: 5440.61MB sent, 10456.86MB received
+2025-10-12 01:17:13,855 - System Event: SYSTEM_STATUS - System Status - CPU: 8.7%, Memory: 29.2%, Disk: 96.1%, Network: 5442.41MB sent, 10471.95MB received
+2025-10-12 01:17:44,883 - System Event: SYSTEM_STATUS - System Status - CPU: 9.1%, Memory: 29.3%, Disk: 96.1%, Network: 5444.89MB sent, 10486.8MB received
+2025-10-12 01:18:15,910 - System Event: SYSTEM_STATUS - System Status - CPU: 8.1%, Memory: 29.2%, Disk: 96.1%, Network: 5447.76MB sent, 10499.74MB received
+2025-10-12 01:18:46,959 - System Event: SYSTEM_STATUS - System Status - CPU: 14.5%, Memory: 29.3%, Disk: 96.1%, Network: 5451.48MB sent, 10518.19MB received
+2025-10-12 01:19:17,992 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 29.2%, Disk: 96.1%, Network: 5461.7MB sent, 10525.89MB received
+2025-10-12 01:19:49,009 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 29.2%, Disk: 96.1%, Network: 5474.99MB sent, 10540.45MB received
+2025-10-12 01:20:20,027 - System Event: SYSTEM_STATUS - System Status - CPU: 11.3%, Memory: 29.2%, Disk: 96.1%, Network: 5490.55MB sent, 10557.7MB received
+2025-10-12 01:20:51,053 - System Event: SYSTEM_STATUS - System Status - CPU: 7.4%, Memory: 29.2%, Disk: 96.1%, Network: 5504.55MB sent, 10575.21MB received
+2025-10-12 01:21:22,085 - System Event: SYSTEM_STATUS - System Status - CPU: 7.6%, Memory: 29.2%, Disk: 96.1%, Network: 5514.78MB sent, 10591.32MB received
+2025-10-12 01:21:53,110 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 29.2%, Disk: 96.1%, Network: 5520.61MB sent, 10607.04MB received
+2025-10-12 01:22:24,140 - System Event: SYSTEM_STATUS - System Status - CPU: 12.9%, Memory: 29.2%, Disk: 96.1%, Network: 5524.87MB sent, 10622.09MB received
+2025-10-12 01:22:55,157 - System Event: SYSTEM_STATUS - System Status - CPU: 10.5%, Memory: 29.2%, Disk: 96.1%, Network: 5527.6MB sent, 10640.67MB received
+2025-10-12 01:23:26,180 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 29.2%, Disk: 96.1%, Network: 5529.53MB sent, 10656.74MB received
+2025-10-12 01:23:57,207 - System Event: SYSTEM_STATUS - System Status - CPU: 9.2%, Memory: 29.2%, Disk: 96.1%, Network: 5531.28MB sent, 10676.49MB received
+2025-10-12 01:24:28,243 - System Event: SYSTEM_STATUS - System Status - CPU: 7.5%, Memory: 29.2%, Disk: 96.1%, Network: 5533.39MB sent, 10696.56MB received
+2025-10-12 01:24:59,272 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 29.2%, Disk: 96.1%, Network: 5537.38MB sent, 10714.2MB received
+2025-10-12 01:25:30,288 - System Event: SYSTEM_STATUS - System Status - CPU: 11.5%, Memory: 29.2%, Disk: 96.1%, Network: 5541.65MB sent, 10730.33MB received
+2025-10-12 01:26:01,324 - System Event: SYSTEM_STATUS - System Status - CPU: 9.7%, Memory: 29.2%, Disk: 96.1%, Network: 5544.29MB sent, 10749.1MB received
+2025-10-12 01:26:32,349 - System Event: SYSTEM_STATUS - System Status - CPU: 6.1%, Memory: 29.2%, Disk: 96.1%, Network: 5546.14MB sent, 10764.91MB received
+2025-10-12 01:27:03,378 - System Event: SYSTEM_STATUS - System Status - CPU: 12.8%, Memory: 29.2%, Disk: 96.1%, Network: 5547.77MB sent, 10778.82MB received
+2025-10-12 01:27:34,401 - System Event: SYSTEM_STATUS - System Status - CPU: 8.4%, Memory: 29.2%, Disk: 96.1%, Network: 5550.02MB sent, 10795.46MB received
+2025-10-12 01:28:05,418 - System Event: SYSTEM_STATUS - System Status - CPU: 9.8%, Memory: 29.2%, Disk: 96.1%, Network: 5551.66MB sent, 10810.99MB received
+2025-10-12 01:28:36,442 - System Event: SYSTEM_STATUS - System Status - CPU: 5.5%, Memory: 29.1%, Disk: 96.1%, Network: 5554.91MB sent, 10827.92MB received
+2025-10-12 01:29:07,462 - System Event: SYSTEM_STATUS - System Status - CPU: 9.8%, Memory: 29.2%, Disk: 96.1%, Network: 5563.79MB sent, 10845.52MB received
+2025-10-12 01:29:38,484 - System Event: SYSTEM_STATUS - System Status - CPU: 9.3%, Memory: 29.2%, Disk: 96.1%, Network: 5577.51MB sent, 10863.47MB received
+2025-10-12 01:30:09,516 - System Event: SYSTEM_STATUS - System Status - CPU: 8.9%, Memory: 29.2%, Disk: 96.1%, Network: 5587.74MB sent, 10880.15MB received
+2025-10-12 01:30:40,539 - System Event: SYSTEM_STATUS - System Status - CPU: 9.2%, Memory: 29.2%, Disk: 96.1%, Network: 5605.28MB sent, 10901.31MB received
+2025-10-12 01:31:11,568 - System Event: SYSTEM_STATUS - System Status - CPU: 7.7%, Memory: 29.2%, Disk: 96.1%, Network: 5612.12MB sent, 10916.78MB received
+2025-10-12 01:31:42,592 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 29.2%, Disk: 96.1%, Network: 5616.73MB sent, 10935.01MB received
+2025-10-12 01:32:13,618 - System Event: SYSTEM_STATUS - System Status - CPU: 4.3%, Memory: 29.2%, Disk: 96.1%, Network: 5619.38MB sent, 10949.66MB received
+2025-10-12 01:32:44,676 - System Event: SYSTEM_STATUS - System Status - CPU: 9.5%, Memory: 29.2%, Disk: 96.1%, Network: 5622.58MB sent, 10967.07MB received
+2025-10-12 01:33:15,699 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 29.2%, Disk: 96.1%, Network: 5624.5MB sent, 10980.04MB received
+2025-10-12 01:33:46,724 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 29.2%, Disk: 96.1%, Network: 5626.73MB sent, 10996.18MB received
+2025-10-12 01:34:17,753 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 29.2%, Disk: 96.1%, Network: 5628.41MB sent, 11007.22MB received
+2025-10-12 01:34:48,772 - System Event: SYSTEM_STATUS - System Status - CPU: 6.2%, Memory: 29.2%, Disk: 96.1%, Network: 5630.08MB sent, 11023.46MB received
+2025-10-12 01:35:19,803 - System Event: SYSTEM_STATUS - System Status - CPU: 7.0%, Memory: 29.2%, Disk: 96.1%, Network: 5632.88MB sent, 11039.48MB received
+2025-10-12 01:35:50,830 - System Event: SYSTEM_STATUS - System Status - CPU: 10.5%, Memory: 29.3%, Disk: 96.1%, Network: 5637.13MB sent, 11058.33MB received
+2025-10-12 01:36:21,853 - System Event: SYSTEM_STATUS - System Status - CPU: 9.5%, Memory: 29.2%, Disk: 96.1%, Network: 5639.67MB sent, 11074.14MB received
+2025-10-12 01:36:52,879 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 29.2%, Disk: 96.1%, Network: 5644.32MB sent, 11093.23MB received
+2025-10-12 01:37:23,905 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 29.3%, Disk: 96.1%, Network: 5646.98MB sent, 11107.99MB received
+2025-10-12 01:37:54,923 - System Event: SYSTEM_STATUS - System Status - CPU: 14.0%, Memory: 29.3%, Disk: 96.1%, Network: 5648.92MB sent, 11126.62MB received
+2025-10-12 01:38:25,957 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 29.2%, Disk: 96.1%, Network: 5651.04MB sent, 11145.41MB received
+2025-10-12 01:38:56,982 - System Event: SYSTEM_STATUS - System Status - CPU: 5.8%, Memory: 29.2%, Disk: 96.1%, Network: 5653.32MB sent, 11164.95MB received
+2025-10-12 01:39:28,037 - System Event: SYSTEM_STATUS - System Status - CPU: 28.8%, Memory: 29.3%, Disk: 96.1%, Network: 5656.15MB sent, 11181.68MB received
+2025-10-12 01:39:59,067 - System Event: SYSTEM_STATUS - System Status - CPU: 7.0%, Memory: 29.3%, Disk: 96.1%, Network: 5659.29MB sent, 11190.58MB received
+2025-10-12 01:40:30,094 - System Event: SYSTEM_STATUS - System Status - CPU: 8.5%, Memory: 29.3%, Disk: 96.1%, Network: 5662.4MB sent, 11201.18MB received
+2025-10-12 01:41:01,117 - System Event: SYSTEM_STATUS - System Status - CPU: 6.9%, Memory: 29.2%, Disk: 96.1%, Network: 5664.22MB sent, 11218.99MB received
+2025-10-12 01:41:32,150 - System Event: SYSTEM_STATUS - System Status - CPU: 7.5%, Memory: 29.2%, Disk: 96.1%, Network: 5667.84MB sent, 11224.61MB received
+2025-10-12 01:42:03,186 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 29.2%, Disk: 96.1%, Network: 5671.34MB sent, 11241.41MB received
+2025-10-12 01:42:34,213 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 29.1%, Disk: 96.1%, Network: 5672.98MB sent, 11254.05MB received
+2025-10-12 01:43:05,232 - System Event: SYSTEM_STATUS - System Status - CPU: 11.2%, Memory: 29.2%, Disk: 96.1%, Network: 5674.68MB sent, 11266.5MB received
+2025-10-12 01:43:36,294 - System Event: SYSTEM_STATUS - System Status - CPU: 32.1%, Memory: 29.3%, Disk: 96.1%, Network: 5676.26MB sent, 11270.6MB received
+2025-10-12 01:44:07,362 - System Event: SYSTEM_STATUS - System Status - CPU: 18.3%, Memory: 29.2%, Disk: 96.1%, Network: 5677.96MB sent, 11280.64MB received
+2025-10-12 01:44:38,427 - System Event: SYSTEM_STATUS - System Status - CPU: 17.7%, Memory: 29.2%, Disk: 96.1%, Network: 5679.67MB sent, 11297.12MB received
+2025-10-12 01:45:09,478 - System Event: SYSTEM_STATUS - System Status - CPU: 17.7%, Memory: 29.2%, Disk: 96.1%, Network: 5681.31MB sent, 11316.12MB received
+2025-10-12 01:45:40,532 - System Event: SYSTEM_STATUS - System Status - CPU: 25.9%, Memory: 29.2%, Disk: 96.1%, Network: 5682.93MB sent, 11331.68MB received
+2025-10-12 01:46:11,574 - System Event: SYSTEM_STATUS - System Status - CPU: 22.5%, Memory: 29.2%, Disk: 96.1%, Network: 5684.54MB sent, 11349.97MB received
+2025-10-12 01:46:42,636 - System Event: SYSTEM_STATUS - System Status - CPU: 13.6%, Memory: 29.2%, Disk: 96.1%, Network: 5686.05MB sent, 11352.21MB received
+2025-10-12 01:47:13,702 - System Event: SYSTEM_STATUS - System Status - CPU: 16.1%, Memory: 29.3%, Disk: 96.1%, Network: 5688.02MB sent, 11362.77MB received
+2025-10-12 01:47:44,764 - System Event: SYSTEM_STATUS - System Status - CPU: 25.5%, Memory: 29.2%, Disk: 96.1%, Network: 5689.78MB sent, 11378.34MB received
+2025-10-12 01:48:15,826 - System Event: SYSTEM_STATUS - System Status - CPU: 18.6%, Memory: 29.2%, Disk: 96.1%, Network: 5691.33MB sent, 11384.91MB received
+2025-10-12 01:48:46,899 - System Event: SYSTEM_STATUS - System Status - CPU: 22.7%, Memory: 29.2%, Disk: 96.1%, Network: 5693.24MB sent, 11396.51MB received
+2025-10-12 01:49:17,961 - System Event: SYSTEM_STATUS - System Status - CPU: 18.3%, Memory: 29.2%, Disk: 96.1%, Network: 5702.61MB sent, 11416.69MB received
+2025-10-12 01:49:49,012 - System Event: SYSTEM_STATUS - System Status - CPU: 19.2%, Memory: 29.2%, Disk: 96.1%, Network: 5718.11MB sent, 11436.92MB received
+2025-10-12 01:50:20,064 - System Event: SYSTEM_STATUS - System Status - CPU: 25.1%, Memory: 29.2%, Disk: 96.1%, Network: 5739.38MB sent, 11457.93MB received
+2025-10-12 01:50:51,137 - System Event: SYSTEM_STATUS - System Status - CPU: 19.8%, Memory: 29.2%, Disk: 96.1%, Network: 5751.26MB sent, 11476.98MB received
+2025-10-12 01:51:22,203 - System Event: SYSTEM_STATUS - System Status - CPU: 15.3%, Memory: 29.2%, Disk: 96.1%, Network: 5754.81MB sent, 11484.53MB received
+2025-10-12 01:51:53,268 - System Event: SYSTEM_STATUS - System Status - CPU: 21.9%, Memory: 29.4%, Disk: 96.1%, Network: 5767.22MB sent, 11501.63MB received
+2025-10-12 01:52:24,321 - System Event: SYSTEM_STATUS - System Status - CPU: 18.1%, Memory: 29.4%, Disk: 96.1%, Network: 5787.75MB sent, 11521.61MB received
+2025-10-12 01:52:55,377 - System Event: SYSTEM_STATUS - System Status - CPU: 24.9%, Memory: 29.3%, Disk: 96.1%, Network: 5805.35MB sent, 11536.28MB received
+2025-10-12 01:53:26,443 - System Event: SYSTEM_STATUS - System Status - CPU: 18.2%, Memory: 29.3%, Disk: 96.1%, Network: 5819.95MB sent, 11555.58MB received
+2025-10-12 01:53:57,475 - System Event: SYSTEM_STATUS - System Status - CPU: 16.1%, Memory: 29.4%, Disk: 96.1%, Network: 5835.08MB sent, 11574.34MB received
+2025-10-12 01:54:28,501 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 29.5%, Disk: 96.1%, Network: 5850.21MB sent, 11594.53MB received
+2025-10-12 01:54:59,517 - System Event: SYSTEM_STATUS - System Status - CPU: 8.1%, Memory: 29.4%, Disk: 96.1%, Network: 5860.45MB sent, 11607.78MB received
+2025-10-12 01:55:30,536 - System Event: SYSTEM_STATUS - System Status - CPU: 10.3%, Memory: 29.6%, Disk: 96.1%, Network: 5876.29MB sent, 11623.43MB received
+2025-10-12 01:56:01,562 - System Event: SYSTEM_STATUS - System Status - CPU: 6.9%, Memory: 29.2%, Disk: 96.1%, Network: 5891.59MB sent, 11642.14MB received
+2025-10-12 01:56:32,599 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 29.4%, Disk: 96.1%, Network: 5902.42MB sent, 11661.45MB received
+2025-10-12 01:57:03,627 - System Event: SYSTEM_STATUS - System Status - CPU: 7.0%, Memory: 29.3%, Disk: 96.1%, Network: 5909.93MB sent, 11680.7MB received
+2025-10-12 01:57:34,643 - System Event: SYSTEM_STATUS - System Status - CPU: 8.4%, Memory: 29.3%, Disk: 96.1%, Network: 5923.52MB sent, 11698.48MB received
+2025-10-12 01:58:05,657 - System Event: SYSTEM_STATUS - System Status - CPU: 9.2%, Memory: 29.2%, Disk: 96.1%, Network: 5938.94MB sent, 11712.58MB received
+2025-10-12 01:58:36,704 - System Event: SYSTEM_STATUS - System Status - CPU: 7.0%, Memory: 29.4%, Disk: 96.1%, Network: 5953.35MB sent, 11729.6MB received
+2025-10-12 01:59:07,741 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 29.4%, Disk: 96.1%, Network: 5965.29MB sent, 11747.3MB received
+2025-10-12 01:59:38,763 - System Event: SYSTEM_STATUS - System Status - CPU: 8.0%, Memory: 29.4%, Disk: 96.1%, Network: 5976.9MB sent, 11764.47MB received
+2025-10-12 02:00:09,781 - System Event: SYSTEM_STATUS - System Status - CPU: 9.4%, Memory: 29.4%, Disk: 96.1%, Network: 5984.72MB sent, 11783.87MB received
+2025-10-12 02:00:40,807 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 29.2%, Disk: 96.1%, Network: 6002.67MB sent, 11803.88MB received
+2025-10-12 02:01:11,841 - System Event: SYSTEM_STATUS - System Status - CPU: 7.0%, Memory: 29.3%, Disk: 96.1%, Network: 6022.73MB sent, 11825.17MB received
+2025-10-12 02:01:42,869 - System Event: SYSTEM_STATUS - System Status - CPU: 5.5%, Memory: 29.3%, Disk: 96.1%, Network: 6039.77MB sent, 11842.82MB received
+2025-10-12 02:02:13,891 - System Event: SYSTEM_STATUS - System Status - CPU: 14.9%, Memory: 29.2%, Disk: 96.1%, Network: 6059.6MB sent, 11861.3MB received
+2025-10-12 02:02:44,909 - System Event: SYSTEM_STATUS - System Status - CPU: 16.0%, Memory: 29.2%, Disk: 96.1%, Network: 6078.16MB sent, 11882.06MB received
+2025-10-12 02:03:15,944 - System Event: SYSTEM_STATUS - System Status - CPU: 10.7%, Memory: 29.3%, Disk: 96.1%, Network: 6097.23MB sent, 11903.35MB received
+2025-10-12 02:03:46,967 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 29.3%, Disk: 96.1%, Network: 6116.58MB sent, 11919.15MB received
+2025-10-12 02:04:17,989 - System Event: SYSTEM_STATUS - System Status - CPU: 7.6%, Memory: 29.2%, Disk: 96.1%, Network: 6133.15MB sent, 11937.36MB received
+2025-10-12 02:04:49,009 - System Event: SYSTEM_STATUS - System Status - CPU: 6.2%, Memory: 29.3%, Disk: 96.1%, Network: 6147.7MB sent, 11955.19MB received
+2025-10-12 02:05:20,024 - System Event: SYSTEM_STATUS - System Status - CPU: 12.5%, Memory: 29.3%, Disk: 96.1%, Network: 6168.93MB sent, 11975.18MB received
+2025-10-12 02:05:51,054 - System Event: SYSTEM_STATUS - System Status - CPU: 7.4%, Memory: 29.3%, Disk: 96.1%, Network: 6185.46MB sent, 11995.51MB received
+2025-10-12 02:06:22,081 - System Event: SYSTEM_STATUS - System Status - CPU: 8.3%, Memory: 29.2%, Disk: 96.1%, Network: 6202.44MB sent, 12016.75MB received
+2025-10-12 02:06:53,104 - System Event: SYSTEM_STATUS - System Status - CPU: 13.5%, Memory: 29.3%, Disk: 96.1%, Network: 6220.63MB sent, 12034.9MB received
+2025-10-12 02:07:24,123 - System Event: SYSTEM_STATUS - System Status - CPU: 9.9%, Memory: 29.3%, Disk: 96.1%, Network: 6241.82MB sent, 12055.56MB received
+2025-10-12 02:07:55,149 - System Event: SYSTEM_STATUS - System Status - CPU: 12.2%, Memory: 29.3%, Disk: 96.1%, Network: 6257.1MB sent, 12070.22MB received
+2025-10-12 02:08:26,182 - System Event: SYSTEM_STATUS - System Status - CPU: 7.0%, Memory: 29.3%, Disk: 96.1%, Network: 6273.79MB sent, 12090.66MB received
+2025-10-12 02:08:57,207 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 29.3%, Disk: 96.1%, Network: 6285.11MB sent, 12107.57MB received
+2025-10-12 02:09:28,252 - System Event: SYSTEM_STATUS - System Status - CPU: 7.0%, Memory: 29.3%, Disk: 96.1%, Network: 6302.88MB sent, 12126.46MB received
+2025-10-12 02:09:59,272 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 29.2%, Disk: 96.1%, Network: 6315.67MB sent, 12139.87MB received
+2025-10-12 02:10:30,291 - System Event: SYSTEM_STATUS - System Status - CPU: 9.7%, Memory: 29.2%, Disk: 96.1%, Network: 6329.63MB sent, 12160.63MB received
+2025-10-12 02:11:01,314 - System Event: SYSTEM_STATUS - System Status - CPU: 7.6%, Memory: 29.3%, Disk: 96.1%, Network: 6339.83MB sent, 12175.76MB received
+2025-10-12 02:11:32,342 - System Event: SYSTEM_STATUS - System Status - CPU: 7.7%, Memory: 29.3%, Disk: 96.1%, Network: 6352.18MB sent, 12195.22MB received
+2025-10-12 02:12:03,374 - System Event: SYSTEM_STATUS - System Status - CPU: 8.0%, Memory: 29.2%, Disk: 96.1%, Network: 6362.1MB sent, 12206.9MB received
+2025-10-12 02:12:34,399 - System Event: SYSTEM_STATUS - System Status - CPU: 5.0%, Memory: 29.2%, Disk: 96.1%, Network: 6376.6MB sent, 12224.75MB received
+2025-10-12 02:13:05,427 - System Event: SYSTEM_STATUS - System Status - CPU: 8.7%, Memory: 29.2%, Disk: 96.1%, Network: 6390.76MB sent, 12238.21MB received
+2025-10-12 02:13:36,448 - System Event: SYSTEM_STATUS - System Status - CPU: 13.5%, Memory: 29.2%, Disk: 96.1%, Network: 6399.9MB sent, 12253.7MB received
+2025-10-12 02:14:07,469 - System Event: SYSTEM_STATUS - System Status - CPU: 9.7%, Memory: 29.2%, Disk: 96.1%, Network: 6408.12MB sent, 12261.93MB received
+2025-10-12 02:14:38,496 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 29.2%, Disk: 96.1%, Network: 6410.97MB sent, 12262.83MB received
+2025-10-12 02:15:09,516 - System Event: SYSTEM_STATUS - System Status - CPU: 8.9%, Memory: 29.3%, Disk: 96.1%, Network: 6420.64MB sent, 12269.69MB received
+2025-10-12 02:15:40,531 - System Event: SYSTEM_STATUS - System Status - CPU: 9.7%, Memory: 29.3%, Disk: 96.1%, Network: 6438.46MB sent, 12290.54MB received
+2025-10-12 02:16:11,561 - System Event: SYSTEM_STATUS - System Status - CPU: 9.3%, Memory: 29.3%, Disk: 96.1%, Network: 6451.84MB sent, 12308.83MB received
+2025-10-12 02:16:42,585 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 29.2%, Disk: 96.1%, Network: 6468.93MB sent, 12329.99MB received
+2025-10-12 02:17:13,616 - System Event: SYSTEM_STATUS - System Status - CPU: 8.0%, Memory: 29.3%, Disk: 96.1%, Network: 6477.48MB sent, 12344.49MB received
+2025-10-12 02:17:44,649 - System Event: SYSTEM_STATUS - System Status - CPU: 13.0%, Memory: 29.3%, Disk: 96.1%, Network: 6492.33MB sent, 12365.48MB received
+2025-10-12 02:18:15,677 - System Event: SYSTEM_STATUS - System Status - CPU: 7.4%, Memory: 29.2%, Disk: 96.1%, Network: 6505.78MB sent, 12379.77MB received
+2025-10-12 02:18:46,703 - System Event: SYSTEM_STATUS - System Status - CPU: 7.0%, Memory: 29.3%, Disk: 96.1%, Network: 6519.37MB sent, 12400.79MB received
+2025-10-12 02:19:17,733 - System Event: SYSTEM_STATUS - System Status - CPU: 8.0%, Memory: 29.4%, Disk: 96.1%, Network: 6532.26MB sent, 12420.77MB received
+2025-10-12 02:19:48,750 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 29.2%, Disk: 96.1%, Network: 6548.65MB sent, 12441.94MB received
+2025-10-12 02:20:19,769 - System Event: SYSTEM_STATUS - System Status - CPU: 10.1%, Memory: 29.2%, Disk: 96.1%, Network: 6562.46MB sent, 12457.31MB received
+2025-10-12 02:20:50,795 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 29.3%, Disk: 96.1%, Network: 6579.68MB sent, 12478.52MB received
+2025-10-12 02:21:21,819 - System Event: SYSTEM_STATUS - System Status - CPU: 13.1%, Memory: 29.2%, Disk: 96.1%, Network: 6593.86MB sent, 12497.11MB received
+2025-10-12 02:21:52,843 - System Event: SYSTEM_STATUS - System Status - CPU: 7.4%, Memory: 29.2%, Disk: 96.1%, Network: 6611.28MB sent, 12518.34MB received
+2025-10-12 02:22:23,868 - System Event: SYSTEM_STATUS - System Status - CPU: 8.3%, Memory: 29.2%, Disk: 96.1%, Network: 6627.17MB sent, 12537.0MB received
+2025-10-12 02:22:54,886 - System Event: SYSTEM_STATUS - System Status - CPU: 8.1%, Memory: 29.3%, Disk: 96.1%, Network: 6643.95MB sent, 12558.45MB received
+2025-10-12 02:23:25,911 - System Event: SYSTEM_STATUS - System Status - CPU: 8.4%, Memory: 29.3%, Disk: 96.1%, Network: 6656.75MB sent, 12576.4MB received
+2025-10-12 02:23:56,938 - System Event: SYSTEM_STATUS - System Status - CPU: 9.9%, Memory: 29.3%, Disk: 96.1%, Network: 6677.94MB sent, 12597.72MB received
+2025-10-12 02:24:27,972 - System Event: SYSTEM_STATUS - System Status - CPU: 10.9%, Memory: 29.3%, Disk: 96.1%, Network: 6694.52MB sent, 12618.05MB received
+2025-10-12 02:24:58,990 - System Event: SYSTEM_STATUS - System Status - CPU: 4.3%, Memory: 29.3%, Disk: 96.1%, Network: 6715.78MB sent, 12639.19MB received
+2025-10-12 02:25:30,020 - System Event: SYSTEM_STATUS - System Status - CPU: 10.3%, Memory: 29.3%, Disk: 96.1%, Network: 6732.96MB sent, 12659.95MB received
+2025-10-12 02:26:01,050 - System Event: SYSTEM_STATUS - System Status - CPU: 7.6%, Memory: 29.3%, Disk: 96.1%, Network: 6754.04MB sent, 12680.72MB received
+2025-10-12 02:26:32,079 - System Event: SYSTEM_STATUS - System Status - CPU: 7.0%, Memory: 29.3%, Disk: 96.1%, Network: 6769.25MB sent, 12700.38MB received
+2025-10-12 02:27:03,112 - System Event: SYSTEM_STATUS - System Status - CPU: 9.1%, Memory: 29.3%, Disk: 96.1%, Network: 6790.42MB sent, 12720.58MB received
+2025-10-12 02:27:34,130 - System Event: SYSTEM_STATUS - System Status - CPU: 8.1%, Memory: 29.3%, Disk: 96.1%, Network: 6806.35MB sent, 12741.5MB received
+2025-10-12 02:28:05,150 - System Event: SYSTEM_STATUS - System Status - CPU: 9.2%, Memory: 29.4%, Disk: 96.1%, Network: 6822.95MB sent, 12761.92MB received
+2025-10-12 02:28:36,172 - System Event: SYSTEM_STATUS - System Status - CPU: 10.7%, Memory: 29.4%, Disk: 96.1%, Network: 6840.49MB sent, 12780.68MB received
+2025-10-12 02:29:07,207 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 29.4%, Disk: 96.1%, Network: 6860.98MB sent, 12801.27MB received
+2025-10-12 02:29:38,242 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 29.3%, Disk: 96.1%, Network: 6880.19MB sent, 12822.54MB received
+2025-10-12 02:30:09,268 - System Event: SYSTEM_STATUS - System Status - CPU: 10.9%, Memory: 29.3%, Disk: 96.1%, Network: 6901.08MB sent, 12842.07MB received
+2025-10-12 02:30:40,284 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 29.2%, Disk: 96.1%, Network: 6918.07MB sent, 12862.95MB received
+2025-10-12 02:31:11,305 - System Event: SYSTEM_STATUS - System Status - CPU: 5.1%, Memory: 29.3%, Disk: 96.1%, Network: 6933.88MB sent, 12882.62MB received
+2025-10-12 02:31:42,326 - System Event: SYSTEM_STATUS - System Status - CPU: 5.5%, Memory: 29.3%, Disk: 96.1%, Network: 6946.41MB sent, 12895.27MB received
+2025-10-12 02:32:13,357 - System Event: SYSTEM_STATUS - System Status - CPU: 7.4%, Memory: 29.3%, Disk: 96.1%, Network: 6966.79MB sent, 12896.77MB received
+2025-10-12 02:32:44,378 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 29.2%, Disk: 96.1%, Network: 6986.76MB sent, 12898.26MB received
+2025-10-12 02:33:15,393 - System Event: SYSTEM_STATUS - System Status - CPU: 11.1%, Memory: 29.3%, Disk: 96.1%, Network: 7006.85MB sent, 12899.71MB received
+2025-10-12 02:33:46,422 - System Event: SYSTEM_STATUS - System Status - CPU: 5.4%, Memory: 29.3%, Disk: 96.1%, Network: 7021.6MB sent, 12901.06MB received
+2025-10-12 02:34:17,444 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 29.3%, Disk: 96.1%, Network: 7040.71MB sent, 12902.47MB received
+2025-10-12 02:34:48,469 - System Event: SYSTEM_STATUS - System Status - CPU: 5.5%, Memory: 29.3%, Disk: 96.1%, Network: 7059.78MB sent, 12903.86MB received
+2025-10-12 02:35:19,497 - System Event: SYSTEM_STATUS - System Status - CPU: 5.8%, Memory: 29.3%, Disk: 96.1%, Network: 7078.85MB sent, 12905.21MB received
+2025-10-12 02:35:50,532 - System Event: SYSTEM_STATUS - System Status - CPU: 11.7%, Memory: 29.3%, Disk: 96.1%, Network: 7097.01MB sent, 12906.57MB received
+2025-10-12 02:36:21,553 - System Event: SYSTEM_STATUS - System Status - CPU: 5.9%, Memory: 29.3%, Disk: 96.1%, Network: 7116.4MB sent, 12907.96MB received
+2025-10-12 02:36:52,592 - System Event: SYSTEM_STATUS - System Status - CPU: 8.9%, Memory: 29.3%, Disk: 96.1%, Network: 7136.24MB sent, 12909.42MB received
+2025-10-12 02:37:23,624 - System Event: SYSTEM_STATUS - System Status - CPU: 8.3%, Memory: 29.3%, Disk: 96.1%, Network: 7156.13MB sent, 12910.86MB received
+2025-10-12 02:37:54,642 - System Event: SYSTEM_STATUS - System Status - CPU: 11.6%, Memory: 29.3%, Disk: 96.1%, Network: 7176.73MB sent, 12912.28MB received
+2025-10-12 02:38:25,666 - System Event: SYSTEM_STATUS - System Status - CPU: 5.7%, Memory: 29.2%, Disk: 96.1%, Network: 7196.91MB sent, 12913.68MB received
+2025-10-12 02:38:56,697 - System Event: SYSTEM_STATUS - System Status - CPU: 10.6%, Memory: 29.3%, Disk: 96.1%, Network: 7217.75MB sent, 12915.17MB received
+2025-10-12 02:39:27,745 - System Event: SYSTEM_STATUS - System Status - CPU: 5.2%, Memory: 29.4%, Disk: 96.1%, Network: 7236.72MB sent, 12916.56MB received
+2025-10-12 02:39:58,771 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 29.4%, Disk: 96.1%, Network: 7257.22MB sent, 12918.0MB received
+2025-10-12 02:40:29,790 - System Event: SYSTEM_STATUS - System Status - CPU: 8.1%, Memory: 29.3%, Disk: 96.1%, Network: 7277.95MB sent, 12919.42MB received
+2025-10-12 02:41:00,814 - System Event: SYSTEM_STATUS - System Status - CPU: 7.9%, Memory: 29.3%, Disk: 96.1%, Network: 7298.97MB sent, 12920.83MB received
+2025-10-12 02:41:31,855 - System Event: SYSTEM_STATUS - System Status - CPU: 7.0%, Memory: 29.4%, Disk: 96.1%, Network: 7318.29MB sent, 12922.25MB received
+2025-10-12 02:42:02,886 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 29.3%, Disk: 96.1%, Network: 7339.34MB sent, 12923.69MB received
+2025-10-12 02:42:33,914 - System Event: SYSTEM_STATUS - System Status - CPU: 5.2%, Memory: 29.3%, Disk: 96.1%, Network: 7359.13MB sent, 12925.06MB received
+2025-10-12 02:43:04,946 - System Event: SYSTEM_STATUS - System Status - CPU: 10.1%, Memory: 29.3%, Disk: 96.1%, Network: 7380.09MB sent, 12926.52MB received
+2025-10-12 02:43:35,965 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 29.3%, Disk: 96.1%, Network: 7398.54MB sent, 12927.86MB received
+2025-10-12 02:44:07,003 - System Event: SYSTEM_STATUS - System Status - CPU: 6.1%, Memory: 29.3%, Disk: 96.1%, Network: 7418.8MB sent, 12929.28MB received
+2025-10-12 02:44:38,042 - System Event: SYSTEM_STATUS - System Status - CPU: 7.5%, Memory: 29.3%, Disk: 96.1%, Network: 7438.53MB sent, 12930.71MB received
+2025-10-12 02:45:09,070 - System Event: SYSTEM_STATUS - System Status - CPU: 8.7%, Memory: 29.4%, Disk: 96.1%, Network: 7459.51MB sent, 12932.14MB received
+2025-10-12 02:45:40,098 - System Event: SYSTEM_STATUS - System Status - CPU: 10.4%, Memory: 29.3%, Disk: 96.1%, Network: 7473.48MB sent, 12933.4MB received
+2025-10-12 02:46:11,121 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 29.3%, Disk: 96.1%, Network: 7492.48MB sent, 12934.75MB received
+2025-10-12 02:46:42,150 - System Event: SYSTEM_STATUS - System Status - CPU: 8.3%, Memory: 29.6%, Disk: 96.1%, Network: 7508.66MB sent, 12936.33MB received
+2025-10-12 02:47:13,181 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 29.5%, Disk: 96.1%, Network: 7529.51MB sent, 12937.84MB received
+2025-10-12 02:47:44,206 - System Event: SYSTEM_STATUS - System Status - CPU: 5.5%, Memory: 29.5%, Disk: 96.1%, Network: 7547.1MB sent, 12939.17MB received
+2025-10-12 02:48:15,234 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 29.4%, Disk: 96.1%, Network: 7568.09MB sent, 12940.55MB received
+2025-10-12 02:48:46,268 - System Event: SYSTEM_STATUS - System Status - CPU: 7.0%, Memory: 29.5%, Disk: 96.1%, Network: 7586.8MB sent, 12941.93MB received
+2025-10-12 02:49:17,312 - System Event: SYSTEM_STATUS - System Status - CPU: 7.7%, Memory: 29.4%, Disk: 96.1%, Network: 7607.83MB sent, 12943.33MB received
+2025-10-12 02:49:48,336 - System Event: SYSTEM_STATUS - System Status - CPU: 8.5%, Memory: 29.4%, Disk: 96.1%, Network: 7626.06MB sent, 12944.71MB received
+2025-10-12 02:50:19,359 - System Event: SYSTEM_STATUS - System Status - CPU: 8.5%, Memory: 29.4%, Disk: 96.1%, Network: 7646.89MB sent, 12946.13MB received
+2025-10-12 02:50:50,397 - System Event: SYSTEM_STATUS - System Status - CPU: 8.6%, Memory: 29.5%, Disk: 96.1%, Network: 7663.94MB sent, 12947.58MB received
+2025-10-12 02:51:21,416 - System Event: SYSTEM_STATUS - System Status - CPU: 10.1%, Memory: 29.6%, Disk: 96.1%, Network: 7685.01MB sent, 12949.02MB received
+2025-10-12 02:51:52,441 - System Event: SYSTEM_STATUS - System Status - CPU: 9.2%, Memory: 29.4%, Disk: 96.1%, Network: 7704.79MB sent, 12950.45MB received
+2025-10-12 02:52:23,478 - System Event: SYSTEM_STATUS - System Status - CPU: 5.8%, Memory: 29.4%, Disk: 96.1%, Network: 7725.87MB sent, 12951.89MB received
+2025-10-12 02:52:54,500 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 29.4%, Disk: 96.1%, Network: 7746.27MB sent, 12953.28MB received
+2025-10-12 02:53:25,522 - System Event: SYSTEM_STATUS - System Status - CPU: 12.8%, Memory: 29.4%, Disk: 96.1%, Network: 7767.22MB sent, 12954.66MB received
+2025-10-12 02:53:56,552 - System Event: SYSTEM_STATUS - System Status - CPU: 5.5%, Memory: 29.4%, Disk: 96.1%, Network: 7785.88MB sent, 12956.09MB received
+2025-10-12 02:54:27,581 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 29.4%, Disk: 96.1%, Network: 7806.84MB sent, 12957.49MB received
+2025-10-12 02:54:58,613 - System Event: SYSTEM_STATUS - System Status - CPU: 7.2%, Memory: 29.4%, Disk: 96.1%, Network: 7826.75MB sent, 12958.99MB received
+2025-10-12 02:55:29,649 - System Event: SYSTEM_STATUS - System Status - CPU: 7.0%, Memory: 29.5%, Disk: 96.1%, Network: 7847.84MB sent, 12960.58MB received
+2025-10-12 02:56:00,679 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 29.5%, Disk: 96.1%, Network: 7863.42MB sent, 12961.95MB received
+2025-10-12 02:56:31,711 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 29.5%, Disk: 96.1%, Network: 7884.48MB sent, 12963.34MB received
+2025-10-12 02:57:02,738 - System Event: SYSTEM_STATUS - System Status - CPU: 5.6%, Memory: 29.5%, Disk: 96.1%, Network: 7901.75MB sent, 12964.72MB received
+2025-10-12 02:57:33,762 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 29.5%, Disk: 96.1%, Network: 7922.81MB sent, 12966.1MB received
+2025-10-12 02:58:04,783 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 29.5%, Disk: 96.1%, Network: 7940.98MB sent, 12967.48MB received
+2025-10-12 02:58:35,804 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 29.5%, Disk: 96.1%, Network: 7961.96MB sent, 12968.87MB received
+2025-10-12 02:59:06,825 - System Event: SYSTEM_STATUS - System Status - CPU: 6.6%, Memory: 29.5%, Disk: 96.1%, Network: 7979.98MB sent, 12970.32MB received
+2025-10-12 02:59:37,860 - System Event: SYSTEM_STATUS - System Status - CPU: 8.9%, Memory: 29.5%, Disk: 96.1%, Network: 8001.01MB sent, 12971.68MB received
+2025-10-12 03:00:08,882 - System Event: SYSTEM_STATUS - System Status - CPU: 7.0%, Memory: 29.4%, Disk: 96.1%, Network: 8021.33MB sent, 12973.22MB received
+2025-10-12 03:00:39,898 - System Event: SYSTEM_STATUS - System Status - CPU: 11.2%, Memory: 29.5%, Disk: 96.1%, Network: 8042.36MB sent, 12974.6MB received
+2025-10-12 03:01:10,917 - System Event: SYSTEM_STATUS - System Status - CPU: 9.5%, Memory: 29.5%, Disk: 96.1%, Network: 8062.34MB sent, 12975.99MB received
+2025-10-12 03:01:41,953 - System Event: SYSTEM_STATUS - System Status - CPU: 8.9%, Memory: 29.4%, Disk: 96.1%, Network: 8083.42MB sent, 12977.44MB received
+2025-10-12 03:02:12,976 - System Event: SYSTEM_STATUS - System Status - CPU: 6.2%, Memory: 29.4%, Disk: 96.1%, Network: 8103.37MB sent, 12978.89MB received
+2025-10-12 03:02:44,004 - System Event: SYSTEM_STATUS - System Status - CPU: 9.5%, Memory: 29.4%, Disk: 96.1%, Network: 8124.27MB sent, 12980.28MB received
+2025-10-12 03:03:15,029 - System Event: SYSTEM_STATUS - System Status - CPU: 10.5%, Memory: 29.4%, Disk: 96.1%, Network: 8142.58MB sent, 12981.64MB received
+2025-10-12 03:03:46,060 - System Event: SYSTEM_STATUS - System Status - CPU: 8.3%, Memory: 29.5%, Disk: 96.1%, Network: 8163.42MB sent, 12983.02MB received
+2025-10-12 03:04:17,096 - System Event: SYSTEM_STATUS - System Status - CPU: 9.1%, Memory: 29.4%, Disk: 96.1%, Network: 8183.2MB sent, 12984.45MB received
+2025-10-12 03:04:48,128 - System Event: SYSTEM_STATUS - System Status - CPU: 8.9%, Memory: 29.4%, Disk: 96.1%, Network: 8203.54MB sent, 12985.84MB received
+2025-10-12 03:05:19,156 - System Event: SYSTEM_STATUS - System Status - CPU: 8.3%, Memory: 29.4%, Disk: 96.1%, Network: 8216.55MB sent, 12987.03MB received
+2025-10-12 03:05:50,194 - System Event: SYSTEM_STATUS - System Status - CPU: 9.2%, Memory: 29.6%, Disk: 96.1%, Network: 8236.88MB sent, 12988.5MB received
+2025-10-12 03:06:21,238 - System Event: SYSTEM_STATUS - System Status - CPU: 8.5%, Memory: 29.4%, Disk: 96.1%, Network: 8257.02MB sent, 12989.91MB received
+2025-10-12 03:06:52,266 - System Event: SYSTEM_STATUS - System Status - CPU: 8.0%, Memory: 29.5%, Disk: 96.1%, Network: 8277.58MB sent, 12991.35MB received
+2025-10-12 03:07:23,301 - System Event: SYSTEM_STATUS - System Status - CPU: 5.5%, Memory: 29.5%, Disk: 96.1%, Network: 8296.25MB sent, 12992.5MB received
+2025-10-12 03:07:54,339 - System Event: SYSTEM_STATUS - System Status - CPU: 6.1%, Memory: 29.5%, Disk: 96.1%, Network: 8297.83MB sent, 12992.7MB received
+2025-10-12 03:08:25,356 - System Event: SYSTEM_STATUS - System Status - CPU: 8.9%, Memory: 29.4%, Disk: 96.1%, Network: 8298.57MB sent, 12992.88MB received
+2025-10-12 03:08:56,395 - System Event: SYSTEM_STATUS - System Status - CPU: 11.8%, Memory: 29.5%, Disk: 96.1%, Network: 8298.7MB sent, 12992.99MB received
+2025-10-12 03:09:27,418 - System Event: SYSTEM_STATUS - System Status - CPU: 7.0%, Memory: 29.3%, Disk: 96.1%, Network: 8298.74MB sent, 12993.03MB received
+2025-10-12 03:09:58,463 - System Event: SYSTEM_STATUS - System Status - CPU: 4.9%, Memory: 29.3%, Disk: 96.1%, Network: 8298.79MB sent, 12993.09MB received
+2025-10-12 03:10:29,490 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 29.3%, Disk: 96.1%, Network: 8298.82MB sent, 12993.13MB received
+2025-10-12 03:11:00,526 - System Event: SYSTEM_STATUS - System Status - CPU: 9.5%, Memory: 29.3%, Disk: 96.1%, Network: 8298.87MB sent, 12993.19MB received
+2025-10-12 03:11:31,547 - System Event: SYSTEM_STATUS - System Status - CPU: 4.5%, Memory: 29.3%, Disk: 96.1%, Network: 8298.92MB sent, 12993.24MB received
+2025-10-12 03:12:02,586 - System Event: SYSTEM_STATUS - System Status - CPU: 5.9%, Memory: 29.3%, Disk: 96.1%, Network: 8298.98MB sent, 12993.31MB received
+2025-10-12 03:12:33,633 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 29.3%, Disk: 96.1%, Network: 8299.02MB sent, 12993.36MB received
+2025-10-12 03:13:04,654 - System Event: SYSTEM_STATUS - System Status - CPU: 8.7%, Memory: 29.4%, Disk: 96.1%, Network: 8299.08MB sent, 12993.41MB received
+2025-10-12 03:13:35,682 - System Event: SYSTEM_STATUS - System Status - CPU: 5.7%, Memory: 29.3%, Disk: 96.1%, Network: 8299.1MB sent, 12993.45MB received
+2025-10-12 03:14:06,707 - System Event: SYSTEM_STATUS - System Status - CPU: 4.1%, Memory: 29.3%, Disk: 96.1%, Network: 8299.16MB sent, 12993.52MB received
+2025-10-12 03:14:37,736 - System Event: SYSTEM_STATUS - System Status - CPU: 3.5%, Memory: 29.3%, Disk: 96.1%, Network: 8299.26MB sent, 12993.63MB received
+2025-10-12 03:15:08,776 - System Event: SYSTEM_STATUS - System Status - CPU: 4.7%, Memory: 29.3%, Disk: 96.1%, Network: 8299.32MB sent, 12993.69MB received
+2025-10-12 03:15:39,807 - System Event: SYSTEM_STATUS - System Status - CPU: 8.9%, Memory: 29.4%, Disk: 96.1%, Network: 8299.45MB sent, 12994.06MB received
+2025-10-12 03:16:10,829 - System Event: SYSTEM_STATUS - System Status - CPU: 5.3%, Memory: 29.4%, Disk: 96.1%, Network: 8299.51MB sent, 12994.12MB received
+2025-10-12 03:16:41,863 - System Event: SYSTEM_STATUS - System Status - CPU: 3.7%, Memory: 29.3%, Disk: 96.1%, Network: 8299.57MB sent, 12994.21MB received
+2025-10-12 03:17:12,906 - System Event: SYSTEM_STATUS - System Status - CPU: 4.9%, Memory: 29.4%, Disk: 96.1%, Network: 8299.65MB sent, 12994.27MB received
+2025-10-12 03:17:43,937 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 29.3%, Disk: 96.1%, Network: 8299.68MB sent, 12994.31MB received
+2025-10-12 03:18:14,976 - System Event: SYSTEM_STATUS - System Status - CPU: 8.0%, Memory: 29.3%, Disk: 96.1%, Network: 8299.73MB sent, 12994.37MB received
+2025-10-12 03:18:46,006 - System Event: SYSTEM_STATUS - System Status - CPU: 4.9%, Memory: 29.4%, Disk: 96.1%, Network: 8299.78MB sent, 12994.43MB received
+2025-10-12 03:19:17,043 - System Event: SYSTEM_STATUS - System Status - CPU: 4.7%, Memory: 29.3%, Disk: 96.1%, Network: 8299.83MB sent, 12994.49MB received
+2025-10-12 03:19:48,079 - System Event: SYSTEM_STATUS - System Status - CPU: 3.5%, Memory: 29.3%, Disk: 96.1%, Network: 8299.89MB sent, 12994.57MB received
+2025-10-12 03:20:19,099 - System Event: SYSTEM_STATUS - System Status - CPU: 4.5%, Memory: 29.3%, Disk: 96.1%, Network: 8299.94MB sent, 12994.62MB received
+2025-10-12 03:20:50,127 - System Event: SYSTEM_STATUS - System Status - CPU: 8.9%, Memory: 29.3%, Disk: 96.1%, Network: 8300.02MB sent, 12994.72MB received
+2025-10-12 03:21:21,150 - System Event: SYSTEM_STATUS - System Status - CPU: 4.5%, Memory: 29.3%, Disk: 96.1%, Network: 8300.07MB sent, 12994.77MB received
+2025-10-12 03:21:52,183 - System Event: SYSTEM_STATUS - System Status - CPU: 3.5%, Memory: 29.3%, Disk: 96.1%, Network: 8300.13MB sent, 12994.83MB received
+2025-10-12 03:22:23,215 - System Event: SYSTEM_STATUS - System Status - CPU: 4.5%, Memory: 29.2%, Disk: 96.1%, Network: 8300.21MB sent, 12994.92MB received
+2025-10-12 03:22:54,235 - System Event: SYSTEM_STATUS - System Status - CPU: 5.1%, Memory: 29.3%, Disk: 96.1%, Network: 8300.25MB sent, 12994.96MB received
+2025-10-12 03:23:25,255 - System Event: SYSTEM_STATUS - System Status - CPU: 4.9%, Memory: 29.3%, Disk: 96.1%, Network: 8300.3MB sent, 12995.02MB received
+2025-10-12 03:23:56,285 - System Event: SYSTEM_STATUS - System Status - CPU: 4.9%, Memory: 29.2%, Disk: 96.1%, Network: 8300.38MB sent, 12995.1MB received
+2025-10-12 03:24:27,332 - System Event: SYSTEM_STATUS - System Status - CPU: 3.9%, Memory: 29.2%, Disk: 96.1%, Network: 8300.42MB sent, 12995.14MB received
+2025-10-12 03:24:58,366 - System Event: SYSTEM_STATUS - System Status - CPU: 5.1%, Memory: 29.2%, Disk: 96.1%, Network: 8300.47MB sent, 12995.19MB received
+2025-10-12 03:25:29,392 - System Event: SYSTEM_STATUS - System Status - CPU: 4.1%, Memory: 29.2%, Disk: 96.1%, Network: 8300.5MB sent, 12995.23MB received
+2025-10-12 03:26:00,442 - System Event: SYSTEM_STATUS - System Status - CPU: 20.1%, Memory: 29.3%, Disk: 96.1%, Network: 8300.56MB sent, 12995.29MB received
+2025-10-12 03:26:31,479 - System Event: SYSTEM_STATUS - System Status - CPU: 5.1%, Memory: 29.2%, Disk: 96.1%, Network: 8300.59MB sent, 12995.33MB received
+2025-10-12 03:27:02,532 - System Event: SYSTEM_STATUS - System Status - CPU: 4.1%, Memory: 29.3%, Disk: 96.1%, Network: 8300.65MB sent, 12995.39MB received
+2025-10-12 03:27:33,570 - System Event: SYSTEM_STATUS - System Status - CPU: 4.9%, Memory: 29.3%, Disk: 96.1%, Network: 8300.7MB sent, 12995.44MB received
+2025-10-12 03:28:04,600 - System Event: SYSTEM_STATUS - System Status - CPU: 4.6%, Memory: 29.2%, Disk: 96.1%, Network: 8300.75MB sent, 12995.49MB received
+2025-10-12 03:28:35,621 - System Event: SYSTEM_STATUS - System Status - CPU: 3.9%, Memory: 29.2%, Disk: 96.1%, Network: 8300.8MB sent, 12995.54MB received
+2025-10-12 03:29:06,655 - System Event: SYSTEM_STATUS - System Status - CPU: 4.7%, Memory: 29.3%, Disk: 96.1%, Network: 8300.86MB sent, 12995.61MB received
+2025-10-12 03:29:37,677 - System Event: SYSTEM_STATUS - System Status - CPU: 5.0%, Memory: 29.3%, Disk: 96.1%, Network: 8300.96MB sent, 12995.73MB received
+2025-10-12 03:30:08,713 - System Event: SYSTEM_STATUS - System Status - CPU: 7.4%, Memory: 29.2%, Disk: 96.1%, Network: 8301.05MB sent, 12995.82MB received
+2025-10-12 03:30:39,738 - System Event: SYSTEM_STATUS - System Status - CPU: 8.7%, Memory: 29.2%, Disk: 96.1%, Network: 8301.09MB sent, 12995.88MB received
+2025-10-12 03:31:10,760 - System Event: SYSTEM_STATUS - System Status - CPU: 5.4%, Memory: 29.3%, Disk: 96.1%, Network: 8301.14MB sent, 12995.94MB received
+2025-10-12 03:31:41,794 - System Event: SYSTEM_STATUS - System Status - CPU: 6.2%, Memory: 29.3%, Disk: 96.1%, Network: 8301.2MB sent, 12995.99MB received
+2025-10-12 03:32:12,829 - System Event: SYSTEM_STATUS - System Status - CPU: 5.7%, Memory: 29.2%, Disk: 96.1%, Network: 8301.26MB sent, 12996.06MB received
+2025-10-12 03:32:43,867 - System Event: SYSTEM_STATUS - System Status - CPU: 5.3%, Memory: 29.2%, Disk: 96.1%, Network: 8301.3MB sent, 12996.1MB received
+2025-10-12 03:33:14,889 - System Event: SYSTEM_STATUS - System Status - CPU: 7.8%, Memory: 29.3%, Disk: 96.1%, Network: 8301.35MB sent, 12996.15MB received
+2025-10-12 03:33:45,916 - System Event: SYSTEM_STATUS - System Status - CPU: 5.2%, Memory: 29.3%, Disk: 96.1%, Network: 8301.39MB sent, 12996.2MB received
+2025-10-12 03:34:16,944 - System Event: SYSTEM_STATUS - System Status - CPU: 5.1%, Memory: 29.3%, Disk: 96.1%, Network: 8301.44MB sent, 12996.26MB received
+2025-10-12 03:34:47,976 - System Event: SYSTEM_STATUS - System Status - CPU: 5.5%, Memory: 29.3%, Disk: 96.1%, Network: 8301.47MB sent, 12996.3MB received
+2025-10-12 03:35:19,005 - System Event: SYSTEM_STATUS - System Status - CPU: 4.1%, Memory: 29.3%, Disk: 96.1%, Network: 8301.52MB sent, 12996.35MB received
+2025-10-12 03:35:50,025 - System Event: SYSTEM_STATUS - System Status - CPU: 9.3%, Memory: 29.3%, Disk: 96.1%, Network: 8301.57MB sent, 12996.41MB received
+2025-10-12 03:36:21,066 - System Event: SYSTEM_STATUS - System Status - CPU: 4.3%, Memory: 29.2%, Disk: 96.1%, Network: 8301.63MB sent, 12996.47MB received
+2025-10-12 03:36:52,105 - System Event: SYSTEM_STATUS - System Status - CPU: 5.1%, Memory: 29.3%, Disk: 96.1%, Network: 8301.67MB sent, 12996.52MB received
+2025-10-12 03:37:23,138 - System Event: SYSTEM_STATUS - System Status - CPU: 6.0%, Memory: 29.3%, Disk: 96.1%, Network: 8301.75MB sent, 12996.58MB received
+2025-10-12 03:37:54,167 - System Event: SYSTEM_STATUS - System Status - CPU: 4.5%, Memory: 29.3%, Disk: 96.1%, Network: 8301.79MB sent, 12996.62MB received
+2025-10-12 03:38:25,183 - System Event: SYSTEM_STATUS - System Status - CPU: 7.6%, Memory: 29.3%, Disk: 96.1%, Network: 8301.84MB sent, 12996.67MB received
+2025-10-12 03:38:56,212 - System Event: SYSTEM_STATUS - System Status - CPU: 9.4%, Memory: 29.3%, Disk: 96.1%, Network: 8301.92MB sent, 12996.75MB received
+2025-10-12 03:39:27,238 - System Event: SYSTEM_STATUS - System Status - CPU: 11.2%, Memory: 29.4%, Disk: 96.1%, Network: 8301.96MB sent, 12996.8MB received
+2025-10-12 03:39:58,272 - System Event: SYSTEM_STATUS - System Status - CPU: 5.1%, Memory: 29.4%, Disk: 96.1%, Network: 8302.01MB sent, 12996.86MB received
+2025-10-12 03:40:29,313 - System Event: SYSTEM_STATUS - System Status - CPU: 4.1%, Memory: 29.3%, Disk: 96.1%, Network: 8302.07MB sent, 12996.94MB received
+2025-10-12 03:41:00,358 - System Event: SYSTEM_STATUS - System Status - CPU: 25.0%, Memory: 29.3%, Disk: 96.1%, Network: 8302.13MB sent, 12996.99MB received
+2025-10-12 03:41:31,406 - System Event: SYSTEM_STATUS - System Status - CPU: 5.0%, Memory: 29.3%, Disk: 96.1%, Network: 8302.18MB sent, 12997.05MB received
+2025-10-12 03:42:02,430 - System Event: SYSTEM_STATUS - System Status - CPU: 4.5%, Memory: 29.3%, Disk: 96.1%, Network: 8302.23MB sent, 12997.1MB received
+2025-10-12 03:42:33,462 - System Event: SYSTEM_STATUS - System Status - CPU: 17.5%, Memory: 29.4%, Disk: 96.1%, Network: 8302.57MB sent, 12997.28MB received
+2025-10-12 03:43:04,492 - System Event: SYSTEM_STATUS - System Status - CPU: 3.7%, Memory: 29.5%, Disk: 96.1%, Network: 8302.69MB sent, 12997.39MB received
+2025-10-12 03:43:35,516 - System Event: SYSTEM_STATUS - System Status - CPU: 6.3%, Memory: 29.5%, Disk: 96.1%, Network: 8302.75MB sent, 12997.46MB received
+2025-10-12 03:44:06,561 - System Event: SYSTEM_STATUS - System Status - CPU: 3.5%, Memory: 29.4%, Disk: 96.1%, Network: 8302.82MB sent, 12997.53MB received
+2025-10-12 03:44:37,608 - System Event: SYSTEM_STATUS - System Status - CPU: 25.8%, Memory: 29.4%, Disk: 96.1%, Network: 8302.95MB sent, 12997.67MB received
+2025-10-12 03:45:08,631 - System Event: SYSTEM_STATUS - System Status - CPU: 5.6%, Memory: 29.5%, Disk: 96.1%, Network: 8303.01MB sent, 12997.73MB received
+2025-10-12 03:45:39,648 - System Event: SYSTEM_STATUS - System Status - CPU: 6.8%, Memory: 29.5%, Disk: 96.1%, Network: 8303.05MB sent, 12997.79MB received
+2025-10-12 03:46:10,683 - System Event: SYSTEM_STATUS - System Status - CPU: 5.4%, Memory: 29.4%, Disk: 96.1%, Network: 8303.11MB sent, 12997.85MB received
+2025-10-12 03:46:41,717 - System Event: SYSTEM_STATUS - System Status - CPU: 4.3%, Memory: 29.4%, Disk: 96.1%, Network: 8303.15MB sent, 12997.9MB received
+2025-10-12 03:47:12,747 - System Event: SYSTEM_STATUS - System Status - CPU: 4.9%, Memory: 29.6%, Disk: 96.1%, Network: 8303.24MB sent, 12998.07MB received
+2025-10-12 03:47:43,776 - System Event: SYSTEM_STATUS - System Status - CPU: 4.7%, Memory: 29.5%, Disk: 96.1%, Network: 8303.28MB sent, 12998.12MB received
+2025-10-12 03:48:14,825 - System Event: SYSTEM_STATUS - System Status - CPU: 6.4%, Memory: 29.7%, Disk: 96.1%, Network: 8303.37MB sent, 12998.24MB received
+2025-10-12 03:48:45,856 - System Event: SYSTEM_STATUS - System Status - CPU: 5.6%, Memory: 29.7%, Disk: 96.1%, Network: 8303.42MB sent, 12998.3MB received
+2025-10-12 03:49:16,892 - System Event: SYSTEM_STATUS - System Status - CPU: 5.3%, Memory: 29.6%, Disk: 96.1%, Network: 8303.48MB sent, 12998.37MB received
+2025-10-12 03:49:47,946 - System Event: SYSTEM_STATUS - System Status - CPU: 4.9%, Memory: 29.6%, Disk: 96.1%, Network: 8303.53MB sent, 12998.43MB received
+2025-10-12 03:50:18,970 - System Event: SYSTEM_STATUS - System Status - CPU: 4.3%, Memory: 29.4%, Disk: 96.1%, Network: 8303.58MB sent, 12998.49MB received
+2025-10-12 03:50:50,010 - System Event: SYSTEM_STATUS - System Status - CPU: 5.1%, Memory: 29.5%, Disk: 96.1%, Network: 8303.99MB sent, 13000.93MB received
+2025-10-12 03:51:21,031 - System Event: SYSTEM_STATUS - System Status - CPU: 4.5%, Memory: 29.5%, Disk: 96.1%, Network: 8304.04MB sent, 13001.0MB received
+2025-10-12 03:51:52,051 - System Event: SYSTEM_STATUS - System Status - CPU: 6.3%, Memory: 29.5%, Disk: 96.1%, Network: 8304.11MB sent, 13001.07MB received
+2025-10-12 03:52:23,082 - System Event: SYSTEM_STATUS - System Status - CPU: 4.7%, Memory: 29.4%, Disk: 96.1%, Network: 8304.18MB sent, 13001.14MB received
+2025-10-12 03:52:54,124 - System Event: SYSTEM_STATUS - System Status - CPU: 4.9%, Memory: 29.5%, Disk: 96.1%, Network: 8304.24MB sent, 13001.21MB received
+2025-10-12 03:53:25,141 - System Event: SYSTEM_STATUS - System Status - CPU: 6.9%, Memory: 29.5%, Disk: 96.1%, Network: 8304.3MB sent, 13001.28MB received
+2025-10-12 03:53:56,176 - System Event: SYSTEM_STATUS - System Status - CPU: 5.6%, Memory: 29.4%, Disk: 96.1%, Network: 8304.39MB sent, 13001.39MB received
+2025-10-12 03:54:27,205 - System Event: SYSTEM_STATUS - System Status - CPU: 5.1%, Memory: 29.4%, Disk: 96.1%, Network: 8304.45MB sent, 13001.46MB received
+2025-10-12 03:54:58,227 - System Event: SYSTEM_STATUS - System Status - CPU: 4.3%, Memory: 29.5%, Disk: 96.1%, Network: 8304.51MB sent, 13001.52MB received
+2025-10-12 03:55:29,269 - System Event: SYSTEM_STATUS - System Status - CPU: 4.5%, Memory: 29.5%, Disk: 96.1%, Network: 8304.56MB sent, 13001.58MB received
+2025-10-12 03:56:00,313 - System Event: SYSTEM_STATUS - System Status - CPU: 35.3%, Memory: 29.5%, Disk: 96.1%, Network: 8304.65MB sent, 13001.73MB received
+2025-10-12 03:56:31,376 - System Event: SYSTEM_STATUS - System Status - CPU: 12.1%, Memory: 29.4%, Disk: 96.1%, Network: 8304.72MB sent, 13001.79MB received
+2025-10-12 03:57:02,441 - System Event: SYSTEM_STATUS - System Status - CPU: 10.3%, Memory: 29.5%, Disk: 96.1%, Network: 8304.78MB sent, 13001.85MB received
+2025-10-12 03:57:33,505 - System Event: SYSTEM_STATUS - System Status - CPU: 9.2%, Memory: 29.5%, Disk: 96.1%, Network: 8304.84MB sent, 13001.91MB received
+2025-10-12 03:58:04,572 - System Event: SYSTEM_STATUS - System Status - CPU: 9.1%, Memory: 29.3%, Disk: 96.1%, Network: 8304.89MB sent, 13001.96MB received
+2025-10-12 03:58:35,621 - System Event: SYSTEM_STATUS - System Status - CPU: 18.7%, Memory: 29.3%, Disk: 96.1%, Network: 8304.93MB sent, 13002.01MB received
+2025-10-12 03:59:06,685 - System Event: SYSTEM_STATUS - System Status - CPU: 10.5%, Memory: 29.4%, Disk: 96.1%, Network: 8305.0MB sent, 13002.08MB received
+2025-10-12 03:59:37,745 - System Event: SYSTEM_STATUS - System Status - CPU: 8.2%, Memory: 29.4%, Disk: 96.1%, Network: 8305.03MB sent, 13002.12MB received
+2025-10-12 04:00:08,810 - System Event: SYSTEM_STATUS - System Status - CPU: 10.0%, Memory: 29.3%, Disk: 96.1%, Network: 8305.1MB sent, 13002.19MB received
+2025-10-12 04:00:39,863 - System Event: SYSTEM_STATUS - System Status - CPU: 18.3%, Memory: 29.3%, Disk: 96.1%, Network: 8305.13MB sent, 13002.24MB received
+2025-10-12 04:01:10,925 - System Event: SYSTEM_STATUS - System Status - CPU: 10.7%, Memory: 29.4%, Disk: 96.1%, Network: 8305.19MB sent, 13002.3MB received
+2025-10-12 04:01:41,984 - System Event: SYSTEM_STATUS - System Status - CPU: 10.0%, Memory: 29.3%, Disk: 96.1%, Network: 8305.24MB sent, 13002.35MB received
+2025-10-12 04:02:13,057 - System Event: SYSTEM_STATUS - System Status - CPU: 12.7%, Memory: 29.3%, Disk: 96.1%, Network: 8305.29MB sent, 13002.41MB received
+2025-10-12 04:02:44,110 - System Event: SYSTEM_STATUS - System Status - CPU: 10.3%, Memory: 29.3%, Disk: 96.1%, Network: 8305.33MB sent, 13002.45MB received
+2025-10-12 04:03:15,163 - System Event: SYSTEM_STATUS - System Status - CPU: 19.1%, Memory: 29.3%, Disk: 96.1%, Network: 8305.38MB sent, 13002.51MB received
+2025-10-12 04:03:46,225 - System Event: SYSTEM_STATUS - System Status - CPU: 10.0%, Memory: 29.3%, Disk: 96.1%, Network: 8305.42MB sent, 13002.56MB received
+2025-10-12 04:04:17,287 - System Event: SYSTEM_STATUS - System Status - CPU: 11.1%, Memory: 29.3%, Disk: 96.1%, Network: 8305.47MB sent, 13002.62MB received
+2025-10-12 04:04:48,353 - System Event: SYSTEM_STATUS - System Status - CPU: 14.5%, Memory: 29.4%, Disk: 96.1%, Network: 8305.53MB sent, 13002.67MB received
+2025-10-12 04:05:19,402 - System Event: SYSTEM_STATUS - System Status - CPU: 10.4%, Memory: 29.3%, Disk: 96.1%, Network: 8305.61MB sent, 13002.74MB received
+2025-10-12 04:05:50,462 - System Event: SYSTEM_STATUS - System Status - CPU: 21.5%, Memory: 29.3%, Disk: 96.1%, Network: 8305.66MB sent, 13002.8MB received
+2025-10-12 04:06:21,526 - System Event: SYSTEM_STATUS - System Status - CPU: 10.6%, Memory: 29.3%, Disk: 96.1%, Network: 8305.73MB sent, 13002.87MB received
+2025-10-12 04:06:52,588 - System Event: SYSTEM_STATUS - System Status - CPU: 9.6%, Memory: 29.3%, Disk: 96.1%, Network: 8305.79MB sent, 13002.93MB received
+2025-10-12 04:07:23,648 - System Event: SYSTEM_STATUS - System Status - CPU: 11.0%, Memory: 29.3%, Disk: 96.1%, Network: 8305.87MB sent, 13003.0MB received
+2025-10-12 04:07:54,701 - System Event: SYSTEM_STATUS - System Status - CPU: 10.3%, Memory: 29.3%, Disk: 96.1%, Network: 8305.91MB sent, 13003.05MB received
+2025-10-12 04:08:25,752 - System Event: SYSTEM_STATUS - System Status - CPU: 15.4%, Memory: 29.3%, Disk: 96.1%, Network: 8305.96MB sent, 13003.1MB received
+2025-10-12 04:08:56,815 - System Event: SYSTEM_STATUS - System Status - CPU: 12.2%, Memory: 29.3%, Disk: 96.1%, Network: 8306.04MB sent, 13003.18MB received
+2025-10-12 04:09:27,876 - System Event: SYSTEM_STATUS - System Status - CPU: 10.4%, Memory: 29.3%, Disk: 96.1%, Network: 8306.09MB sent, 13003.23MB received
+2025-10-12 04:09:58,969 - System Event: SYSTEM_STATUS - System Status - CPU: 9.8%, Memory: 29.3%, Disk: 96.1%, Network: 8306.14MB sent, 13003.29MB received
+2025-10-12 22:02:58,634 - System Event: SYSTEM_STATUS - System Status - CPU: 0.4%, Memory: 28.3%, Disk: 96.1%, Network: 5880.86MB sent, 8992.37MB received
+2025-10-12 22:03:29,654 - System Event: SYSTEM_STATUS - System Status - CPU: 16.8%, Memory: 27.8%, Disk: 96.1%, Network: 5880.87MB sent, 8992.39MB received
+2025-10-12 22:04:00,670 - System Event: SYSTEM_STATUS - System Status - CPU: 16.0%, Memory: 27.2%, Disk: 96.1%, Network: 5880.87MB sent, 8992.4MB received
+2025-10-12 22:04:31,689 - System Event: SYSTEM_STATUS - System Status - CPU: 0.4%, Memory: 26.8%, Disk: 96.1%, Network: 5880.88MB sent, 8992.41MB received
+2025-10-12 22:05:02,708 - System Event: SYSTEM_STATUS - System Status - CPU: 0.8%, Memory: 26.9%, Disk: 96.1%, Network: 5880.89MB sent, 8992.42MB received
+2025-10-12 22:05:33,729 - System Event: SYSTEM_STATUS - System Status - CPU: 0.8%, Memory: 26.6%, Disk: 96.1%, Network: 5880.89MB sent, 8992.43MB received

@@ -1,0 +1,5 @@
+2025-08-09 00:07:34,909 - Using David's voice: Microsoft David Desktop - English (United States)
+2025-08-09 00:07:34,910 - Text-to-speech engine initialized with optimized audio output
+2025-08-09 01:14:43,571 - Removed startup shortcut
+2025-08-09 01:14:43,572 - Creating startup shortcut: C:\Users\rehma\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\JARVIS Assistant.lnk
+2025-08-09 01:14:43,605 - Added to Windows startup via shortcut

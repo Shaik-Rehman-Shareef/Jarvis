@@ -1,0 +1,2 @@
+2025-08-03 23:53:00,928 - ERROR - Failed to add to startup: (-2147024809, 'The parameter is incorrect.', None, None)
+2025-08-03 23:59:59,460 - ERROR - Failed to add to startup: (-2147024809, 'The parameter is incorrect.', None, None)
