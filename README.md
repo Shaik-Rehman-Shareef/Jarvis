@@ -1,17 +1,17 @@
 # JARVIS Desktop Assistant
 
-A Windows-based background desktop assistant that behaves like a personal JARVIS, built with Python and completely offline.
+A Windows-based background desktop assistant that behaves like a personal JARVIS, built with Python and completely offline.(Still under dev)
 
 ## Features
 
-✅ **System Tray Operation**: Runs hidden in system tray, invisible during screen sharing
-✅ **Offline Voice Recognition**: Uses Vosk for local speech recognition
-✅ **Hotword Detection**: Activates with "Jarvis" command
-✅ **Natural Language Commands**: Accepts voice commands for various tasks
-✅ **System Integration**: Opens apps, websites, takes photos, sends emails
-✅ **Activity Monitoring**: Logs user activity and system events
-✅ **Automatic Startup**: Launches with Windows
-✅ **100% Free & Open Source**: No cloud dependencies
+ **System Tray Operation**: Runs hidden in system tray, invisible during screen sharing
+ **Offline Voice Recognition**: Uses Vosk for local speech recognition
+ **Hotword Detection**: Activates with "Jarvis" command
+ **Natural Language Commands**: Accepts voice commands for various tasks
+ **System Integration**: Opens apps, websites, takes photos, sends emails
+ **Activity Monitoring**: Logs user activity and system events
+ **Automatic Startup**: Launches with Windows
+ **100% Free & Open Source**: No cloud dependencies
 
 ## Prerequisites
 
